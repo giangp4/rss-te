@@ -1,0 +1,43 @@
+name: daily feed
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # 06:17 UTC every day
+  workflow_dispatch:        # "Run workflow" button for manual runs
+
+permissions:
+  contents: write   # commit data/items.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - name: Build feed
+        env:
+          FEED_SECRET: ${{ secrets.FEED_SECRET }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          test -n "$FEED_SECRET" || { echo "FEED_SECRET secret is missing"; exit 1; }
+          uv run ersr build
+      - name: Commit history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/items.json
+          git diff --cached --quiet || git commit -m "Update items $(date -u +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4

@@ -1,0 +1,2402 @@
+[
+  {
+    "guid": "8ca94bf9-022d-4267-8088-c969e3f258ec",
+    "title": "Schrödinger’s chat: will AI take over science?",
+    "link": "https://www.economist.com/podcasts/2026/10/16/schrodingers-chat-will-ai-take-over-science",
+    "pubdate": "Fri, 16 Oct 2026 10:59:50 +0000",
+    "description": "Also on the daily podcast: snacks get crunchier and remembering writer Annie Dillard",
+    "section": "podcasts"
+  },
+  {
+    "guid": "6470e9cb-14b4-404a-a766-f54ac2a87257",
+    "title": "What to watch this week",
+    "link": "https://www.economist.com/culture/2026/10/15/what-to-watch-this-week",
+    "pubdate": "Thu, 15 Oct 2026 17:21:27 +0000",
+    "description": "The most captivating new documentaries",
+    "section": "culture"
+  },
+  {
+    "guid": "429213ca-a6ad-4e64-8820-5a8882658290",
+    "title": "A Nobel-winning economics lesson",
+    "link": "https://www.economist.com/podcasts/2026/10/15/a-nobel-winning-economics-lesson",
+    "pubdate": "Thu, 15 Oct 2026 16:16:12 +0000",
+    "description": "Our podcast on markets, the economy and business. This week, an interview with Michael Woodford",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b577c699-e3df-4020-8b9b-f636bc966891",
+    "title": "Economic data, commodities and markets",
+    "link": "https://www.economist.com/economic-and-financial-indicators/2026/10/15/economic-data-commodities-and-markets",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "",
+    "section": "economic-and-financial-indicators"
+  },
+  {
+    "guid": "f2ec4f68-868c-4783-8315-b2698b9c8adc",
+    "title": "Annie Dillard wanted to know the mind of God",
+    "link": "https://www.economist.com/obituary/2026/10/15/annie-dillard-wanted-to-know-the-mind-of-god",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "The nature writer and “theologian” died on September 15th, aged 81",
+    "section": "obituary"
+  },
+  {
+    "guid": "f9ef1524-6c87-4d7f-919f-a80352b3204a",
+    "title": "How erectile dysfunction led a KGB spy into the arms of MI6",
+    "link": "https://www.economist.com/culture/2026/10/15/how-erectile-dysfunction-led-a-kgb-spy-into-the-arms-of-mi6",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "In “Redwood” Ben Macintyre shows how personal struggles help recruit informants",
+    "section": "culture"
+  },
+  {
+    "guid": "a805ed36-1e3e-43ff-80a3-6398101bbf2e",
+    "title": "When AI agents take matters into their own hands",
+    "link": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Inside the Annapurna incident",
+    "section": "business"
+  },
+  {
+    "guid": "90dc1ec7-46b5-44ca-99c7-75535a5ff40b",
+    "title": "AI neolabs are raising huge sums. Most have little to show for it",
+    "link": "https://www.economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Superstar researchers who branch out on their own need to start producing results",
+    "section": "business"
+  },
+  {
+    "guid": "1928a67d-5a96-4dc2-a454-b6869cc58d5a",
+    "title": "SpaceX’s Starlink expansion is a bold gamble on the future",
+    "link": "https://www.economist.com/business/2026/10/15/spacexs-starlink-expansion-is-a-bold-gamble-on-the-future",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Elon Musk is betting that robotics will dramatically increase demand for connectivity",
+    "section": "business"
+  },
+  {
+    "guid": "a4576779-1f57-4a73-af72-5cc6f1b156ec",
+    "title": "China has captured the market for hobbyist 3D printers",
+    "link": "https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Amid Western wariness, it is struggling to do the same with high-end machines",
+    "section": "china"
+  },
+  {
+    "guid": "426d58a0-c544-4b7e-b493-c8372d701bdf",
+    "title": "China is channelling much more money to poor countries",
+    "link": "https://www.economist.com/china/2026/10/15/china-is-channelling-much-more-money-to-poor-countries",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "It wants a greater say in organisations that hand it out",
+    "section": "china"
+  },
+  {
+    "guid": "01d2f3fc-4a99-457a-a0fd-e00a321e5ec8",
+    "title": "Two Japanese towns offer lessons for shrinking countries",
+    "link": "https://www.economist.com/asia/2026/10/15/two-japanese-towns-offer-lessons-for-shrinking-countries",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Only some places can hope to grow; others must learn to manage decline",
+    "section": "asia"
+  },
+  {
+    "guid": "49bff9a3-93db-4c13-bd4b-0a1ee19f7320",
+    "title": "Myanmar’s dictator tries diplomacy",
+    "link": "https://www.economist.com/asia/2026/10/15/myanmars-dictator-tries-diplomacy",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "He has a few cards to play",
+    "section": "asia"
+  },
+  {
+    "guid": "5ca9f624-7b93-4121-9124-929b09aa861d",
+    "title": "Why do political prisoners still languish in Venezuela’s jails?",
+    "link": "https://www.economist.com/the-americas/2026/10/15/why-do-political-prisoners-still-languish-in-venezuelas-jails",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "America may see value in permitting it",
+    "section": "the-americas"
+  },
+  {
+    "guid": "bc55c687-a088-4d3a-b44b-c497c3445b1e",
+    "title": "Brazil’s gambling wars are only just beginning",
+    "link": "https://www.economist.com/the-americas/2026/10/15/brazils-gambling-wars-are-only-just-beginning",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "A country that loves to wager is wrestling with the cost",
+    "section": "the-americas"
+  },
+  {
+    "guid": "c5e0db70-05fa-4d04-8133-544eb1fd625c",
+    "title": "Entrepreneurs in Cuba are snapping up American fuels",
+    "link": "https://www.economist.com/the-americas/2026/10/15/entrepreneurs-in-cuba-are-snapping-up-american-fuels",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Donald Trump’s blockade of the island is starting to have curious effects",
+    "section": "the-americas"
+  },
+  {
+    "guid": "68c74c13-1929-47c7-ad6b-22e973f402f8",
+    "title": "How to make African exports ethical again",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/how-to-make-african-exports-ethical-again",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "The continent must reckon with a punishing green squeeze",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "0f088152-e880-45b7-b6ff-78ad39a35dbf",
+    "title": "Gen-Z Kenyans could determine William Ruto’s future",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/gen-z-kenyans-could-determine-william-rutos-future",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Young activists hope to deny the unpopular president a second term next year",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "13259402-a77d-42a9-aa6b-10b5dc622000",
+    "title": "The expat voters who could help unseat Netanyahu",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/the-expat-voters-who-could-help-unseat-netanyahu",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Large numbers of Israelis abroad are flying home to vote, many with an axe to grind",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "abc09748-5667-421f-9738-425831effdd8",
+    "title": "Israel’s Arab parties could be the kingmakers in its election",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/israels-arab-parties-could-be-the-kingmakers-in-its-election",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "They are eager to change the government",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "28a60be3-7b1a-4a13-8edb-13e1561c14ee",
+    "title": "Republicans need to learn the Democrats’ bitter lesson of 2022",
+    "link": "https://www.economist.com/united-states/2026/10/15/republicans-need-to-learn-the-democrats-bitter-lesson-of-2022",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Even if they beat expectations in the midterms, their standard-bearer is an obstacle to their future",
+    "section": "united-states"
+  },
+  {
+    "guid": "fc324d86-82e9-4cdf-abba-160080c12cc6",
+    "title": "Donald Trump turns to Vladimir Putin for relief at the pump",
+    "link": "https://www.economist.com/united-states/2026/10/15/donald-trump-turns-to-vladimir-putin-for-relief-at-the-pump",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "But Russian diesel is unlikely to solve the president’s political problems",
+    "section": "united-states"
+  },
+  {
+    "guid": "9f085205-dd03-4047-a5da-312c19a665a4",
+    "title": "The impact of data-centre discontent",
+    "link": "https://www.economist.com/united-states/2026/10/15/the-impact-of-data-centre-discontent",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Democrats are capitalising on voters’ anxiety",
+    "section": "united-states"
+  },
+  {
+    "guid": "901926f2-a39a-49a8-8e64-369303ae7eb3",
+    "title": "Europe has lots of pleasant cities but too few that matter",
+    "link": "https://www.economist.com/europe/2026/10/15/europe-has-lots-of-pleasant-cities-but-too-few-that-matter",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "A tale of too many cities",
+    "section": "europe"
+  },
+  {
+    "guid": "2df757d5-c827-41a8-bcd2-6d38702011ae",
+    "title": "Portugal has limited immigration, and Spain may follow",
+    "link": "https://www.economist.com/europe/2026/10/15/portugal-has-limited-immigration-and-spain-may-follow",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "The wave of immigrants in both countries looks politically unsustainable",
+    "section": "europe"
+  },
+  {
+    "guid": "31b8523d-eeb5-404c-bca0-35c95c1b49c7",
+    "title": "How suicide became a lobbying tool",
+    "link": "https://www.economist.com/britain/2026/10/15/how-suicide-became-a-lobbying-tool",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Public policy is increasingly dictated by tragedy",
+    "section": "britain"
+  },
+  {
+    "guid": "aa2ef7b2-b3a5-4770-9f0e-59e15764e58b",
+    "title": "The City of London honours an ancient pact",
+    "link": "https://www.economist.com/britain/2026/10/15/the-city-of-london-honours-an-ancient-pact",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Meet the world’s most elaborate rent payment",
+    "section": "britain"
+  },
+  {
+    "guid": "2651e7ee-0139-4dc2-8960-354bf63af6ba",
+    "title": "Israel and Britain have forestalled a diplomatic crisis—for now",
+    "link": "https://www.economist.com/britain/2026/10/15/israel-and-britain-have-forestalled-a-diplomatic-crisis-for-now",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "But a once-special relationship is faltering",
+    "section": "britain"
+  },
+  {
+    "guid": "c3c51722-8644-4547-b79b-dcdc97329f37",
+    "title": "Attack drones, meet Britain’s crack clay-pigeon shooters",
+    "link": "https://www.economist.com/britain/2026/10/15/attack-drones-meet-britains-crack-clay-pigeon-shooters",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "An old hobby trains soldiers for a new type of warfare",
+    "section": "britain"
+  },
+  {
+    "guid": "ace72964-af10-4eb5-9501-83bd2e928b3d",
+    "title": "Britain’s new Dad’s Army",
+    "link": "https://www.economist.com/britain/2026/10/15/britains-new-dads-army",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "The government wants its citizens to prepare for crises",
+    "section": "britain"
+  },
+  {
+    "guid": "320a924e-c72b-4fcc-97f6-2aee241700ed",
+    "title": "Urban myths about populism",
+    "link": "https://www.economist.com/letters/2026/10/15/urban-myths-about-populism",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "Also this week, fentanyl, Britain before Thatcher, sleep deprivation, Singapore, mistakes at AI labs",
+    "section": "letters"
+  },
+  {
+    "guid": "d3fb9adf-9e83-47fd-86be-e4d5f70dfdb1",
+    "title": "America makes waves in Cuba",
+    "link": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "But it shouldn’t undermine the growth of the island’s private sector",
+    "section": "leaders"
+  },
+  {
+    "guid": "58eadc19-1b1b-4a77-bf28-bfe8cc1a284b",
+    "title": "Cartoon: AI tsunami",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/15/cartoon-ai-tsunami",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "A lighter take on the news",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "7c5dc31b-4243-48a1-9e5b-a83ea7ed14bd",
+    "title": "Politics",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/15/politics",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "d32991ed-d7a0-455f-8522-6e229b135dc6",
+    "title": "Business",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/15/business",
+    "pubdate": "Thu, 15 Oct 2026 12:50:21 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "3b1cb5b8-b2d1-46cd-b539-ce46ca83c9a3",
+    "title": "How to survive a predatory world order",
+    "link": "https://www.economist.com/international/2026/10/15/how-to-survive-a-predatory-world-order",
+    "pubdate": "Thu, 15 Oct 2026 10:52:13 +0000",
+    "description": "Middle powers face a new threat: Trump-Putin-Xi collusion",
+    "section": "international"
+  },
+  {
+    "guid": "0db67d3e-fdad-4de7-bd06-71c5bdd88ca1",
+    "title": "Who wants to be a millennial? Generation comeback",
+    "link": "https://www.economist.com/podcasts/2026/10/15/who-wants-to-be-a-millennial-generation-comeback",
+    "pubdate": "Thu, 15 Oct 2026 10:43:28 +0000",
+    "description": "Also on the daily podcast: AI is shaping Israel’s election and tongue-scraping",
+    "section": "podcasts"
+  },
+  {
+    "guid": "e82a99c0-ff18-4744-b574-572e0726484b",
+    "title": "What if the machines take over science?",
+    "link": "https://www.economist.com/leaders/2026/10/15/what-if-the-machines-take-over-science",
+    "pubdate": "Thu, 15 Oct 2026 10:27:17 +0000",
+    "description": "Artificial intelligence will require scholars to reinvent their disciplines",
+    "section": "leaders"
+  },
+  {
+    "guid": "9ee707a4-843c-43a8-9cf0-2031a2bdfee2",
+    "title": "Mark Carney shows middle powers how to handle a dangerous world",
+    "link": "https://www.economist.com/leaders/2026/10/15/mark-carney-shows-middle-powers-how-to-handle-a-dangerous-world",
+    "pubdate": "Thu, 15 Oct 2026 10:13:29 +0000",
+    "description": "Canada is standing up to a bullying America",
+    "section": "leaders"
+  },
+  {
+    "guid": "18048357-dd80-4cc6-adc8-415785633152",
+    "title": "Donald Trump may save Canada",
+    "link": "https://www.economist.com/briefing/2026/10/15/donald-trump-may-save-canada",
+    "pubdate": "Thu, 15 Oct 2026 10:13:14 +0000",
+    "description": "Can America’s bullying goad its northern neighbour out of its complacency?",
+    "section": "briefing"
+  },
+  {
+    "guid": "b3544073-ba4a-4df6-b4a7-c8311c48321c",
+    "title": "How Ukraine’s biggest bank is run in a war zone",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
+    "pubdate": "Thu, 15 Oct 2026 09:34:30 +0000",
+    "description": "PrivatBank is a case study in adaptation",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "491241bc-f99f-466b-bd4e-718ce8a40c27",
+    "title": "A shortage of sulphur could hurt mines and farms everywhere",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
+    "pubdate": "Thu, 15 Oct 2026 09:32:42 +0000",
+    "description": "Another commodity shock from the Iran war",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "23fa23fe-c6ad-461a-ae2d-ceae93561b60",
+    "title": "Millennials’ success deserves a toast (not the avocado sort)",
+    "link": "https://www.economist.com/leaders/2026/10/15/millennials-success-deserves-a-toast-not-the-avocado-sort",
+    "pubdate": "Thu, 15 Oct 2026 09:30:25 +0000",
+    "description": "How a “lost generation” found itself",
+    "section": "leaders"
+  },
+  {
+    "guid": "9dbbac10-2aef-4934-8796-ac4f6c9b1aab",
+    "title": "Lessons from Britain’s humiliating IMF bail-out",
+    "link": "https://www.economist.com/britain/2026/10/15/lessons-from-britains-humiliating-imf-bail-out",
+    "pubdate": "Thu, 15 Oct 2026 09:21:31 +0000",
+    "description": "Fifty years on, a fiscal crisis would play out very differently",
+    "section": "britain"
+  },
+  {
+    "guid": "594b8fcb-5ccf-46d0-a25b-6d20f50ec3d8",
+    "title": "Squeeze into those skinny jeans: millennial culture is back",
+    "link": "https://www.economist.com/culture/2026/10/15/squeeze-into-those-skinny-jeans-millennial-culture-is-back",
+    "pubdate": "Thu, 15 Oct 2026 09:19:34 +0000",
+    "description": "A tech-powered 2000s revival represents the biggest nostalgia boom yet",
+    "section": "culture"
+  },
+  {
+    "guid": "c05eb21d-afab-47f4-96df-64eeb5774f99",
+    "title": "Is the semiconductor industry headed for an almighty crash?",
+    "link": "https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash",
+    "pubdate": "Thu, 15 Oct 2026 09:04:50 +0000",
+    "description": "There are reasons to believe a bust, if it comes, will be less vertiginous than the boom",
+    "section": "business"
+  },
+  {
+    "guid": "fb6dde10-b803-4830-b8b9-2f21a24575d1",
+    "title": "Alice Weidel would pull the plug on German support for Ukraine",
+    "link": "https://www.economist.com/europe/2026/10/15/alice-weidel-would-pull-the-plug-on-german-support-for-ukraine",
+    "pubdate": "Thu, 15 Oct 2026 08:32:20 +0000",
+    "description": "The populist-right politician says Ukraine has “already lost” against Russia and should sue for peace",
+    "section": "europe"
+  },
+  {
+    "guid": "62adbfee-82e1-4f4d-8d6d-c82221a4328b",
+    "title": "How tech moguls built a podcasting echo chamber",
+    "link": "https://www.economist.com/podcasts/2026/10/15/how-tech-moguls-built-a-podcasting-echo-chamber",
+    "pubdate": "Thu, 15 Oct 2026 08:19:19 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "5a4e959b-cd70-4745-872f-bb183955ee35",
+    "title": "The AI boom is threatened by an epidemic of unreliable numbers",
+    "link": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
+    "pubdate": "Wed, 14 Oct 2026 21:19:50 +0000",
+    "description": "Investors can no longer put their trust in data",
+    "section": "business"
+  },
+  {
+    "guid": "623c28ca-697b-413d-92a9-f186759681cd",
+    "title": "Donald Trump is squeezing Ukraine’s military lifeline",
+    "link": "https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline",
+    "pubdate": "Wed, 14 Oct 2026 18:58:08 +0000",
+    "description": "To protect his Russian diesel deal, he appears to be withholding vital military intelligence",
+    "section": "europe"
+  },
+  {
+    "guid": "8b110742-cdb8-4c7c-92c6-7c22fa31fe96",
+    "title": "Could AI help scientists with their paperwork?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork",
+    "pubdate": "Wed, 14 Oct 2026 18:48:48 +0000",
+    "description": "Yes—but that amplifies existing problems",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "644b489d-20c3-4b5d-9e30-fe49df1bd5d3",
+    "title": "AI will make it possible to design and build organisms from scratch",
+    "link": "https://www.economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch",
+    "pubdate": "Wed, 14 Oct 2026 18:47:25 +0000",
+    "description": "Synthetic biology has arrived at last",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "da2b402b-e799-4c13-98b7-7247c33dcc82",
+    "title": "AI companies want to become frontier scientific researchers",
+    "link": "https://www.economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers",
+    "pubdate": "Wed, 14 Oct 2026 18:45:42 +0000",
+    "description": "Better AI models may be their reward",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "acf97744-b5d5-4f97-bcd3-53007d7102e7",
+    "title": "With Elizabeth Holmes, can you ever really see everything?",
+    "link": "https://www.economist.com/culture/2026/10/14/with-elizabeth-holmes-can-you-ever-really-see-everything",
+    "pubdate": "Wed, 14 Oct 2026 18:15:24 +0000",
+    "description": "A riveting new documentary, “You Can See Everything”, is Shakespearean in ambition and nuance",
+    "section": "culture"
+  },
+  {
+    "guid": "dfbbf3bd-6bfc-4569-966f-ad2f8be84b4a",
+    "title": "Hardly his finest hour",
+    "link": "https://www.economist.com/leaders/2026/10/14/hardly-his-finest-hour",
+    "pubdate": "Wed, 14 Oct 2026 17:58:49 +0000",
+    "description": "Donald Trump’s scheme to secure Russian diesel is scandalous",
+    "section": "leaders"
+  },
+  {
+    "guid": "aa123eaf-efac-49cf-9096-55ecc62e7390",
+    "title": "Another warning sign for China’s economy: falling consumer credit",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+    "pubdate": "Wed, 14 Oct 2026 17:52:55 +0000",
+    "description": "A crackdown on aggressive debt collectors is good news and bad news",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "76a2f172-8db8-47b3-9290-a9b3918841c6",
+    "title": "Can Asian governments prevent a food shock?",
+    "link": "https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock",
+    "pubdate": "Wed, 14 Oct 2026 16:21:34 +0000",
+    "description": "El Niño is hitting countries that are already dealing with an energy shock",
+    "section": "asia"
+  },
+  {
+    "guid": "0c88a971-ec5b-4880-bc5a-146c9dffa766",
+    "title": "Andrew Ng on the delusion of AI doom",
+    "link": "https://www.economist.com/podcasts/2026/10/14/andrew-ng-on-the-delusion-of-ai-doom",
+    "pubdate": "Wed, 14 Oct 2026 14:30:19 +0000",
+    "description": "Our podcast on science and technology. This week, one of the architects of modern AI dismisses fears of an apocalypse",
+    "section": "podcasts"
+  },
+  {
+    "guid": "c4b98681-9581-447e-b800-e1b81b7ab8bb",
+    "title": "Vivek Ramaswamy is too MAGA and not MAGA enough",
+    "link": "https://www.economist.com/united-states/2026/10/14/vivek-ramaswamy-is-too-maga-and-not-maga-enough",
+    "pubdate": "Wed, 14 Oct 2026 13:27:26 +0000",
+    "description": "A candidate once considered a rising star gets stuck in Ohio",
+    "section": "united-states"
+  },
+  {
+    "guid": "d8d194e2-c0de-4395-b75f-243fa410712b",
+    "title": "European museums are seeing a spike in high-value art theft",
+    "link": "https://www.economist.com/europe/2026/10/14/european-museums-are-seeing-a-spike-in-high-value-art-theft",
+    "pubdate": "Wed, 14 Oct 2026 12:57:32 +0000",
+    "description": "Forget cat burglars. Today’s thieves smash, grab and run",
+    "section": "europe"
+  },
+  {
+    "guid": "b0080de6-2709-4ffa-b864-69090cda1c4d",
+    "title": "Kicking Kyiv: Trump’s doubtful deals",
+    "link": "https://www.economist.com/podcasts/2026/10/14/kicking-kyiv-trumps-doubtful-deals",
+    "pubdate": "Wed, 14 Oct 2026 10:48:41 +0000",
+    "description": "Also on the daily podcast: India’s defiant Cockroach party and time to start singing",
+    "section": "podcasts"
+  },
+  {
+    "guid": "1c8296cb-0d3b-49c3-a91a-9f3995dd0d95",
+    "title": "Israel’s election overseer on how to stop AI distorting votes",
+    "link": "https://www.economist.com/by-invitation/2026/10/14/israels-election-overseer-on-how-to-stop-ai-distorting-votes",
+    "pubdate": "Wed, 14 Oct 2026 10:20:42 +0000",
+    "description": "Chatbots can help inform citizens but should not be allowed to make choices for them, says Dean Livne",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "019ff9b9-a8f3-4b5a-b1fe-d1acac2d6cd5",
+    "title": "Kemi Badenoch tries to unite Britain’s right",
+    "link": "https://www.economist.com/podcasts/2026/10/14/kemi-badenoch-tries-to-unite-britains-right",
+    "pubdate": "Wed, 14 Oct 2026 08:37:03 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "ccf915f2-aae8-422c-a1cf-78eb0e61d825",
+    "title": "Elon Musk's foundation is opaque, miserly and self-serving",
+    "link": "https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving",
+    "pubdate": "Tue, 13 Oct 2026 20:38:10 +0000",
+    "description": "The world’s richest man disdains charity. His money is where his mouth is",
+    "section": "business"
+  },
+  {
+    "guid": "817d879a-4f79-45d6-8684-04111a868ca0",
+    "title": "Middle East Dispatch: Flying through the Gulf is complicated",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/13/middle-east-dispatch-flying-through-the-gulf-is-complicated",
+    "pubdate": "Tue, 13 Oct 2026 18:47:30 +0000",
+    "description": "Gregg Carlstrom, our Middle East correspondent, looks at how war has affected aviation in the region",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "c8517629-8547-4456-aa4b-d357b4472b0e",
+    "title": "What’s behind the big interest in miniatures?",
+    "link": "https://www.economist.com/culture/2026/10/13/whats-behind-the-big-interest-in-miniatures",
+    "pubdate": "Tue, 13 Oct 2026 17:44:33 +0000",
+    "description": "Nostalgia and a desire for control are fuelling a boom in small things",
+    "section": "culture"
+  },
+  {
+    "guid": "717b47df-2eea-45d5-9e3d-ad6ccc66b403",
+    "title": "Blighty newsletter: England’s new spirit animals",
+    "link": "https://www.economist.com/britain/2026/10/13/blighty-newsletter-englands-new-spirit-animals",
+    "pubdate": "Tue, 13 Oct 2026 17:41:40 +0000",
+    "description": "Banknotes reveal something about British identity, writes Hugo Gye, our Britain political correspondent",
+    "section": "britain"
+  },
+  {
+    "guid": "ff9c1d3d-5c56-4335-ae33-9ad9b65e9d9b",
+    "title": "India’s government fails to crush Gen Z protests",
+    "link": "https://www.economist.com/asia/2026/10/13/indias-government-fails-to-crush-gen-z-protests",
+    "pubdate": "Tue, 13 Oct 2026 17:09:32 +0000",
+    "description": "The leader of the Cockroach party is detained and the internet shut down",
+    "section": "asia"
+  },
+  {
+    "guid": "961ed3c8-8af3-4e06-a127-94da8bb233e9",
+    "title": "How to lose money betting against Europe",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
+    "pubdate": "Tue, 13 Oct 2026 17:01:13 +0000",
+    "description": "In a sovereign-debt crisis, even understanding politics may not be enough",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "ecf3e870-5d17-4985-ae89-3a6e84351572",
+    "title": "The century’s big idea",
+    "link": "https://www.economist.com/letters/2026/10/13/the-centurys-big-idea",
+    "pubdate": "Tue, 13 Oct 2026 16:39:48 +0000",
+    "description": "Arguments for and against effective altruism",
+    "section": "letters"
+  },
+  {
+    "guid": "e25f740a-daf9-42d2-8826-984374d8adf4",
+    "title": "America’s election officials are ready for trouble",
+    "link": "https://www.economist.com/united-states/2026/10/13/americas-election-officials-are-ready-for-trouble",
+    "pubdate": "Tue, 13 Oct 2026 16:24:01 +0000",
+    "description": "Donald Trump has failed to change voting rules. Cities and states are preparing for mischief anyway",
+    "section": "united-states"
+  },
+  {
+    "guid": "6538ae39-f3f1-4910-9815-f4461938f643",
+    "title": "Analysing Africa newsletter: A Nobel and ignoble day for the rule of law",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/13/analysing-africa-newsletter-a-nobel-and-ignoble-day-for-the-rule-of-law",
+    "pubdate": "Tue, 13 Oct 2026 16:02:37 +0000",
+    "description": "Friday in South Africa brought a gobsmacking juxtaposition, writes John McDermott, our Chief Africa correspondent",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "cd9b2a5e-a5d4-481f-8230-7f2fa81571d7",
+    "title": "China is turning trash into treasure on a vast scale",
+    "link": "https://www.economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale",
+    "pubdate": "Tue, 13 Oct 2026 15:48:42 +0000",
+    "description": "EV batteries, especially, will help it secure supplies of critical minerals",
+    "section": "china"
+  },
+  {
+    "guid": "f8c1f915-743a-4767-acd9-eb4f4d8e8fae",
+    "title": "China’s rising political stars",
+    "link": "https://www.economist.com/podcasts/2026/10/13/chinas-rising-political-stars",
+    "pubdate": "Tue, 13 Oct 2026 15:45:08 +0000",
+    "description": "Our weekly podcast on China. This week, what makes the seventh generation of Communist Party leaders different—and how could they shape the country?",
+    "section": "podcasts"
+  },
+  {
+    "guid": "7848f032-c8c1-4798-b67c-6c2b3966cdfb",
+    "title": "Unrest in peace: misery in Gaza",
+    "link": "https://www.economist.com/podcasts/2026/10/13/unrest-in-peace-misery-in-gaza",
+    "pubdate": "Tue, 13 Oct 2026 10:17:03 +0000",
+    "description": "Also on the daily podcast: discord over AI music and Japan’s matcha farmers",
+    "section": "podcasts"
+  },
+  {
+    "guid": "539440b7-5d02-4864-8d8c-6df6de703144",
+    "title": "Café Europa newsletter: Marco Rubio’s questionable history lesson",
+    "link": "https://www.economist.com/europe/2026/10/13/cafe-europa-newsletter-marco-rubios-questionable-history-lesson",
+    "pubdate": "Tue, 13 Oct 2026 09:54:15 +0000",
+    "description": "Matt Steinglass, our Europe editor, identifies the continent’s Spartans",
+    "section": "europe"
+  },
+  {
+    "guid": "4092a956-dbdb-4ff0-8184-263e397e83d5",
+    "title": "What Congress can do to prevent an AI catastrophe",
+    "link": "https://www.economist.com/by-invitation/2026/10/13/what-congress-can-do-to-prevent-an-ai-catastrophe",
+    "pubdate": "Tue, 13 Oct 2026 09:18:42 +0000",
+    "description": "Lawrence Lessig and Yoshua Bengio suggest how to reduce serious risks without abandoning American technological leadership",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "46c2ab83-ad9e-4693-ab9e-e5246757b6fb",
+    "title": "A plan to break up Pakistan",
+    "link": "https://www.economist.com/podcasts/2026/10/13/a-plan-to-break-up-pakistan",
+    "pubdate": "Tue, 13 Oct 2026 08:22:41 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "c8d105c4-b05b-469e-9237-94af0047b58d",
+    "title": "The War Room newsletter: The curious case of firing squads",
+    "link": "https://www.economist.com/international/2026/10/13/the-war-room-newsletter-the-curious-case-of-firing-squads",
+    "pubdate": "Tue, 13 Oct 2026 08:07:34 +0000",
+    "description": "Alex Turner, our defence editor, looks at this anachronistic and peculiar form of execution",
+    "section": "international"
+  },
+  {
+    "guid": "71f7cdd7-27fa-4ec4-a3dd-572c53625292",
+    "title": "Russian men are fleeing before the army can grab them",
+    "link": "https://www.economist.com/europe/2026/10/12/russian-men-are-fleeing-before-the-army-can-grab-them",
+    "pubdate": "Mon, 12 Oct 2026 18:53:19 +0000",
+    "description": "Vladimir Putin looks poised for a huge wave of forced inductions",
+    "section": "europe"
+  },
+  {
+    "guid": "d7b27eed-9f9f-4a5b-9647-9272d618b8a7",
+    "title": "“Musk” reminds you how much you already know about Elon",
+    "link": "https://www.economist.com/culture/2026/10/12/musk-reminds-you-how-much-you-already-know-about-elon",
+    "pubdate": "Mon, 12 Oct 2026 18:31:24 +0000",
+    "description": "It is hard to make a fresh documentary on a ubiquitous subject, Alex Gibney’s gruelling film shows",
+    "section": "culture"
+  },
+  {
+    "guid": "ebe2c5fc-18bf-46da-9855-ece2b147e89f",
+    "title": "Data centres are turning Trump voters into Democrats",
+    "link": "https://www.economist.com/graphic-detail/2026/10/12/data-centres-are-turning-trump-voters-into-democrats",
+    "pubdate": "Mon, 12 Oct 2026 18:23:54 +0000",
+    "description": "The backlash could swing close races in the midterms",
+    "section": "graphic-detail"
+  },
+  {
+    "guid": "c7170ccf-119d-41a8-8bea-de3745033968",
+    "title": "In Britain, “European” doesn’t mean white",
+    "link": "https://www.economist.com/britain/2026/10/12/in-britain-european-doesnt-mean-white",
+    "pubdate": "Mon, 12 Oct 2026 17:50:58 +0000",
+    "description": "The country’s EU citizens are astonishingly diverse",
+    "section": "britain"
+  },
+  {
+    "guid": "a0f7ff1e-3895-43fe-8aa1-beed2f7318ba",
+    "title": "AI’s transformation of mathematics is a turning point for science",
+    "link": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
+    "pubdate": "Mon, 12 Oct 2026 17:43:28 +0000",
+    "description": "Other disciplines should take heed",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "2b47f152-bae9-42b2-b544-4dc4a2ff565e",
+    "title": "China’s hidden levies are becoming more visible",
+    "link": "https://www.economist.com/china/2026/10/12/chinas-hidden-levies-are-becoming-more-visible",
+    "pubdate": "Mon, 12 Oct 2026 16:49:04 +0000",
+    "description": "Taxpayers now owe more. But is more owed to taxpayers?",
+    "section": "china"
+  },
+  {
+    "guid": "dd7ab4de-1e15-4764-81a5-d4c4921c969a",
+    "title": "A Nobel prize for how to keep economies on even keel",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-even-keel",
+    "pubdate": "Mon, 12 Oct 2026 16:29:06 +0000",
+    "description": "Two “New Keynesians”, Robert Hall and Michael Woodford, win the highest honour in economics",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "c74cf5ed-0039-4cfb-9b15-f76b4c3b8334",
+    "title": "Bartleby newsletter: Tiny workplace triumphs",
+    "link": "https://www.economist.com/business/2026/10/12/bartleby-newsletter-tiny-workplace-triumphs",
+    "pubdate": "Mon, 12 Oct 2026 13:52:52 +0000",
+    "description": "Andrew Palmer, our Bartleby columnist, celebrates our readers’ finest micro-achievements",
+    "section": "business"
+  },
+  {
+    "guid": "e15e2402-9a89-49b6-b7a4-0443a50c53f5",
+    "title": "Donald Trump is again threatening to cut off arms to Ukraine",
+    "link": "https://www.economist.com/europe/2026/10/12/donald-trump-is-again-threatening-to-cut-off-arms-to-ukraine",
+    "pubdate": "Mon, 12 Oct 2026 12:00:25 +0000",
+    "description": "His diesel deal with Russia may prove as illusory as his “energy ceasefire”",
+    "section": "europe"
+  },
+  {
+    "guid": "e9b9aa2d-ce0f-4b50-8e31-211622423390",
+    "title": "Saudi under siege: Houthis attack airport",
+    "link": "https://www.economist.com/podcasts/2026/10/12/saudi-under-siege-houthis-attack-airport",
+    "pubdate": "Mon, 12 Oct 2026 10:12:21 +0000",
+    "description": "Also on the daily podcast: European industry adapts and the comeback of cursive",
+    "section": "podcasts"
+  },
+  {
+    "guid": "fd2e81cf-86d1-421b-81d6-76a62b502763",
+    "title": "The looming bond crisis",
+    "link": "https://www.economist.com/podcasts/2026/10/12/the-looming-bond-crisis",
+    "pubdate": "Mon, 12 Oct 2026 08:21:38 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "1d577825-820d-4fc2-a5e9-f0103d95d783",
+    "title": "Saudi Arabia is increasingly under siege",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/11/saudi-arabia-is-increasingly-under-siege",
+    "pubdate": "Sun, 11 Oct 2026 16:33:11 +0000",
+    "description": "The Saudis have no good options against deadly strikes by Yemeni rebels",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "fc880aef-721a-4549-917b-b3f0b1349a5b",
+    "title": "The Jon Ossoff guide to being a Democrat",
+    "link": "https://www.economist.com/united-states/2026/10/11/the-jon-ossoff-guide-to-being-a-democrat",
+    "pubdate": "Sun, 11 Oct 2026 16:10:46 +0000",
+    "description": "A rising star in Georgia pairs bland governing with hot rhetoric",
+    "section": "united-states"
+  },
+  {
+    "guid": "5ecbb5d8-0812-402d-8d41-f81684abf74c",
+    "title": "Don’t feel sorry for millennials. They are living it up now",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
+    "pubdate": "Sun, 11 Oct 2026 15:27:00 +0000",
+    "description": "It is easy to exaggerate their economic woes",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "ad17c1ad-3b7f-4343-ac08-e98379615a87",
+    "title": "The limits of India’s diaspora power",
+    "link": "https://www.economist.com/asia/2026/10/11/the-limits-of-indias-diaspora-power",
+    "pubdate": "Sun, 11 Oct 2026 10:42:03 +0000",
+    "description": "As the West closes its doors, India must make staying home more attractive",
+    "section": "asia"
+  },
+  {
+    "guid": "ef0bd6a7-b332-43eb-8411-065df3560975",
+    "title": "And Tango Makes Three",
+    "link": "https://www.economist.com/podcasts/2026/10/10/and-tango-makes-three",
+    "pubdate": "Sat, 10 Oct 2026 08:15:00 +0000",
+    "description": "A feathery parable of America’s divisions in the 21st century",
+    "section": "podcasts"
+  },
+  {
+    "guid": "db50d2fa-7888-462f-98b7-600a8d9ce515",
+    "title": "Checks and Balance newsletter: Plans to livestream an execution in America",
+    "link": "https://www.economist.com/united-states/2026/10/09/checks-and-balance-newsletter-plans-to-livestream-an-execution-in-america",
+    "pubdate": "Fri, 09 Oct 2026 21:14:34 +0000",
+    "description": "John Prideaux, our executive editor, argues that making a spectacle of a Muslim gunman’s death is a deliberate political choice",
+    "section": "united-states"
+  },
+  {
+    "guid": "f94446f6-fb4f-4838-9480-808241ca708b",
+    "title": "Professional sumo wrestling comes to America",
+    "link": "https://www.economist.com/united-states/2026/10/09/professional-sumo-wrestling-comes-to-america",
+    "pubdate": "Fri, 09 Oct 2026 20:10:38 +0000",
+    "description": "Meet the people betting Americans will swoon over Japan’s ancient pastime",
+    "section": "united-states"
+  },
+  {
+    "guid": "8be4e00c-7a78-4f0c-98ce-db9b01191a93",
+    "title": "Italy’s politicians are obsessed with short skirts",
+    "link": "https://www.economist.com/europe/2026/10/09/italys-politicians-are-obsessed-with-short-skirts",
+    "pubdate": "Fri, 09 Oct 2026 18:39:28 +0000",
+    "description": "A parliamentary fight over hemlines shows the battle of the sexes is still on",
+    "section": "europe"
+  },
+  {
+    "guid": "7f580a6a-278f-4bff-b6a9-8721c38d293e",
+    "title": "Plot Twist newsletter: Silicon Valley is taking over your screen",
+    "link": "https://www.economist.com/culture/2026/10/09/plot-twist-newsletter-silicon-valley-is-taking-over-your-screen",
+    "pubdate": "Fri, 09 Oct 2026 17:00:27 +0000",
+    "description": "Alexandra Suich Bass, our culture editor, examines whether tech’s bad boys make for good viewing",
+    "section": "culture"
+  },
+  {
+    "guid": "1db37263-8b4b-4acf-8468-53601679ef22",
+    "title": "Do you need to walk 10,000 steps a day?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/09/do-you-need-to-walk-10000-steps-a-day",
+    "pubdate": "Fri, 09 Oct 2026 15:21:53 +0000",
+    "description": "How fast you walk may be as important as how much",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "c35c977a-6147-4c6b-9e8b-f61adf77089a",
+    "title": "The Christian vote",
+    "link": "https://www.economist.com/podcasts/2026/10/09/the-christian-vote",
+    "pubdate": "Fri, 09 Oct 2026 15:02:49 +0000",
+    "description": "Our weekly podcast on America. This week, the shift in how both parties talk about religion",
+    "section": "podcasts"
+  },
+  {
+    "guid": "cc27553e-4e8d-462c-ad49-2cc430e04cd5",
+    "title": "Belarus is becoming increasingly Russian",
+    "link": "https://www.economist.com/interactive/europe/2026/10/09/belarus-is-becoming-increasingly-russian",
+    "pubdate": "Fri, 09 Oct 2026 14:44:25 +0000",
+    "description": "As the country stamps out its national heritage, its neighbour’s propaganda is taking over",
+    "section": "interactive"
+  },
+  {
+    "guid": "46da799e-8b5d-4976-9f22-90709470a068",
+    "title": "How Donald Trump remade America’s government",
+    "link": "https://www.economist.com/culture/2026/10/09/how-donald-trump-remade-americas-government",
+    "pubdate": "Fri, 09 Oct 2026 14:26:41 +0000",
+    "description": "DOGE was a huge missed opportunity",
+    "section": "culture"
+  },
+  {
+    "guid": "279e0faa-542d-4572-b350-a34da6ef799b",
+    "title": "What to watch this week",
+    "link": "https://www.economist.com/culture/2026/10/09/what-to-watch-this-week",
+    "pubdate": "Fri, 09 Oct 2026 11:56:09 +0000",
+    "description": "The best (and worst) recent films and television shows about tech",
+    "section": "culture"
+  },
+  {
+    "guid": "6d6d87e0-12d6-4460-86dd-742c3e28b99d",
+    "title": "Saving your bacon: healthy-eating policy evolves",
+    "link": "https://www.economist.com/podcasts/2026/10/09/saving-your-bacon-healthy-eating-policy-evolves",
+    "pubdate": "Fri, 09 Oct 2026 10:49:56 +0000",
+    "description": "Also on the daily podcast: a mysterious release of the plague (perhaps) and a tribute to the inventor of flat-screen displays",
+    "section": "podcasts"
+  },
+  {
+    "guid": "c32d60e2-b44b-4b39-a1b8-92653e5bddb9",
+    "title": "The man who inspired Elon Musk to shoot for Mars",
+    "link": "https://www.economist.com/interactive/1843/2026/10/09/the-man-who-inspired-elon-musk-to-shoot-for-mars",
+    "pubdate": "Fri, 09 Oct 2026 09:57:00 +0000",
+    "description": "Robert Zubrin thinks colonising space could save humanity. His theories rest on a controversial reading of American history",
+    "section": "interactive"
+  },
+  {
+    "guid": "937d5f4c-66f0-4ff7-b332-6349013cbb78",
+    "title": "America needs a citizens’ assembly to reform Social Security",
+    "link": "https://www.economist.com/by-invitation/2026/10/09/america-needs-a-citizens-assembly-to-reform-social-security",
+    "pubdate": "Fri, 09 Oct 2026 09:25:53 +0000",
+    "description": "With politicians flailing, it’s worth trying an approach that has worked in Europe, argues Glenn Hubbard",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "7b94eb92-08ee-4fd0-ac7c-85de42b8e2f7",
+    "title": "Zack Polanski’s star is fading",
+    "link": "https://www.economist.com/britain/2026/10/09/zack-polanskis-star-is-fading",
+    "pubdate": "Fri, 09 Oct 2026 04:53:43 +0000",
+    "description": "A Labour victory in north London is terrible news for the Greens’ leader",
+    "section": "britain"
+  },
+  {
+    "guid": "889e599e-08c8-431f-b0c7-164b619a0837",
+    "title": "Anne Carson wins the Nobel prize in literature",
+    "link": "https://www.economist.com/culture/2026/10/08/anne-carson-wins-the-nobel-prize-in-literature",
+    "pubdate": "Thu, 08 Oct 2026 17:07:41 +0000",
+    "description": "In verse, prose and translation, the Canadian writer has bent genres",
+    "section": "culture"
+  },
+  {
+    "guid": "6fc5aab1-19a6-43e7-94a4-ef2be0f9e06f",
+    "title": "Are populists wrecking your portfolio?",
+    "link": "https://www.economist.com/podcasts/2026/10/08/are-populists-wrecking-your-portfolio",
+    "pubdate": "Thu, 08 Oct 2026 16:14:31 +0000",
+    "description": "Our podcast on markets, the economy and business. This week, why you may need a new strategy",
+    "section": "podcasts"
+  },
+  {
+    "guid": "125688d7-5a6f-4acc-83f0-f2822dfdb9b4",
+    "title": "Economic data, commodities and markets",
+    "link": "https://www.economist.com/economic-and-financial-indicators/2026/10/08/economic-data-commodities-and-markets",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "",
+    "section": "economic-and-financial-indicators"
+  },
+  {
+    "guid": "9b5c0867-2b83-43db-9c7e-ef1def89873b",
+    "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+    "link": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "The physicist and materials scientist died on September 23rd, aged 101",
+    "section": "obituary"
+  },
+  {
+    "guid": "61c86c3a-2a1f-4394-ae31-651e16c004e4",
+    "title": "Malcolm Gladwell and Harel Shapira are up in arms about guns",
+    "link": "https://www.economist.com/culture/2026/10/08/malcolm-gladwell-and-harel-shapira-are-up-in-arms-about-guns",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "But can you be convinced of their views, if you are not already on their side?",
+    "section": "culture"
+  },
+  {
+    "guid": "09ceab2a-889d-49b8-aae2-3f453a32688f",
+    "title": "Fancy a tour through the Middle East?",
+    "link": "https://www.economist.com/culture/2026/10/08/fancy-a-tour-through-the-middle-east",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "A new history of the region takes you across thousands of miles and more than a century",
+    "section": "culture"
+  },
+  {
+    "guid": "68762e9d-e35a-4e7d-bb0f-e0e0ce144938",
+    "title": "Why your favourite bakery and coffee shop now sell tote bags",
+    "link": "https://www.economist.com/culture/2026/10/08/why-your-favourite-bakery-and-coffee-shop-now-sell-tote-bags",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "The business of merchandise is no longer a Mickey Mouse operation",
+    "section": "culture"
+  },
+  {
+    "guid": "a3b4a86f-727f-4c04-b8fa-5ef073f68e05",
+    "title": "Superstar podcasts are Silicon Valley’s way of talking to itself",
+    "link": "https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "But to much of the world, the sound is jarring",
+    "section": "culture"
+  },
+  {
+    "guid": "f69fddf8-1353-4898-aea1-6dedc55c49e5",
+    "title": "This year’s Nobel science prizes are real-life sci-fi",
+    "link": "https://www.economist.com/science-and-technology/2026/10/08/this-years-nobel-science-prizes-are-real-life-sci-fi",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Laureates pioneered neutrino astronomy, optogenetics and the study of mirror molecules",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "7c0ffbc3-c077-4092-b9fd-872192ed5214",
+    "title": "The rise of the AI marketplace",
+    "link": "https://www.economist.com/business/2026/10/08/the-rise-of-the-ai-marketplace",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Businesses such as OpenRouter are thriving as companies try to cut token costs",
+    "section": "business"
+  },
+  {
+    "guid": "6b90831c-4cd8-4e5c-9437-40a2322a8ecf",
+    "title": "Football’s latest scandal inspires apathy rather than anger",
+    "link": "https://www.economist.com/business/2026/10/08/footballs-latest-scandal-inspires-apathy-rather-than-anger",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "That is dangerous for the game",
+    "section": "business"
+  },
+  {
+    "guid": "a72c022a-9735-4091-ac94-8300b28546e7",
+    "title": "Jaguar’s new car is its last shot at survival",
+    "link": "https://www.economist.com/business/2026/10/08/jaguars-new-car-is-its-last-shot-at-survival",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "The British marque wants to reinvent itself as a maker of luxury EVs",
+    "section": "business"
+  },
+  {
+    "guid": "0c4ad632-6403-40d5-872b-ae974a574d09",
+    "title": "Why your snacks are chunkier and chewier than before",
+    "link": "https://www.economist.com/business/2026/10/08/why-your-snacks-are-chunkier-and-chewier-than-before",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Novelty is increasingly coming from texture, not just taste",
+    "section": "business"
+  },
+  {
+    "guid": "01e83173-3356-4c46-bd76-04e2d935fd0a",
+    "title": "In China, people get unusually long public holidays",
+    "link": "https://www.economist.com/china/2026/10/08/in-china-people-get-unusually-long-public-holidays",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "So why do they complain about them so much?",
+    "section": "china"
+  },
+  {
+    "guid": "24550e0f-1c61-45eb-b782-678bb424265b",
+    "title": "China wants teenagers to read a classic English novel",
+    "link": "https://www.economist.com/china/2026/10/08/china-wants-teenagers-to-read-a-classic-english-novel",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Officials see “Jane Eyre” as promoting the right kind of love",
+    "section": "china"
+  },
+  {
+    "guid": "3c114ec5-b44c-45fa-af12-496de4eb9e04",
+    "title": "Nagging people to eat healthily does not work",
+    "link": "https://www.economist.com/international/2026/10/08/nagging-people-to-eat-healthily-does-not-work",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Taxes, planning rules, limits on ads—anything to curb junk food",
+    "section": "international"
+  },
+  {
+    "guid": "2014507c-6755-43f9-90a8-1e7d055266b3",
+    "title": "Japan reckons with a spate of cyber attacks",
+    "link": "https://www.economist.com/asia/2026/10/08/japan-reckons-with-a-spate-of-cyber-attacks",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Efforts to reinforce cyber-security are not keeping pace with threats",
+    "section": "asia"
+  },
+  {
+    "guid": "19322e84-f195-4271-916f-dd07a639d285",
+    "title": "Is China building an air base in Laos?",
+    "link": "https://www.economist.com/asia/2026/10/08/is-china-building-an-air-base-in-laos",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "It’s just a pilot school, the two governments say",
+    "section": "asia"
+  },
+  {
+    "guid": "7016325f-6fc4-498a-aa87-720b7d1b1834",
+    "title": "Latin America has caught motorcycle fever",
+    "link": "https://www.economist.com/the-americas/2026/10/08/latin-america-has-caught-motorcycle-fever",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "They are cheap, nimble and provide employment, but at a deadly cost",
+    "section": "the-americas"
+  },
+  {
+    "guid": "0a66d152-01d4-48e5-840a-1f9216f28585",
+    "title": "Brazil falls into MAGA’s orbit",
+    "link": "https://www.economist.com/the-americas/2026/10/08/brazil-falls-into-magas-orbit",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "The Bolsonaro clan and its allies have swept the country’s general election",
+    "section": "the-americas"
+  },
+  {
+    "guid": "6d768321-57e4-4e4c-8d1f-a97958a4df35",
+    "title": "The investment frenzy gripping Paraguay",
+    "link": "https://www.economist.com/the-americas/2026/10/08/the-investment-frenzy-gripping-paraguay",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "But corruption and poor infrastructure may hold growth back",
+    "section": "the-americas"
+  },
+  {
+    "guid": "c7e5cece-c7d3-427e-b79e-2de8e3b54924",
+    "title": "In a near-catastrophe, Binyamin Netanyahu sees an opportunity",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/in-a-near-catastrophe-binyamin-netanyahu-sees-an-opportunity",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Israel’s prime minister hopes to turn an electoral weakness into a strength",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "e6547191-c59f-4c40-a14e-b5b35a319661",
+    "title": "A grubby amnesty law highlights Lebanon’s sectarian divides",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/a-grubby-amnesty-law-highlights-lebanons-sectarian-divides",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Thousands could walk free from prison. That will not fix a broken justice system",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "9bdd960f-4a1f-4a5f-9392-e504a98c1b6a",
+    "title": "America’s blockade is breaking Iran’s economy",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/americas-blockade-is-breaking-irans-economy",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "But not yet its regime",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "b26387ea-79a7-4ede-b403-80104f5d776e",
+    "title": "Big Tobacco’s lessons for Big Oil",
+    "link": "https://www.economist.com/united-states/2026/10/08/big-tobaccos-lessons-for-big-oil",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "A lawsuit over climate change reaches the Supreme Court",
+    "section": "united-states"
+  },
+  {
+    "guid": "9d635ef7-00e0-4560-8601-4726aa626959",
+    "title": "Ethiopia and Eritrea are on the brink of another conflict",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/ethiopia-and-eritrea-are-on-the-brink-of-another-conflict",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "As Eritrean forces advance in Tigray, all-out war with Ethiopia seems almost inevitable",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "45b2d5c1-dbf6-47f0-9614-17e51fa8a40b",
+    "title": "How not to make campuses safer",
+    "link": "https://www.economist.com/united-states/2026/10/08/how-not-to-make-campuses-safer",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Shifting rules are failing students and universities alike",
+    "section": "united-states"
+  },
+  {
+    "guid": "e3590318-1d63-48ee-a1ea-972d79e23de7",
+    "title": "Liability law will not tame AI",
+    "link": "https://www.economist.com/united-states/2026/10/08/liability-law-will-not-tame-ai",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Courts may take years to sort out legal standards for frontier firms",
+    "section": "united-states"
+  },
+  {
+    "guid": "1df7a3a3-fb84-4861-9536-625d609db7da",
+    "title": "Will Congress ever assert itself on Iran?",
+    "link": "https://www.economist.com/united-states/2026/10/08/will-congress-ever-assert-itself-on-iran",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "If Democrats win the midterms, they may try",
+    "section": "united-states"
+  },
+  {
+    "guid": "a02a6522-e002-48af-afa7-c7581c877eb7",
+    "title": "Europe’s lame-duck year could hardly come at a worse time",
+    "link": "https://www.economist.com/europe/2026/10/08/europes-lame-duck-year-could-hardly-come-at-a-worse-time",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Elections will sap what little resolve the continent has to make tough decisions",
+    "section": "europe"
+  },
+  {
+    "guid": "713f4eb9-35ec-42b6-9461-6a36095c2bb9",
+    "title": "An explosive allegation rocks Germany’s spy agency",
+    "link": "https://www.economist.com/europe/2026/10/08/an-explosive-allegation-rocks-germanys-spy-agency",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Its former chief is accused of passing on classified information to foreign agents",
+    "section": "europe"
+  },
+  {
+    "guid": "eda3044e-8a49-47cd-86ea-0be4f71c9b7f",
+    "title": "Arson at the school gate and tear gas on the streets",
+    "link": "https://www.economist.com/europe/2026/10/08/arson-at-the-school-gate-and-tear-gas-on-the-streets",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "French pupils are angry and the country is tense",
+    "section": "europe"
+  },
+  {
+    "guid": "88dc49c9-9ac5-4c0e-813e-d6a697b623d5",
+    "title": "Are small planes Britain’s next small boats?",
+    "link": "https://www.economist.com/britain/2026/10/08/are-small-planes-britains-next-small-boats",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "The problem is that nobody knows",
+    "section": "britain"
+  },
+  {
+    "guid": "39e1ebc5-307f-401b-a057-6b2b2f43f266",
+    "title": "American bombers have abandoned a British base",
+    "link": "https://www.economist.com/britain/2026/10/08/american-bombers-have-abandoned-a-british-base",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Their departure poses more questions than answers",
+    "section": "britain"
+  },
+  {
+    "guid": "ea6217c2-a7bb-452b-957e-b0928110d858",
+    "title": "The coming fall of pensioner communism",
+    "link": "https://www.economist.com/britain/2026/10/08/the-coming-fall-of-pensioner-communism",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Just like the Soviet kind, it is collapsing under its own contradictions",
+    "section": "britain"
+  },
+  {
+    "guid": "cd97fd59-2889-47d4-b179-86a7b036e5ee",
+    "title": "Conservationists are building highways for bugs",
+    "link": "https://www.economist.com/britain/2026/10/08/conservationists-are-building-highways-for-bugs",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Britain makes a beeline for insect recovery",
+    "section": "britain"
+  },
+  {
+    "guid": "4006f435-8f07-4fb2-9cae-007253285169",
+    "title": "Britain’s Greens are now a hard-left, antisemitic party",
+    "link": "https://www.economist.com/britain/2026/10/08/britains-greens-are-now-a-hard-left-antisemitic-party",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "The former Ecology Party cares more about Zionism than the environment",
+    "section": "britain"
+  },
+  {
+    "guid": "8ca65304-c6f1-4dd3-b5d5-4c44d747854d",
+    "title": "Is back and shoulder surgery often worse than useless?",
+    "link": "https://www.economist.com/letters/2026/10/08/is-back-and-shoulder-surgery-often-worse-than-useless",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Also this week, retro capitalism, mistaken identity, summer, AI-generated speeches",
+    "section": "letters"
+  },
+  {
+    "guid": "278c51ce-611d-44b1-9d20-2272ce8059da",
+    "title": "A no-rules approach to AI is mad politics and worse policy",
+    "link": "https://www.economist.com/leaders/2026/10/08/a-no-rules-approach-to-ai-is-mad-politics-and-worse-policy",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Do not let it rip",
+    "section": "leaders"
+  },
+  {
+    "guid": "8625e26b-c753-4b65-b40d-201ad0382ccf",
+    "title": "How Europe should deal with the new China shock",
+    "link": "https://www.economist.com/leaders/2026/10/08/how-europe-should-deal-with-the-new-china-shock",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Amassing “second-strike” trade weapons is not enough",
+    "section": "leaders"
+  },
+  {
+    "guid": "8e78062b-5093-4145-973d-de040396dc2c",
+    "title": "A selfish ploy to break up Pakistan",
+    "link": "https://www.economist.com/leaders/2026/10/08/a-selfish-ploy-to-break-up-pakistan",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "Its military chief wants lots of small provinces, to fragment the opposition",
+    "section": "leaders"
+  },
+  {
+    "guid": "2f2a57d2-fb69-44ae-a180-c2803c91a394",
+    "title": "Business",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/08/business",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "083e4ef4-f65d-4e09-b39c-8e46204b66e2",
+    "title": "Cartoon: America’s gargantuan debt",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/08/cartoon-americas-gargantuan-debt",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "A lighter take on the news",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "fb4e14bc-467e-4e26-ac32-7b189629f23a",
+    "title": "Politics",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/08/politics",
+    "pubdate": "Thu, 08 Oct 2026 13:01:51 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "304c1403-d76a-4d36-907a-61f124760d27",
+    "title": "Who will be Spain’s next prime minister?",
+    "link": "https://www.economist.com/interactive/2026-spain-election-tracker",
+    "pubdate": "Thu, 08 Oct 2026 11:44:23 +0000",
+    "description": "Spain’s Socialist party hopes to hold on to power but the right leads the polls",
+    "section": "interactive"
+  },
+  {
+    "guid": "af5e8bf7-bb0f-49e3-8760-2ec503306e35",
+    "title": "Indian manufacturing’s moment may finally have arrived",
+    "link": "https://www.economist.com/business/2026/10/08/indian-manufacturings-moment-may-finally-have-arrived",
+    "pubdate": "Thu, 08 Oct 2026 11:25:50 +0000",
+    "description": "In one part of the country, at least, production is soaring",
+    "section": "business"
+  },
+  {
+    "guid": "dc93ffc0-b8ee-4f7a-b5bc-10fc8c054d98",
+    "title": "Valley of the shadow of debt: bond-market jitters",
+    "link": "https://www.economist.com/podcasts/2026/10/08/valley-of-the-shadow-of-debt-bond-market-jitters",
+    "pubdate": "Thu, 08 Oct 2026 10:24:56 +0000",
+    "description": "Also on the daily podcast: the plan to turn night into day using satellites and our take on “The Social Reckoning”",
+    "section": "podcasts"
+  },
+  {
+    "guid": "0c879988-f4ab-4877-b41c-ed2b30b88025",
+    "title": "Why mirror life endangers humanity",
+    "link": "https://www.economist.com/podcasts/2026/10/08/why-mirror-life-endangers-humanity",
+    "pubdate": "Thu, 08 Oct 2026 09:30:00 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b652beb4-d4eb-4c20-8e0d-0f028e149981",
+    "title": "Governments are mishandling the affordability crisis",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+    "pubdate": "Thu, 08 Oct 2026 09:26:41 +0000",
+    "description": "They should lift incomes, not suppress prices",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "91a0f48b-ec1d-4840-a972-495ce95f5ea0",
+    "title": "Indian celebrations will be more expensive this year",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
+    "pubdate": "Thu, 08 Oct 2026 09:25:56 +0000",
+    "description": "Blame soaring sugar prices",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "acffb28d-15dd-4211-9636-33c5ca4e753f",
+    "title": "Will bonds blow up?",
+    "link": "https://www.economist.com/leaders/2026/10/08/will-bonds-blow-up",
+    "pubdate": "Thu, 08 Oct 2026 09:21:26 +0000",
+    "description": "A government-debt crisis is looming",
+    "section": "leaders"
+  },
+  {
+    "guid": "08b7d93f-5912-4c74-8a78-df76b51d9fea",
+    "title": "The UN must change while preserving its values",
+    "link": "https://www.economist.com/by-invitation/2026/10/08/the-un-must-change-while-preserving-its-values",
+    "pubdate": "Thu, 08 Oct 2026 09:20:53 +0000",
+    "description": "Its perceived failure to resolve conflicts has had serious consequences, argues Carolyn Rodrigues Birkett, a candidate for secretary-general",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "8e89839f-e76a-443f-a468-296695195631",
+    "title": "The countries most threatened by turbulent bond markets",
+    "link": "https://www.economist.com/briefing/2026/10/08/the-countries-most-threatened-by-turbulent-bond-markets",
+    "pubdate": "Thu, 08 Oct 2026 09:18:47 +0000",
+    "description": "For those where interest rates outstrip economic growth, trouble looms",
+    "section": "briefing"
+  },
+  {
+    "guid": "f49ea4f9-faf6-4a05-82cc-ded46749a7d2",
+    "title": "Kemi Badenoch's pitch for power is incoherent",
+    "link": "https://www.economist.com/britain/2026/10/07/kemi-badenochs-pitch-for-power-is-incoherent",
+    "pubdate": "Wed, 07 Oct 2026 20:27:52 +0000",
+    "description": "But Britain’s Tories still have a shot at reuniting the right",
+    "section": "britain"
+  },
+  {
+    "guid": "007aed2e-f6e8-4e35-9c0d-b279f6046eb0",
+    "title": "The 2026 Nobel prizes for science",
+    "link": "https://www.economist.com/podcasts/2026/10/07/the-2026-nobel-prizes-for-science",
+    "pubdate": "Wed, 07 Oct 2026 19:09:02 +0000",
+    "description": "Our podcast on science and technology. This week, our guide to this year’s physiology, physics and chemistry awards",
+    "section": "podcasts"
+  },
+  {
+    "guid": "e6dcc80a-a9ae-4ec6-a81b-78a1d2baabcd",
+    "title": "OpenAI claims to have solved hundreds of long-standing maths problems",
+    "link": "https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems",
+    "pubdate": "Wed, 07 Oct 2026 18:52:54 +0000",
+    "description": "It is judgment day for mathematics",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "de102342-687d-430b-b076-7c81af28bcac",
+    "title": "Why shares are the new bricks and mortar",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
+    "pubdate": "Wed, 07 Oct 2026 18:47:53 +0000",
+    "description": "Household wealth is flowing from property to stocks",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "5f0ed7c0-144b-4e08-ae8e-ae983b813354",
+    "title": "Donald Trump’s untenable strategy for AI",
+    "link": "https://www.economist.com/united-states/2026/10/07/donald-trumps-untenable-strategy-for-ai",
+    "pubdate": "Wed, 07 Oct 2026 18:44:43 +0000",
+    "description": "The president’s desire to unleash the technology is running into political reality",
+    "section": "united-states"
+  },
+  {
+    "guid": "932dee46-0f4d-4573-9916-e6f0f50fdcef",
+    "title": "Burglars could be identified from airborne DNA",
+    "link": "https://www.economist.com/science-and-technology/2026/10/07/burglars-could-be-identified-from-airborne-dna",
+    "pubdate": "Wed, 07 Oct 2026 18:40:16 +0000",
+    "description": "Skin cells, dandruff and saliva are largely responsible",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "69acfeed-fd2d-487d-b55d-4c4e926b87d1",
+    "title": "A Nobel for illuminating life’s asymmetry",
+    "link": "https://www.economist.com/science-and-technology/2026/10/07/a-nobel-for-illuminating-lifes-asymmetry",
+    "pubdate": "Wed, 07 Oct 2026 18:38:06 +0000",
+    "description": "And achieving a feat of chemical synthesis not seen for 4bn years",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "41df47dd-84ac-4b53-8e11-890a81dc353f",
+    "title": "China’s oil tactics have been clever. Now the costs are mounting",
+    "link": "https://www.economist.com/china/2026/10/07/chinas-oil-tactics-have-been-clever-now-the-costs-are-mounting",
+    "pubdate": "Wed, 07 Oct 2026 15:30:16 +0000",
+    "description": "The choices it faces will have global repercussions",
+    "section": "china"
+  },
+  {
+    "guid": "462c5f9f-bba3-441b-9587-dddd40f75cd8",
+    "title": "When is it necessary to seek an operation?",
+    "link": "https://www.economist.com/letters/2026/10/07/when-is-it-necessary-to-seek-an-operation",
+    "pubdate": "Wed, 07 Oct 2026 14:20:50 +0000",
+    "description": "Many patients have to be talked out of needless procedures, says one doctor",
+    "section": "letters"
+  },
+  {
+    "guid": "01fe3c49-9da8-4695-9e91-f226b6988328",
+    "title": "“The Social Reckoning” is a fatally earnest sequel to a classic",
+    "link": "https://www.economist.com/culture/2026/10/07/the-social-reckoning-is-a-fatally-earnest-sequel-to-a-classic",
+    "pubdate": "Wed, 07 Oct 2026 13:47:36 +0000",
+    "description": "Facebook has become a softer target, making for a weaker satire than “The Social Network”",
+    "section": "culture"
+  },
+  {
+    "guid": "5982e289-5d2d-4654-a5c8-ab10332a8a10",
+    "title": "Can effective altruists grow up?",
+    "link": "https://www.economist.com/by-invitation/2026/10/07/can-effective-altruists-grow-up",
+    "pubdate": "Wed, 07 Oct 2026 11:44:56 +0000",
+    "description": "What AI needs is people of good judgment, writes Leif Wenar",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "5f952827-bea1-467a-a8f5-8a80d12a8db5",
+    "title": "Gilets jeunes? France’s school protests",
+    "link": "https://www.economist.com/podcasts/2026/10/07/gilets-jeunes-frances-school-protests",
+    "pubdate": "Wed, 07 Oct 2026 10:54:31 +0000",
+    "description": "Also on the daily podcast: the shoddy law behind the “Cornell 7” case and the big role of astrology in Indian finance",
+    "section": "podcasts"
+  },
+  {
+    "guid": "08a2a1d2-770a-4c00-9f7d-ca3de413691b",
+    "title": "How China’s infrastructure push could pay off",
+    "link": "https://www.economist.com/podcasts/2026/10/07/how-chinas-infrastructure-push-could-pay-off",
+    "pubdate": "Wed, 07 Oct 2026 09:10:00 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "8dc59c79-14ad-4941-bdec-e49665dc24c6",
+    "title": "Vladimir Putin and the pariah problem",
+    "link": "https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem",
+    "pubdate": "Tue, 06 Oct 2026 21:27:32 +0000",
+    "description": "Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense",
+    "section": "international"
+  },
+  {
+    "guid": "81942ef9-bba8-478f-94e3-29a970c85592",
+    "title": "In search of tax alpha",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/06/in-search-of-tax-alpha",
+    "pubdate": "Tue, 06 Oct 2026 17:41:20 +0000",
+    "description": "The taxman is losing patience with Americans’ shrewd use of tax losses",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "7d96fef0-edd3-4736-b94b-4ed8301cf4cd",
+    "title": "China wants to get inside your head",
+    "link": "https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head",
+    "pubdate": "Tue, 06 Oct 2026 17:38:06 +0000",
+    "description": "Brain-computer interfaces are the latest battleground in its tech rivalry with America",
+    "section": "business"
+  },
+  {
+    "guid": "c575548f-c67f-4b27-8572-0baa128bad37",
+    "title": "A Nobel for the strangest telescope ever built",
+    "link": "https://www.economist.com/science-and-technology/2026/10/06/a-nobel-for-the-strangest-telescope-ever-built",
+    "pubdate": "Tue, 06 Oct 2026 17:15:53 +0000",
+    "description": "It detects ghostly particles that shed light on the distant universe",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "a225b0d7-af9c-4a0d-a128-65aba6a00ca4",
+    "title": "Brazil is a right-wing country now",
+    "link": "https://www.economist.com/leaders/2026/10/06/brazil-is-a-right-wing-country-now",
+    "pubdate": "Tue, 06 Oct 2026 17:04:26 +0000",
+    "description": "The Bolsonaro clan promises to align with Donald Trump, and to attack democratic institutions",
+    "section": "leaders"
+  },
+  {
+    "guid": "fcfd7449-c148-45e4-a6f7-ce3b4879632b",
+    "title": "Are exams evil?",
+    "link": "https://www.economist.com/britain/2026/10/06/are-exams-evil",
+    "pubdate": "Tue, 06 Oct 2026 16:59:04 +0000",
+    "description": "Critics of the “hardest exam in the world” might think so. The paper hints otherwise",
+    "section": "britain"
+  },
+  {
+    "guid": "718ed47b-7bc3-47e1-8c3b-2a81a00699c5",
+    "title": "Blighty newsletter: How Britain’s parties make decisions",
+    "link": "https://www.economist.com/britain/2026/10/06/blighty-newsletter-how-britains-parties-make-decisions",
+    "pubdate": "Tue, 06 Oct 2026 16:05:10 +0000",
+    "description": "Hugo Gye, our Britain political correspondent, reports from the Conservative Party’s annual conference",
+    "section": "britain"
+  },
+  {
+    "guid": "e28de90a-da34-44ee-847a-d84428327f09",
+    "title": "China’s obsession with safety",
+    "link": "https://www.economist.com/podcasts/2026/10/06/chinas-obsession-with-safety",
+    "pubdate": "Tue, 06 Oct 2026 15:55:12 +0000",
+    "description": "Our weekly podcast on China. This week, people like how safe it is in China. But there are trade-offs",
+    "section": "podcasts"
+  },
+  {
+    "guid": "7f9d7be8-676f-4fc9-b9d1-ae0deee453a8",
+    "title": "The plague may have escaped from a lab in Siberia",
+    "link": "https://www.economist.com/europe/2026/10/06/the-plague-may-have-escaped-from-a-lab-in-siberia",
+    "pubdate": "Tue, 06 Oct 2026 15:38:41 +0000",
+    "description": "Russian secrecy means it is unclear how grave the threat is",
+    "section": "europe"
+  },
+  {
+    "guid": "bc70afbd-0523-4c61-abb3-821148222fc2",
+    "title": "House call: Spain’s snap election",
+    "link": "https://www.economist.com/podcasts/2026/10/06/house-call-spains-snap-election",
+    "pubdate": "Tue, 06 Oct 2026 11:12:10 +0000",
+    "description": "Also on the daily podcast: the woes of America’s meatpackers and making edible electronic diagnostics safer",
+    "section": "podcasts"
+  },
+  {
+    "guid": "27485aa2-dc6d-4df2-a20c-52cc3f1f8b5c",
+    "title": "How Europe should handle its trade problem with China",
+    "link": "https://www.economist.com/by-invitation/2026/10/06/how-europe-should-handle-its-trade-problem-with-china",
+    "pubdate": "Tue, 06 Oct 2026 10:25:19 +0000",
+    "description": "It has a ready-made template to force rebalancing should talks fail, writes Pascal Lamy",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "967d5d41-8124-4d65-8239-8a86a0f04ad6",
+    "title": "The coming tax reckoning",
+    "link": "https://www.economist.com/podcasts/2026/10/06/the-coming-tax-reckoning",
+    "pubdate": "Tue, 06 Oct 2026 09:10:00 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "5459299c-7a88-4185-9e78-04ed9589b33d",
+    "title": "The bond market sell-off is helping the dollar",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
+    "pubdate": "Mon, 05 Oct 2026 19:31:48 +0000",
+    "description": "But the strength of the greenback is not as reliable as in the past",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "96e70336-1c6f-4d17-a974-475e3655277f",
+    "title": "Germany and France want EU storm gates for China’s trade surge",
+    "link": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
+    "pubdate": "Mon, 05 Oct 2026 18:58:01 +0000",
+    "description": "A bold joint letter suggests confrontation looms with China",
+    "section": "europe"
+  },
+  {
+    "guid": "9c4d0b0f-bb4e-4dad-bb8a-8fa47a20d5ff",
+    "title": "El Boletín newsletter: Get ready for Bolsonaro the sequel",
+    "link": "https://www.economist.com/the-americas/2026/10/05/el-boletin-newsletter-get-ready-for-bolsonaro-the-sequel",
+    "pubdate": "Mon, 05 Oct 2026 18:49:02 +0000",
+    "description": "Ana Lankes, our Brazil bureau chief, on how a family plagued by scandal staged a comeback in Brazil",
+    "section": "the-americas"
+  },
+  {
+    "guid": "d26e18ed-fe30-4f39-8928-b92a9773c1cb",
+    "title": "The War Room newsletter: Operation Vivaldi is wrong-footing Russia",
+    "link": "https://www.economist.com/europe/2026/10/05/the-war-room-newsletter-operation-vivaldi-is-wrong-footing-russia",
+    "pubdate": "Mon, 05 Oct 2026 16:59:42 +0000",
+    "description": "Alex Turner, our defence editor, examines how a Ukrainian counter-offensive is faring",
+    "section": "europe"
+  },
+  {
+    "guid": "876d0925-1be7-458e-b655-dec8615af4c8",
+    "title": "Fifty years after the Cultural Revolution, China won’t talk about it",
+    "link": "https://www.economist.com/china/2026/10/05/fifty-years-after-the-cultural-revolution-china-wont-talk-about-it",
+    "pubdate": "Mon, 05 Oct 2026 16:51:25 +0000",
+    "description": "Keeping silent about the awful decade may not bury it",
+    "section": "china"
+  },
+  {
+    "guid": "84d09014-3618-41d0-8b06-9b4c883bd838",
+    "title": "The Nobel for medicine goes to lighting up the brain",
+    "link": "https://www.economist.com/science-and-technology/2026/10/05/the-nobel-for-medicine-goes-to-lighting-up-the-brain",
+    "pubdate": "Mon, 05 Oct 2026 15:44:14 +0000",
+    "description": "Inventors of optogenetics get the gong",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "50a5a7e6-bfab-4982-a473-ece7cd87a399",
+    "title": "A controversial new power grab in Pakistan",
+    "link": "https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan",
+    "pubdate": "Mon, 05 Oct 2026 15:30:00 +0000",
+    "description": "The country’s army chief and de facto ruler wants to redraw the political map",
+    "section": "asia"
+  },
+  {
+    "guid": "aa05b181-9452-4b54-8715-aafe0bba8047",
+    "title": "Bartleby newsletter: How to fire a chicken into a jet engine",
+    "link": "https://www.economist.com/business/2026/10/05/bartleby-newsletter-how-to-fire-a-chicken-into-a-jet-engine",
+    "pubdate": "Mon, 05 Oct 2026 14:14:35 +0000",
+    "description": "Andrew Palmer, our Bartleby columnist, reads up on testing regimes",
+    "section": "business"
+  },
+  {
+    "guid": "3ce820e6-411f-4e1f-89c2-0d08f234b5e5",
+    "title": "Pedro Sánchez gambles on a snap election—and populist policies",
+    "link": "https://www.economist.com/europe/2026/10/05/pedro-sanchez-gambles-on-a-snap-election-and-populist-policies",
+    "pubdate": "Mon, 05 Oct 2026 13:16:24 +0000",
+    "description": "Spain’s prime minister makes a last stand for the European left",
+    "section": "europe"
+  },
+  {
+    "guid": "63a4730a-6ca2-45b0-974f-9eab5159adb8",
+    "title": "Record labels are in a spin over AI music",
+    "link": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
+    "pubdate": "Mon, 05 Oct 2026 11:35:13 +0000",
+    "description": "Should they fight upstart labs, or co-operate with them?",
+    "section": "business"
+  },
+  {
+    "guid": "0fa0d8db-d4a3-4aa5-b37b-6c4fd9ab0d86",
+    "title": "Here comes the son? Brazil’s election tips rightward",
+    "link": "https://www.economist.com/podcasts/2026/10/05/here-comes-the-son-brazils-election-tips-rightward",
+    "pubdate": "Mon, 05 Oct 2026 10:20:11 +0000",
+    "description": "Also on the daily podcast: licence-plate readers are angering Americans and a glimpse into being a nanny for the uber-rich",
+    "section": "podcasts"
+  },
+  {
+    "guid": "37ddae90-d20e-4c75-a6bb-5a060bde767b",
+    "title": "Effective altruism is admirable but dangerous",
+    "link": "https://www.economist.com/podcasts/2026/10/05/effective-altruism-is-admirable-but-dangerous",
+    "pubdate": "Mon, 05 Oct 2026 08:53:12 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "6c5e8243-1431-467b-9821-0d9d8b3e2dd2",
+    "title": "The Bolsonaro comeback in Brazil",
+    "link": "https://www.economist.com/the-americas/2026/10/05/the-bolsonaro-comeback-in-brazil",
+    "pubdate": "Mon, 05 Oct 2026 07:20:53 +0000",
+    "description": "Voters are all but sure to make Flávio Bolsonaro the next president",
+    "section": "the-americas"
+  },
+  {
+    "guid": "6bf05139-a062-45cd-9286-ff66f3e8b4dd",
+    "title": "Checks and Balance newsletter: The new politics of Christianity",
+    "link": "https://www.economist.com/united-states/2026/10/05/checks-and-balance-newsletter-the-new-politics-of-christianity",
+    "pubdate": "Mon, 05 Oct 2026 06:43:46 +0000",
+    "description": "Charlotte Howard, our US editor, on the battle for America’s faithful",
+    "section": "united-states"
+  },
+  {
+    "guid": "cb1c6fd5-0be1-4619-8950-5925433465a8",
+    "title": "The world is facing an almighty LNG crunch",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
+    "pubdate": "Sun, 04 Oct 2026 17:11:12 +0000",
+    "description": "In time it could bring about an equally disruptive glut",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "58f9d238-65c8-40a8-aaca-36989f438c1a",
+    "title": "Britain’s Greens have voted, shamefully, to say Zionism is racism",
+    "link": "https://www.economist.com/leaders/2026/10/04/britains-greens-have-voted-shamefully-to-say-zionism-is-racism",
+    "pubdate": "Sun, 04 Oct 2026 16:07:11 +0000",
+    "description": "It is a damning moment for a political party with pretensions to power",
+    "section": "leaders"
+  },
+  {
+    "guid": "d74282a5-5ce2-409d-8a8b-a565de68cc1d",
+    "title": "When gerrymandering meets a blue wave",
+    "link": "https://www.economist.com/united-states/2026/10/04/when-gerrymandering-meets-a-blue-wave",
+    "pubdate": "Sun, 04 Oct 2026 15:37:44 +0000",
+    "description": "The unexpected consequences of Republicans’ effort to redraw electoral maps",
+    "section": "united-states"
+  },
+  {
+    "guid": "ba9c82fe-0ae9-4e85-bce6-694d17e323a4",
+    "title": "How India saved its tigers—and lions and rhinos and elephants",
+    "link": "https://www.economist.com/asia/2026/10/04/how-india-saved-its-tigers-and-lions-and-rhinos-and-elephants",
+    "pubdate": "Sun, 04 Oct 2026 12:09:56 +0000",
+    "description": "India’s wildlife-conservation success holds lessons for other environmental efforts",
+    "section": "asia"
+  },
+  {
+    "guid": "2886c8ef-6692-49f3-8e32-90bd92f24bd0",
+    "title": "White Zimbabweans return to farming",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/04/white-zimbabweans-return-to-farming",
+    "pubdate": "Sun, 04 Oct 2026 11:49:12 +0000",
+    "description": "Their return a generation after Robert Mugabe’s land grabs reflects the country’s potential—and its troubles",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "3368e7d2-c022-4bd1-8b3e-371b4c7ff100",
+    "title": "Will MacAskill responds to our cover story on effective altruism",
+    "link": "https://www.economist.com/by-invitation/2026/10/04/will-macaskill-responds-to-our-cover-story-on-effective-altruism",
+    "pubdate": "Sun, 04 Oct 2026 10:08:26 +0000",
+    "description": "The only way to spark discussion of the future’s big issues is to entertain strange ideas, argues one of the movement’s co-founders",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "87652f62-fd0c-4e0b-a201-a4696dcf683e",
+    "title": "Memory lane",
+    "link": "https://www.economist.com/podcasts/2026/10/03/memory-lane",
+    "pubdate": "Sat, 03 Oct 2026 08:30:00 +0000",
+    "description": "In the age of AI, what is the point of remembering?",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b408093b-639c-4345-bbd8-f70a5cd66741",
+    "title": "The most innovative countries in the world",
+    "link": "https://www.economist.com/graphic-detail/2026/10/02/the-most-innovative-countries-in-the-world",
+    "pubdate": "Fri, 02 Oct 2026 20:00:04 +0000",
+    "description": "Will Donald Trump hurt America’s ranking?",
+    "section": "graphic-detail"
+  },
+  {
+    "guid": "3c7bcd56-0cc4-4b7c-9a12-53f0de06448b",
+    "title": "Schoolyard protests are setting France ablaze",
+    "link": "https://www.economist.com/europe/2026/10/02/schoolyard-protests-are-setting-france-ablaze",
+    "pubdate": "Fri, 02 Oct 2026 16:26:53 +0000",
+    "description": "Six months from an election, the mood is tense",
+    "section": "europe"
+  },
+  {
+    "guid": "6c2ff486-b4da-4e11-83c7-b8c888e0400e",
+    "title": "America’s grim record of failed executions",
+    "link": "https://www.economist.com/united-states/2026/10/02/americas-grim-record-of-failed-executions",
+    "pubdate": "Fri, 02 Oct 2026 15:42:55 +0000",
+    "description": "What happens when states combine ineptitude with the death penalty",
+    "section": "united-states"
+  },
+  {
+    "guid": "e888db3c-8118-4fc2-9e01-4aee987de2f6",
+    "title": "Should you be using a tongue-scraper?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/02/should-you-be-using-a-tongue-scraper",
+    "pubdate": "Fri, 02 Oct 2026 15:12:01 +0000",
+    "description": "Another tool will do the job just as well",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "c1a7b9b9-db63-48cf-b947-4ddfc8e48d9d",
+    "title": "What to watch this week",
+    "link": "https://www.economist.com/culture/2026/10/02/what-to-watch-this-week",
+    "pubdate": "Fri, 02 Oct 2026 14:54:25 +0000",
+    "description": "These films and TV shows are worth returning to",
+    "section": "culture"
+  },
+  {
+    "guid": "3945b10a-114a-405a-a904-f4d172e62d77",
+    "title": "Donald Trump is trying to reshape the media",
+    "link": "https://www.economist.com/podcasts/2026/10/02/donald-trump-is-trying-to-reshape-the-media",
+    "pubdate": "Fri, 02 Oct 2026 14:15:29 +0000",
+    "description": "Our weekly podcast on America. This week, the fractious relationship between the president and the press",
+    "section": "podcasts"
+  },
+  {
+    "guid": "d0ee41c1-dd3d-4719-b6e8-8c242cec3015",
+    "title": "Coffer stop: AI may shrink tax base",
+    "link": "https://www.economist.com/podcasts/2026/10/02/coffer-stop-ai-may-shrink-tax-base",
+    "pubdate": "Fri, 02 Oct 2026 10:27:50 +0000",
+    "description": "Also on the daily podcast: cooling with paint and remembering Stanislas Hutin, who exposed France’s crimes in Algeria",
+    "section": "podcasts"
+  },
+  {
+    "guid": "d51a70d9-2bbc-4a56-a3bf-ed038ce9fff6",
+    "title": "What Brazil must do to kick the corruption habit",
+    "link": "https://www.economist.com/by-invitation/2026/10/02/what-brazil-must-do-to-kick-the-corruption-habit",
+    "pubdate": "Fri, 02 Oct 2026 09:24:30 +0000",
+    "description": "It starts with overhauling the judiciary and the budget, writes Malu Gaspar, the journalist who exposed the latest scandal",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "78630bc5-64a2-4db2-a732-35c26de25d93",
+    "title": "Middle East Dispatch newsletter: The new Judaism reshaping Israel",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/02/middle-east-dispatch-newsletter-the-new-judaism-reshaping-israel",
+    "pubdate": "Fri, 02 Oct 2026 08:56:06 +0000",
+    "description": "A radical shift is taking place at Jerusalem’s holiest site, writes Nicolas Pelham, our Middle East correspondent",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "69a2d729-53a2-46a3-a827-b95a10b91ddf",
+    "title": "The Muslim country churning out Catholic priests",
+    "link": "https://www.economist.com/interactive/1843/2026/10/02/the-muslim-country-churning-out-catholic-priests",
+    "pubdate": "Fri, 02 Oct 2026 08:07:37 +0000",
+    "description": "As Europe struggles to fill its seminaries, a small island in Indonesia has become one of the world’s leading exporters of missionaries",
+    "section": "interactive"
+  },
+  {
+    "guid": "65ebf0a9-1fde-4f48-87f2-f827ed718300",
+    "title": "How to short AI with Carson Block",
+    "link": "https://www.economist.com/podcasts/2026/10/01/how-to-short-ai-with-carson-block",
+    "pubdate": "Thu, 01 Oct 2026 16:06:27 +0000",
+    "description": "Our podcast on markets, the economy and business. This week, a live interview with the famed short-seller",
+    "section": "podcasts"
+  },
+  {
+    "guid": "ccfdb456-0ccc-44e4-aaa5-f8c58c6a7a78",
+    "title": "Cartoon: Democracy v autocracy",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/01/cartoon-democracy-v-autocracy",
+    "pubdate": "Thu, 01 Oct 2026 12:56:48 +0000",
+    "description": "A lighter take on the news",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "cf2fbeb6-013e-44a1-b52f-3e5e029cd1e9",
+    "title": "Economic data, commodities and markets",
+    "link": "https://www.economist.com/economic-and-financial-indicators/2026/10/01/economic-data-commodities-and-markets",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "",
+    "section": "economic-and-financial-indicators"
+  },
+  {
+    "guid": "32dc7c55-8b9d-4f06-8171-837aaa568e1c",
+    "title": "Stanislas Hutin knew he must not stay silent",
+    "link": "https://www.economist.com/obituary/2026/10/01/stanislas-hutin-knew-he-must-not-stay-silent",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "The exposer of French war crimes in Algeria died on September 2nd, aged 95",
+    "section": "obituary"
+  },
+  {
+    "guid": "b3689d8e-5210-41d0-9229-a1413218e8fe",
+    "title": "Why supplements need supplemental disclosures",
+    "link": "https://www.economist.com/culture/2026/10/01/why-supplements-need-supplemental-disclosures",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "A new book takes aim at the marketing and pseudoscience behind the wellness industry",
+    "section": "culture"
+  },
+  {
+    "guid": "11b81132-0456-4f6a-941d-60e02edebb23",
+    "title": "Why singing is note-worthy, even if you’re bad at it",
+    "link": "https://www.economist.com/culture/2026/10/01/why-singing-is-note-worthy-even-if-youre-bad-at-it",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "A new book argues that more people should try to carry a tune",
+    "section": "culture"
+  },
+  {
+    "guid": "57c5315b-e4eb-40ed-a4dc-b005d635a25b",
+    "title": "What a rural American cooking contest reveals about food culture",
+    "link": "https://www.economist.com/culture/2026/10/01/what-a-rural-american-cooking-contest-reveals-about-food-culture",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "The “Roadkill Cook-Off” shows that wild game can be wildly tasty",
+    "section": "culture"
+  },
+  {
+    "guid": "2725c6eb-08c5-4c05-bac8-d69e2f7a8334",
+    "title": "Can you really perform a tracheotomy with a pen?",
+    "link": "https://www.economist.com/culture/2026/10/01/can-you-really-perform-a-tracheotomy-with-a-pen",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Yes. But as a new book shows, it has better uses",
+    "section": "culture"
+  },
+  {
+    "guid": "3761c17e-5e28-4fb8-82e1-b38490778825",
+    "title": "You’re not sending an email. You’re training a model",
+    "link": "https://www.economist.com/business/2026/10/01/youre-not-sending-an-email-youre-training-a-model",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Privacy, employee data and the demands of AI",
+    "section": "business"
+  },
+  {
+    "guid": "649e5e79-44fa-4c75-a129-8975ef25edb1",
+    "title": "The Swiss watch industry is shrinking—but getting swankier",
+    "link": "https://www.economist.com/business/2026/10/01/the-swiss-watch-industry-is-shrinking-but-getting-swankier",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Brands such as Rolex and Patek Philippe are consolidating the market",
+    "section": "business"
+  },
+  {
+    "guid": "e40a06c6-2463-46fe-8100-04231d81e2b7",
+    "title": "Chinese students abroad are more liberal than at home",
+    "link": "https://www.economist.com/china/2026/10/01/chinese-students-abroad-are-more-liberal-than-at-home",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "They see faults in China’s system as well as in democracies, surveys show",
+    "section": "china"
+  },
+  {
+    "guid": "b9091473-5148-4c20-b2c1-1d23dc3d7de5",
+    "title": "Japan’s tea farmers enjoy a matcha boom",
+    "link": "https://www.economist.com/asia/2026/10/01/japans-tea-farmers-enjoy-a-matcha-boom",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "But they face growing competition from China",
+    "section": "asia"
+  },
+  {
+    "guid": "64d6e79f-cac6-48c0-a1ef-9d3f9eda5fcd",
+    "title": "China lavishes attention on a little-known competition",
+    "link": "https://www.economist.com/china/2026/10/01/china-lavishes-attention-on-a-little-known-competition",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "It sees the “skills Olympics” as a chance to boost its power",
+    "section": "china"
+  },
+  {
+    "guid": "1a0d49af-dcc1-4361-b0ae-7da653f4fe05",
+    "title": "A huge increase in tourists visiting Komodo brings new dangers",
+    "link": "https://www.economist.com/asia/2026/10/01/a-huge-increase-in-tourists-visiting-komodo-brings-new-dangers",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "There are calls for more restrictions",
+    "section": "asia"
+  },
+  {
+    "guid": "c8218019-5e23-41ba-aa62-da6d4faf3a03",
+    "title": "Vietnam's high-tech dreams come with an electricity problem",
+    "link": "https://www.economist.com/asia/2026/10/01/vietnams-high-tech-dreams-come-with-an-electricity-problem",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "It needs more LNG-generated power, but isn’t ready to pay for it",
+    "section": "asia"
+  },
+  {
+    "guid": "e5bbd138-af1b-4fe4-9b5e-7efcb14fff91",
+    "title": "A new museum for Mexico’s armed forces prompts a backlash",
+    "link": "https://www.economist.com/the-americas/2026/10/01/a-new-museum-for-mexicos-armed-forces-prompts-a-backlash",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Some worry about the army’s ever expanding role in the state",
+    "section": "the-americas"
+  },
+  {
+    "guid": "e0da0a98-69b4-47f5-b4a0-a8b0eac29f94",
+    "title": "The world’s busiest migration route has gone quiet",
+    "link": "https://www.economist.com/the-americas/2026/10/01/the-worlds-busiest-migration-route-has-gone-quiet",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Donald Trump’s immigration curbs have changed the movement of people throughout a hemisphere",
+    "section": "the-americas"
+  },
+  {
+    "guid": "f1c5d4b1-503c-4c90-aa58-a2ca2d981ee2",
+    "title": "Jared Kushner has a $2.45bn recovery plan for Gaza",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/01/jared-kushner-has-a-245bn-recovery-plan-for-gaza",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "But the board of peace’s grand promises ring hollow in the strip",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "14ad3a7f-1d51-4df2-b096-2adb0fad8209",
+    "title": "Nigerians dislike their president, but may re-elect him anyway",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/01/nigerians-dislike-their-president-but-may-re-elect-him-anyway",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Political cynicism, a divided opposition and religion all play a role",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "19efc582-727d-4ea7-b54d-ab3f004258b7",
+    "title": "Abolish the White House press corps",
+    "link": "https://www.economist.com/united-states/2026/10/01/abolish-the-white-house-press-corps",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "With his spitefulness to the press, Donald Trump is giving it the chance to reform how it covers the presidency",
+    "section": "united-states"
+  },
+  {
+    "guid": "1bf9dc34-2041-430b-a813-3e83506f8ea3",
+    "title": "Florida has put America’s boldest tax cut on the ballot",
+    "link": "https://www.economist.com/united-states/2026/10/01/florida-has-put-americas-boldest-tax-cut-on-the-ballot",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "It may be too tempting for voters to resist, but passing it will come back to bite them",
+    "section": "united-states"
+  },
+  {
+    "guid": "5c8bd5eb-6982-4287-bb9e-59792276d904",
+    "title": "The pointless war on “narco-terrorists” is growing more collaborative",
+    "link": "https://www.economist.com/united-states/2026/10/01/the-pointless-war-on-narco-terrorists-is-growing-more-collaborative",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "America is working with Latin American governments to target gangs on land and at sea",
+    "section": "united-states"
+  },
+  {
+    "guid": "0bb15cfe-b385-4ac0-8af5-d96759095ae9",
+    "title": "What’s even more politically toxic than high prices at the pump?",
+    "link": "https://www.economist.com/united-states/2026/10/01/whats-even-more-politically-toxic-than-high-prices-at-the-pump",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "The soaring cost of health care is a problem for Republicans",
+    "section": "united-states"
+  },
+  {
+    "guid": "d8313352-ab77-4e44-94da-86b5da78e4b1",
+    "title": "The coming fight over free speech",
+    "link": "https://www.economist.com/united-states/2026/10/01/the-coming-fight-over-free-speech",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "The Supreme Court must decide whether to limit the First Amendment or executive power",
+    "section": "united-states"
+  },
+  {
+    "guid": "d4d197b6-6a62-4e9f-a652-4815b87bb46e",
+    "title": "The EU budget is where grand strategy meets petty squabbling",
+    "link": "https://www.economist.com/europe/2026/10/01/the-eu-budget-is-where-grand-strategy-meets-petty-squabbling",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "And petty squabbling always wins",
+    "section": "europe"
+  },
+  {
+    "guid": "ec7e79db-cc3d-435e-b4db-6b41605708eb",
+    "title": "Finland has a fix for nuclear waste",
+    "link": "https://www.economist.com/europe/2026/10/01/finland-has-a-fix-for-nuclear-waste",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "At least until the next ice age",
+    "section": "europe"
+  },
+  {
+    "guid": "150fbcae-e7a2-4fd8-a025-1e171c0f9e90",
+    "title": "A row over a march in Northern Ireland could upend its government",
+    "link": "https://www.economist.com/britain/2026/10/01/a-row-over-a-march-in-northern-ireland-could-upend-its-government",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "The crisis suits both of the main parties",
+    "section": "britain"
+  },
+  {
+    "guid": "52859c6f-253d-4e10-b305-afca32974905",
+    "title": "Britain implements a rule the Grenfell inquiry never recommended",
+    "link": "https://www.economist.com/britain/2026/10/01/britain-implements-a-rule-the-grenfell-inquiry-never-recommended",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "A second-staircase requirement will further clog up homebuilding",
+    "section": "britain"
+  },
+  {
+    "guid": "1c6eebe4-a834-4592-95ad-7896b420230e",
+    "title": "Britain’s taxes are strewn with loopholes and perverse incentives",
+    "link": "https://www.economist.com/britain/2026/10/01/britains-taxes-are-strewn-with-loopholes-and-perverse-incentives",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "They need reform",
+    "section": "britain"
+  },
+  {
+    "guid": "732a412b-652b-4b60-9d8c-5addb5978da4",
+    "title": "China is giving its economy a big shot in the arm",
+    "link": "https://www.economist.com/briefing/2026/10/01/china-is-giving-its-economy-a-big-shot-in-the-arm",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "A massive infrastructure scheme may give the country a sorely needed boost—and help rebalance the world economy",
+    "section": "briefing"
+  },
+  {
+    "guid": "ca8ba54c-0c78-42a5-b513-c36f69ac6341",
+    "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+    "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Playing catch-up with the technology is not an option",
+    "section": "leaders"
+  },
+  {
+    "guid": "f3f9c972-3599-432d-82a3-f6d2cef3b112",
+    "title": "Brazil’s complicated finances",
+    "link": "https://www.economist.com/letters/2026/10/01/brazils-complicated-finances",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "Also this week, AI solving maths equations, money in British politics, Walter Bagehot, trucking to Iran, corporate videos",
+    "section": "letters"
+  },
+  {
+    "guid": "1297b47c-5133-49a2-81b1-073c43273263",
+    "title": "China’s new infrastructure push will help itself and the world",
+    "link": "https://www.economist.com/leaders/2026/10/01/chinas-new-infrastructure-push-will-help-itself-and-the-world",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "But it must still do more to lift consumption",
+    "section": "leaders"
+  },
+  {
+    "guid": "e567b6a7-e25d-448b-b0c2-86e1452c2a39",
+    "title": "Business",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/01/business",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "e920005d-7aa0-41b3-aa4c-ca05bcae19ed",
+    "title": "Politics",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/01/politics",
+    "pubdate": "Thu, 01 Oct 2026 12:45:03 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "c6d58326-3a04-4e23-ba82-391302f7ffab",
+    "title": "A rocket shortage gives SpaceX’s competitors an opportunity",
+    "link": "https://www.economist.com/business/2026/10/01/a-rocket-shortage-gives-spacexs-competitors-an-opportunity",
+    "pubdate": "Thu, 01 Oct 2026 12:44:46 +0000",
+    "description": "The firm may soon have little capacity to launch others’ payloads",
+    "section": "business"
+  },
+  {
+    "guid": "b78e2bde-06c2-452f-996e-ea5f38277e2b",
+    "title": "Trial and terror: Russia escalates Kyiv campaign",
+    "link": "https://www.economist.com/podcasts/2026/10/01/trial-and-terror-russia-escalates-kyiv-campaign",
+    "pubdate": "Thu, 01 Oct 2026 10:57:29 +0000",
+    "description": "Also on the daily podcast: tech firms refine smart glasses and a history of pens",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b2a79e0c-c92f-46fb-b81c-742e838e0c83",
+    "title": "Allegations of bias are rocking India’s electoral watchdog",
+    "link": "https://www.economist.com/asia/2026/10/01/allegations-of-bias-are-rocking-indias-electoral-watchdog",
+    "pubdate": "Thu, 01 Oct 2026 10:08:10 +0000",
+    "description": "It is barring tens of millions from voting",
+    "section": "asia"
+  },
+  {
+    "guid": "12859213-f66e-4221-9381-fe6d395b3b5b",
+    "title": "A hurricane is coming to tax systems",
+    "link": "https://www.economist.com/leaders/2026/10/01/a-hurricane-is-coming-to-tax-systems",
+    "pubdate": "Thu, 01 Oct 2026 09:55:56 +0000",
+    "description": "Governments should be preparing, but most aren’t",
+    "section": "leaders"
+  },
+  {
+    "guid": "13d2be60-bdec-4366-8568-170221e7bab3",
+    "title": "Don’t put Donald Trump and Kim Jong Un in a room together",
+    "link": "https://www.economist.com/leaders/2026/10/01/dont-put-donald-trump-and-kim-jong-un-in-a-room-together",
+    "pubdate": "Thu, 01 Oct 2026 09:53:14 +0000",
+    "description": "A summit between the two “friends” could go horribly wrong",
+    "section": "leaders"
+  },
+  {
+    "guid": "870eedea-f479-4f48-a629-7188bd1f1dca",
+    "title": "Effective altruism is this century’s biggest idea",
+    "link": "https://www.economist.com/leaders/2026/10/01/effective-altruism-is-this-centurys-biggest-idea",
+    "pubdate": "Thu, 01 Oct 2026 09:39:16 +0000",
+    "description": "The movement is admirable, but dangerous",
+    "section": "leaders"
+  },
+  {
+    "guid": "e2020f72-a75d-47fb-ba35-aad3a1f35b0d",
+    "title": "How effective altruism conquered the world",
+    "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+    "pubdate": "Thu, 01 Oct 2026 09:37:47 +0000",
+    "description": "And how the 21st century’s most important social movement might yet end it",
+    "section": "international"
+  },
+  {
+    "guid": "4ad3ece9-6f7f-415f-8269-38a0178a6c9c",
+    "title": "Governments want to hold America’s shares more than its debts",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
+    "pubdate": "Thu, 01 Oct 2026 09:08:56 +0000",
+    "description": "When countries switch towards riskier assets, the global economy feels the consequences",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "bbe95a8d-2147-484c-a23b-c38daa91d6da",
+    "title": "Research on grasping bureaucrats startles Singapore",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
+    "pubdate": "Thu, 01 Oct 2026 09:07:03 +0000",
+    "description": "It is more revealing about its academic culture than its civil service",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "0fb0e728-f474-45c4-adb2-97c938de7173",
+    "title": "Financial astrology is a serious business in India",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/01/financial-astrology-is-a-serious-business-in-india",
+    "pubdate": "Thu, 01 Oct 2026 09:05:52 +0000",
+    "description": "That is bad news for investors’ returns",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "99ac10ba-73b3-47fb-af6f-b2feb32009ac",
+    "title": "The Mafia may keep fentanyl out of Italy",
+    "link": "https://www.economist.com/podcasts/2026/10/01/the-mafia-may-keep-fentanyl-out-of-italy",
+    "pubdate": "Thu, 01 Oct 2026 09:00:00 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "53cb8e2c-f1e8-4e8e-bba5-ef2b2ec23a05",
+    "title": "The era of speedball capitalism has dawned",
+    "link": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+    "pubdate": "Wed, 30 Sep 2026 19:06:34 +0000",
+    "description": "A financial revolution is taking place in America",
+    "section": "business"
+  },
+  {
+    "guid": "95da3893-605e-441e-b890-e8e43020b5f2",
+    "title": "Simulating death can reduce people’s fear of dying",
+    "link": "https://www.economist.com/science-and-technology/2026/09/30/simulating-death-can-reduce-peoples-fear-of-dying",
+    "pubdate": "Wed, 30 Sep 2026 18:24:14 +0000",
+    "description": "And help doctors train for the worst",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "09e190da-e824-4afe-aa75-5e5457cccbc2",
+    "title": "It may soon be possible to create “mirror life”",
+    "link": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
+    "pubdate": "Wed, 30 Sep 2026 18:23:51 +0000",
+    "description": "Such research poses risks for humanity and the planet",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "56473e9c-b909-4f75-b8bc-671d6a9ae575",
+    "title": "Andy Burnham, faux heretic",
+    "link": "https://www.economist.com/britain/2026/09/30/andy-burnham-faux-heretic",
+    "pubdate": "Wed, 30 Sep 2026 17:27:45 +0000",
+    "description": "Britain’s radical prime minister has some very orthodox ideas",
+    "section": "britain"
+  },
+  {
+    "guid": "9e6827e5-7e2d-455b-ab3a-63610377d652",
+    "title": "How will AI philanthropy change development aid?",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/09/30/how-will-ai-philanthropy-change-development-aid",
+    "pubdate": "Wed, 30 Sep 2026 16:02:54 +0000",
+    "description": "As Anthropic and its ilk join the donor class, they must avoid old pitfalls",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "6671125b-eab9-419f-a9af-db69b51d0454",
+    "title": "Manchester City, found guilty of cheating, stares into the abyss",
+    "link": "https://www.economist.com/britain/2026/09/30/manchester-city-found-guilty-of-cheating-stares-into-the-abyss",
+    "pubdate": "Wed, 30 Sep 2026 15:51:24 +0000",
+    "description": "The Premier League’s punishment for the club will define English football for decades",
+    "section": "britain"
+  },
+  {
+    "guid": "689e9c50-cf62-4abd-a318-817367ce4222",
+    "title": "Carlo Rovelli on what physicists get wrong",
+    "link": "https://www.economist.com/podcasts/2026/09/30/carlo-rovelli-on-what-physicists-get-wrong",
+    "pubdate": "Wed, 30 Sep 2026 15:47:11 +0000",
+    "description": "Our podcast on science and technology. This week, our interview with the quantum physicist on the relative nature of reality",
+    "section": "podcasts"
+  },
+  {
+    "guid": "eec0af82-5fdb-4d83-abed-b43aeb524c38",
+    "title": "Bond markets whack France for fiscal irresponsibility",
+    "link": "https://www.economist.com/europe/2026/09/30/bond-markets-whack-france-for-fiscal-irresponsibility",
+    "pubdate": "Wed, 30 Sep 2026 15:15:28 +0000",
+    "description": "Political risk brings economic pain",
+    "section": "europe"
+  },
+  {
+    "guid": "19d8c78c-49e1-4668-9024-0abba3c42465",
+    "title": "In an AI crisis, would China answer the phone?",
+    "link": "https://www.economist.com/china/2026/09/30/in-an-ai-crisis-would-china-answer-the-phone",
+    "pubdate": "Wed, 30 Sep 2026 15:03:27 +0000",
+    "description": "The Americans want a hotline but the Chinese have been cool in the past",
+    "section": "china"
+  },
+  {
+    "guid": "02a543f9-f843-40ca-b5a2-159c757f9766",
+    "title": "Introducing our Economist Weekend newsletter",
+    "link": "https://www.economist.com/1843/2026/09/30/introducing-our-economist-weekend-newsletter",
+    "pubdate": "Wed, 30 Sep 2026 14:18:10 +0000",
+    "description": "Every Sunday, we’ll deliver our award-winning 1843 journalism, alongside a curated selection of reads",
+    "section": "1843"
+  },
+  {
+    "guid": "aef629eb-40cd-429a-be11-ec700a492adf",
+    "title": "For the first time Latin Americans prefer China to America",
+    "link": "https://www.economist.com/the-americas/2026/09/30/for-the-first-time-latin-americans-prefer-china-to-america",
+    "pubdate": "Wed, 30 Sep 2026 12:32:48 +0000",
+    "description": "Donald Trump’s interventions are unpopular, but tough talk on security resonates",
+    "section": "the-americas"
+  },
+  {
+    "guid": "ca4d6d4d-a771-40f6-8c16-11fbe354c73f",
+    "title": "Cheques and the City: Premier League disgrace",
+    "link": "https://www.economist.com/podcasts/2026/09/30/cheques-and-the-city-premier-league-disgrace",
+    "pubdate": "Wed, 30 Sep 2026 10:16:26 +0000",
+    "description": "Also on the daily podcast: Russia’s covert attacks and cute Chiikawas go global",
+    "section": "podcasts"
+  },
+  {
+    "guid": "8c87d953-a8c2-4d12-b3cb-d89669a234c4",
+    "title": "Donald Trump’s love-in with Delcy Rodríguez",
+    "link": "https://www.economist.com/podcasts/2026/09/30/donald-trumps-love-in-with-delcy-rodriguez",
+    "pubdate": "Wed, 30 Sep 2026 08:17:51 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "fbde9279-5989-479a-bc7d-e6effdc572d5",
+    "title": "Has Iran lost its grip on Gulf oil exports?",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/09/29/has-iran-lost-its-grip-on-gulf-oil-exports",
+    "pubdate": "Tue, 29 Sep 2026 21:09:15 +0000",
+    "description": "Exports through the Strait of Hormuz and beyond are soaring but prices remain stubbornly high",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "e7aeaa2b-fd77-43c4-a38e-daf09d1ec4db",
+    "title": "Democracy is stronger than it looks",
+    "link": "https://www.economist.com/international/2026/09/29/democracy-is-stronger-than-it-looks",
+    "pubdate": "Tue, 29 Sep 2026 20:07:11 +0000",
+    "description": "Open societies have weathered murderous leftists and fascist radicals before",
+    "section": "international"
+  },
+  {
+    "guid": "5e2eb4ee-3020-4b4f-971d-7bfb5152c86a",
+    "title": "Andy Burnham gets bold at last",
+    "link": "https://www.economist.com/britain/2026/09/29/andy-burnham-gets-bold-at-last",
+    "pubdate": "Tue, 29 Sep 2026 19:16:12 +0000",
+    "description": "But looming hard decisions could test Labour’s unity",
+    "section": "britain"
+  },
+  {
+    "guid": "2c76209f-8c10-4cef-9363-9d5f26b80fee",
+    "title": "Investing for babies involves knotty trade-offs",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
+    "pubdate": "Tue, 29 Sep 2026 17:28:26 +0000",
+    "description": "Should new parents favour financial capital, human capital or something else?",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "3a6acc4a-7ffc-4944-b34e-0cb858a18172",
+    "title": "Plot Twist newsletter: George Lucas and the cult of the founder",
+    "link": "https://www.economist.com/culture/2026/09/29/plot-twist-newsletter-george-lucas-and-the-cult-of-the-founder",
+    "pubdate": "Tue, 29 Sep 2026 16:48:23 +0000",
+    "description": "Alexandra Suich Bass, our culture editor, toured the creator of Star Wars’s new billion-dollar galaxy",
+    "section": "culture"
+  },
+  {
+    "guid": "bc5fefce-d3be-48fc-a1a8-5b266121fbdb",
+    "title": "Blighty newsletter: The “white heat” of Andy",
+    "link": "https://www.economist.com/britain/2026/09/29/blighty-newsletter-the-white-heat-of-andy",
+    "pubdate": "Tue, 29 Sep 2026 16:44:03 +0000",
+    "description": "Hugo Gye, our Britain political correspondent, reports on Wilson-mania at the Labour Party conference",
+    "section": "britain"
+  },
+  {
+    "guid": "7e026cec-bef0-49d6-9842-f90a5205479e",
+    "title": "Putin’s new bombardment of Kyiv has a terrible logic",
+    "link": "https://www.economist.com/europe/2026/09/29/putins-new-bombardment-of-kyiv-has-a-terrible-logic",
+    "pubdate": "Tue, 29 Sep 2026 16:17:16 +0000",
+    "description": "A Russian terror campaign aims to cripple the capital even before winter hits",
+    "section": "europe"
+  },
+  {
+    "guid": "2cf9a1f9-8d52-478a-8aef-d261a1e4314b",
+    "title": "The AI boom meets a new kind of crypto scam",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
+    "pubdate": "Tue, 29 Sep 2026 16:05:58 +0000",
+    "description": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "6fc772ab-6c3f-4a41-a3b7-bc4757fa6274",
+    "title": "How the AI boom could worsen the rich world’s fiscal crunch",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
+    "pubdate": "Tue, 29 Sep 2026 15:55:44 +0000",
+    "description": "Even with higher growth, taxes may be harder to find",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "66095f1e-84b5-4baf-b69b-f2909bedc90d",
+    "title": "The rise of therapy in China",
+    "link": "https://www.economist.com/podcasts/2026/09/29/the-rise-of-therapy-in-china",
+    "pubdate": "Tue, 29 Sep 2026 15:06:32 +0000",
+    "description": "Our weekly podcast on China. This week, how the country’s attitudes towards mental health are changing",
+    "section": "podcasts"
+  },
+  {
+    "guid": "f40120f7-4ec4-4052-a938-640870eda78d",
+    "title": "Analysing Africa newsletter: The war everyone saw coming",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/09/29/analysing-africa-newsletter-the-war-everyone-saw-coming",
+    "pubdate": "Tue, 29 Sep 2026 14:14:57 +0000",
+    "description": "Ethiopia’s latest civil war did not begin in a vacuum, writes Tom Gardner, our Africa correspondent",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "8c0997ff-869e-400b-a50e-3ee0e486c2ac",
+    "title": "There’s a physical version of the AI singularity, and it matters a lot",
+    "link": "https://www.economist.com/by-invitation/2026/09/29/theres-a-physical-version-of-the-ai-singularity-and-it-matters-a-lot",
+    "pubdate": "Tue, 29 Sep 2026 11:07:56 +0000",
+    "description": "The world is entering an era of supercharged industrial capacity with fast-shrinking human input, reckons Jeff Schneider",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "e2258b21-c7a6-4dc6-b66f-64df93be8adb",
+    "title": "Brazil rut: Lula v Bolsonaro, again",
+    "link": "https://www.economist.com/podcasts/2026/09/29/brazil-rut-lula-v-bolsonaro-again",
+    "pubdate": "Tue, 29 Sep 2026 09:51:40 +0000",
+    "description": "Also on the daily podcast: the high cost of honour culture and phone-free gigs",
+    "section": "podcasts"
+  },
+  {
+    "guid": "1340eb55-13b1-49ab-ad36-9676c9399c92",
+    "title": "Why markets struggle to price in world-ending AI",
+    "link": "https://www.economist.com/podcasts/2026/09/29/why-markets-struggle-to-price-in-world-ending-ai",
+    "pubdate": "Tue, 29 Sep 2026 08:27:21 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "87512cd5-31fb-4d2c-886a-b5c313ef6687",
+    "title": "In Evan Gershkovich’s new memoir, prison is a microcosm of Russia",
+    "link": "https://www.economist.com/culture/2026/09/29/in-evan-gershkovichs-new-memoir-prison-is-a-microcosm-of-russia",
+    "pubdate": "Tue, 29 Sep 2026 02:11:32 +0000",
+    "description": "His stint behind bars offers a window onto the country’s wartime soul",
+    "section": "culture"
+  },
+  {
+    "guid": "a138d66c-dd75-4de2-85f8-b6fe4b3f2003",
+    "title": "Big Law’s century-old business model is being transformed",
+    "link": "https://www.economist.com/business/2026/09/28/big-laws-century-old-business-model-is-being-transformed",
+    "pubdate": "Mon, 28 Sep 2026 18:52:47 +0000",
+    "description": "Leading firms are swooping on each other’s star partners",
+    "section": "business"
+  },
+  {
+    "guid": "1e429ad7-217f-4b2b-8c24-500042cb2b87",
+    "title": "Artificial intelligence is coming for Israel’s voters",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters",
+    "pubdate": "Mon, 28 Sep 2026 18:49:18 +0000",
+    "description": "Governments and voters elsewhere should be watching",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "84378ef4-b7d8-449c-aa48-0a297bf0b421",
+    "title": "A foiled plot in Fairford is predictable but puzzling",
+    "link": "https://www.economist.com/britain/2026/09/28/a-foiled-plot-in-fairford-is-predictable-but-puzzling",
+    "pubdate": "Mon, 28 Sep 2026 18:39:08 +0000",
+    "description": "The threat to Britain’s military bases is real, and complicated",
+    "section": "britain"
+  },
+  {
+    "guid": "978ecdb7-9454-4ea9-928a-2bd3648751a3",
+    "title": "Why MAGA hates and loves Europe",
+    "link": "https://www.economist.com/europe/2026/09/28/why-maga-hates-and-loves-europe",
+    "pubdate": "Mon, 28 Sep 2026 18:16:03 +0000",
+    "description": "Three big reasons explain the New Right’s hostility to Europeans",
+    "section": "europe"
+  },
+  {
+    "guid": "3072ff42-f3b1-4fd9-8175-73a6330393dd",
+    "title": "Britain overtaxes well-paid workers",
+    "link": "https://www.economist.com/britain/2026/09/28/britain-overtaxes-well-paid-workers",
+    "pubdate": "Mon, 28 Sep 2026 17:17:42 +0000",
+    "description": "To the benefit of average earners and the super-rich",
+    "section": "britain"
+  },
+  {
+    "guid": "c392b2ef-1984-45ba-8530-3c326b8fe82a",
+    "title": "Xi Jinping uses old festivals to boost the party’s image",
+    "link": "https://www.economist.com/china/2026/09/28/xi-jinping-uses-old-festivals-to-boost-the-partys-image",
+    "pubdate": "Mon, 28 Sep 2026 17:09:41 +0000",
+    "description": "But ancient traditions may not always bend to his will",
+    "section": "china"
+  },
+  {
+    "guid": "40b019be-bf49-4725-859f-151a7bd0816c",
+    "title": "Authoritarians have a secret Achilles heel: City Hall",
+    "link": "https://www.economist.com/by-invitation/2026/09/28/authoritarians-have-a-secret-achilles-heel-city-hall",
+    "pubdate": "Mon, 28 Sep 2026 14:33:26 +0000",
+    "description": "Mayors have become democracy’s most reliable defenders. American voters should take note, writes Alexander Heffner",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "e522a38a-d906-44e6-8318-11d5f70dd9e0",
+    "title": "Foiled plot: did Iran plan British base attack?",
+    "link": "https://www.economist.com/podcasts/2026/09/28/foiled-plot-did-iran-plan-british-base-attack",
+    "pubdate": "Mon, 28 Sep 2026 09:34:11 +0000",
+    "description": "Also on the daily podcast: oil firms’ windfall and girl dads raise women’s wages",
+    "section": "podcasts"
+  },
+  {
+    "guid": "0362d9b8-1e10-42c5-99f2-b6c10dac33c9",
+    "title": "America’s departure from the Middle East",
+    "link": "https://www.economist.com/podcasts/2026/09/28/americas-departure-from-the-middle-east",
+    "pubdate": "Mon, 28 Sep 2026 08:37:57 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  }
+]
