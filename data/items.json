@@ -1,5 +1,61 @@
 [
   {
+    "guid": "5d86e777-75ca-4fe2-b483-f1a5e59ae06a",
+    "title": "It’s not just Commerzbank: Italians are eating up German business",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+    "pubdate": "Fri, 16 Oct 2026 17:58:53 +0000",
+    "description": "The takeover of the bank by UniCredit is only the start",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "ef3d5dcc-0738-4dc7-9616-59a987d9290a",
+    "title": "Can joggers outrun injury?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/16/can-joggers-outrun-injury",
+    "pubdate": "Fri, 16 Oct 2026 17:53:14 +0000",
+    "description": "Patience when training goes the extra mile",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "41b95274-7b1b-44f1-b91e-9299e33b5aa7",
+    "title": "The data centre backlash",
+    "link": "https://www.economist.com/podcasts/2026/10/16/the-data-centre-backlash",
+    "pubdate": "Fri, 16 Oct 2026 15:11:18 +0000",
+    "description": "Our weekly podcast on America. This week, why the buildings are so unpopular with voters",
+    "section": "podcasts"
+  },
+  {
+    "guid": "570c85a5-d805-41e6-acf7-9bb1f07e7636",
+    "title": "The Cuba archives: Kennedy’s disastrous invasion",
+    "link": "https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-3",
+    "pubdate": "Fri, 16 Oct 2026 14:13:06 +0000",
+    "description": "Part 3 in our series on how The Economist reported on a pivotal decade in US-Cuba relations",
+    "section": "interactive"
+  },
+  {
+    "guid": "b94163ed-a989-4ff2-b7de-9b7a96f91c97",
+    "title": "The Cuba archives: A revolution and America’s reaction",
+    "link": "https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-2",
+    "pubdate": "Fri, 16 Oct 2026 14:13:02 +0000",
+    "description": "Part 2 in our series on how The Economist reported on a pivotal decade in US-Cuba relations",
+    "section": "interactive"
+  },
+  {
+    "guid": "e262e3ad-6a98-4003-84e5-7216091ee6b1",
+    "title": "The Cuba archives: The coup that took America by surprise",
+    "link": "https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-1",
+    "pubdate": "Fri, 16 Oct 2026 14:12:55 +0000",
+    "description": "Part 1 in our series on how The Economist reported on a pivotal decade in US-Cuba relations",
+    "section": "interactive"
+  },
+  {
+    "guid": "ebe04cd9-3342-499a-be4c-cb3239e18fbe",
+    "title": "A former ally asks why Donald Trump abandoned his own legacy",
+    "link": "https://www.economist.com/by-invitation/2026/10/16/a-former-ally-asks-why-donald-trump-abandoned-his-own-legacy",
+    "pubdate": "Fri, 16 Oct 2026 14:04:42 +0000",
+    "description": "The president is undermining the few advantages Republicans still have, writes Marc Short",
+    "section": "by-invitation"
+  },
+  {
     "guid": "8ca94bf9-022d-4267-8088-c969e3f258ec",
     "title": "Schrödinger’s chat: will AI take over science?",
     "link": "https://www.economist.com/podcasts/2026/10/16/schrodingers-chat-will-ai-take-over-science",
