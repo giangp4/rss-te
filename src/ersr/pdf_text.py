@@ -21,6 +21,19 @@ SECTION_BOX = "ALSO IN THIS SECTION"
 SECTION_BOX_ENTRY = re.compile(r"^(\d{1,3}|—) \S")
 
 
+def header_section(page) -> str:
+    """Section named in the running header ('Briefing', 'United States'), if any."""
+    names = []
+    for b in page.get_text("dict")["blocks"]:
+        for l in b.get("lines", []):
+            for s in l["spans"]:
+                t = s["text"].strip().translate(LIGATURES)
+                if (s["bbox"][1] < HEADER_Y and s["flags"] & 16 and t and t != "The Economist"
+                        and not t.isdigit()):
+                    names.append(t)
+    return " ".join(names)
+
+
 def is_content_page(page) -> bool:
     """Content pages carry the 'The Economist' running header; ads and the cover don't."""
     for b in page.get_text("dict")["blocks"]:
@@ -72,6 +85,10 @@ def kind(span, body: float = 9.0) -> str:
         return "section"
     if size >= 17 and "SemiBol" in font:
         return "headline"
+    if 14 <= size < 17 and font.startswith("EconomistSerif-SemiBold"):
+        return "section"  # page masthead, e.g. Letters
+    if 14 <= size < 17 and "LightIt" in font:
+        return "topic"    # the masthead's list of topics
     # columns (Bagehot, Schumpeter…), obituary, by invitation: centred, different fonts
     if size >= 17 and font.startswith("EconomistSerifSC-Bold"):
         return "rubric"
@@ -170,11 +187,82 @@ def replace_figures(page, lines, figures_dir):
                 if not f["photo"] or y0 >= f["img"].y1 - 2:  # photo/map: only the caption below counts
                     texts.append(t)
         # chart: title is its first line; photo: the caption under it
+        texts = [t for t in texts if any(c.isalpha() for c in t)]  # skip chart number boxes ('3')
         label = (" ".join(texts) if f["photo"] else (texts[0] if texts else "")).strip()
         rect = f["rect"]
         kept.append(({"bbox": tuple(rect), "spans": [{"text": f"{name}: {label}" if label else name,
                                                      "bbox": tuple(rect)}]}, "figure"))
     return kept
+
+
+def panels(page, lines) -> list[pymupdf.Rect]:
+    """Shaded boxes that hold article text (boxed articles, columns set in a box)."""
+    body = [pymupdf.Rect(l["bbox"]) for l, k in lines if k == "body"]
+    found = []
+    for d in page.get_drawings():
+        r = d["rect"]
+        if d.get("fill") and r.width > 150 and r.height > 150 and sum(r.contains(b) for b in body) >= 5:
+            if not any(f.contains(r) for f in found):
+                found = [f for f in found if not r.contains(f)] + [r]
+    return found
+
+
+def bold_block_starts(lines, cols, col_of) -> list[tuple[float, list[float]]]:
+    """A long all-bold block that starts at the same height in neighbouring columns
+    (a letter set in bold as a sidebar) cuts those columns like a mid-page headline."""
+    runs = []  # (column, top y) of each run of 4+ bold lines
+    bold = sorted((l for l, k in lines if k == "subhead"), key=lambda l: (col_of(l), l["bbox"][1]))
+    run = []
+    for l in bold + [None]:
+        if run and (l is None or col_of(l) != col_of(run[-1]) or l["bbox"][1] - run[-1]["bbox"][3] > 4):
+            if len(run) >= 4:
+                runs.append((col_of(run[0]), run[0]["bbox"][1]))
+            run = []
+        if l is not None:
+            run.append(l)
+    starts = []
+    for c, y in runs:
+        covered = sorted({c2 for c2, y2 in runs if abs(y2 - y) < 3})
+        body_above = any(k == "body" and col_of(l) in covered and l["bbox"][1] < y for l, k in lines)
+        if len(covered) > 1 and body_above and (y - 3, covered) not in starts:
+            starts.append((y - 3, covered))
+    return starts
+
+
+def order_region(lines) -> list[tuple[dict, str, float]]:
+    """Sort one region's lines into reading order: band by band (a mid-page title
+    block starts a new band in the columns it spans), then column by column.
+    Returns (line, kind, column start)."""
+    if not lines:
+        return []
+    cols = column_starts(lines)
+
+    def col_of(l):
+        x = l["bbox"][0]
+        return max((c for c in cols if c <= x + 3), default=cols[0])
+
+    starts = article_starts(lines, cols) + bold_block_starts(lines, cols, col_of)
+
+    def band_of(l):
+        """How many article starts sit above this line in its column. Text below a
+        mid-page headline is read after the text above it, so articles don't interleave."""
+        return sum(1 for y, covered in starts if col_of(l) in covered and l["bbox"][1] >= y)
+
+    band_body_top = {}  # band -> top of its highest body line
+    for l, k in lines:
+        if k == "body":
+            b = band_of(l)
+            band_body_top[b] = min(band_body_top.get(b, 1e9), l["bbox"][1])
+
+    def sort_key(lk):
+        l, k = lk
+        band = band_of(l)
+        offset = abs(l["bbox"][0] - col_of(l)) > 3  # centred or offset, not at a column start
+        if k in ("rubric", "headline", "subhead", "dateline") and offset and l["bbox"][3] <= band_body_top.get(band, -1e9) + 2:
+            return (band, 0, l["bbox"][1], l["bbox"][0])  # title block above its band's text (often centred)
+        return (band, col_of(l), l["bbox"][1] - (3 if k == "dropcap" else 0), l["bbox"][0])
+
+    return [(l, k, col_of(l)) for l, k in sorted(lines, key=sort_key)]
 
 
 def page_lines(page, figures_dir: Path | None = None) -> list[tuple[str, str, float, float]]:
@@ -194,45 +282,49 @@ def page_lines(page, figures_dir: Path | None = None) -> list[tuple[str, str, fl
         k = kind(spans[0], body)
         if k == "subhead" and any(kind(sp, body) != "subhead" for sp in spans):
             k = "body"  # bold lead-in words inside a paragraph, not a heading
+        if k == "body" and all(("Ital" in sp["font"] or "SC" in sp["font"]) for sp in spans):
+            k = "sig"  # a line all in italics/small caps: letter signatures, author bios
+        if k == "section":
+            # 'Briefing' + 'Turbulent bond markets', 'Letters' + 'whether to have surgery,'
+            head = [sp for sp in spans if sp["font"] == spans[0]["font"]]
+            rest = " ".join(sp["text"].strip() for sp in spans[len(head):]).strip()
+            topic = rest
+            text = " ".join(sp["text"].strip() for sp in head) + (f" — {topic}" if topic else "")
+            spans = [{**spans[0], "text": text, "chars": []}]
         lines.append(({**l, "spans": spans}, k))
     lines = replace_figures(page, lines, figures_dir)
-    cols = column_starts(lines)
 
-    def col_of(l):
-        x = l["bbox"][0]
-        return max((c for c in cols if c <= x + 3), default=cols[0])
-
-    starts = article_starts(lines, cols)
-
-    def band_of(l):
-        """How many article starts sit above this line in its column. Text below a
-        mid-page headline is read after the text above it, so articles don't interleave."""
-        return sum(1 for y, covered in starts if col_of(l) in covered and l["bbox"][1] >= y)
-
-    band_body_top = {}  # band -> top of its highest body line
+    # boxed articles sit on a shaded panel with their own columns: read the text
+    # outside the panels first (often a continuation from the previous page), then each panel
+    boxes = panels(page, lines)
+    regions = [[] for _ in range(len(boxes) + 1)]
     for l, k in lines:
-        if k == "body":
-            b = band_of(l)
-            band_body_top[b] = min(band_body_top.get(b, 1e9), l["bbox"][1])
+        r = pymupdf.Rect(l["bbox"])
+        inside = next((n for n, p in enumerate(boxes, 1) if (p + (-2, -2, 2, 2)).contains(r)), 0)
+        regions[inside].append((l, k))
+    ordered = [(l, k, (n, col)) for n, region in enumerate(regions) for l, k, col in order_region(region)]
 
-    def sort_key(lk):
-        l, k = lk
-        band = band_of(l)
-        if k in ("rubric", "headline", "subhead", "dateline") and l["bbox"][3] <= band_body_top.get(band, 1e9) + 2:
-            return (band, 0, l["bbox"][1], l["bbox"][0])  # title block above its band's text (often centred)
-        return (band, col_of(l), l["bbox"][1] - (3 if k == "dropcap" else 0), l["bbox"][0])
-
-    lines.sort(key=sort_key)
-    merged = []  # (kind, text, indent, gap above, bottom_y, col)
-    for l, k in lines:
-        col, text, (top, bottom) = col_of(l), line_text(l), (l["bbox"][1], l["bbox"][3])
+    merged = []  # (kind, text, indent, gap above, bottom_y, (region, col))
+    for l, k, col in ordered:
+        text, (top, bottom) = line_text(l), (l["bbox"][1], l["bbox"][3])
         prev = merged[-1] if merged else None
         if prev and k == prev[0] == "body" and prev[5] == col and abs(prev[4] - bottom) < 2:
             merged[-1] = (prev[0], f"{prev[1]} {text}", prev[2], prev[3], prev[4], col)  # piece of a justified line
         else:
-            gap = top - prev[4] if prev and prev[5] == col else 0
-            merged.append((k, text, l["bbox"][0] - col, gap, bottom, col))
+            gap = top - prev[4] if prev and prev[5] == col else None  # None: new column
+            merged.append((k, text, l["bbox"][0] - col[1], gap, bottom, col))
     out = [(k, t, i, g) for k, t, i, g, _, _ in merged]
+    # four or more bold lines in a row are a bold paragraph (a letter set in bold), not headings
+    n = 0
+    while n < len(out):
+        end = n
+        while end < len(out) and out[end][0] == "subhead" and (end == n or (out[end][3] is not None and out[end][3] < PARA_GAP)):
+            end += 1
+        if end - n >= 4:
+            first = out[n][1]
+            keep_title = len(first) <= 30 and not first.endswith(("-", ","))  # 'It’s Miller time'
+            out[n + keep_title:end] = [("body", t, i, g) for _, t, i, g in out[n + keep_title:end]]
+        n = max(end, n + 1)
     for n, (k, t, i, g) in enumerate(out):
         nxt = out[n + 1] if n + 1 < len(out) else None
         # an all-bold line that runs on into lowercase text is part of a sentence
@@ -277,25 +369,49 @@ def join_hyphen(para: str, text: str) -> str:
 def join_paragraphs(lines) -> list[str]:
     """Merge consecutive lines into paragraphs; non-body lines stay on their own, tagged.
     Chart labels are collected into one [figure] block at the end of the page."""
-    out, para, figure, cap, pending = [], "", [], "", []
+    out, para, figure, cap, pending, sub, signature = [], "", [], "", [], "", []
     beside_cap = 0  # lines next to a dropcap are indented to make room for it
 
     def flush():
-        nonlocal para
+        nonlocal para, sub
         if para:
             out.append(para)
-        para = ""
-        out.extend(pending)  # figures go after the paragraph they interrupted
+        if sub:
+            out.append(f"[subhead] {sub}")
+        if signature:
+            out.append("[signature] " + " / ".join(signature))
+            signature.clear()
+        para = sub = ""
+        out.extend(pending)  # figures go after the paragraph or heading they interrupted
         pending.clear()
 
     for k, text, indent, gap in lines:
         text = " ".join(w for w in text.split() if w not in ARROWS)
         if not text:
             continue
+        if k == "topic":
+            if out and out[-1].startswith("[section]"):
+                out[-1] += (" " if " — " in out[-1] else " — ") + text
+            continue
+        # a run of italic/small-caps lines after a finished sentence: a letter's signature
+        if k == "sig" and (signature or not para or para.endswith(SENTENCE_END)):
+            if not signature:
+                flush()
+            signature.append(text)
+            continue
+        if signature and k in ("subhead", "body") and gap is not None and gap < PARA_GAP and indent <= INDENT:
+            signature.append(text)  # job title or place under the name (a bold place in a bold letter)
+            continue
+        if signature:
+            flush()
+        if k == "sig":
+            k = "body"  # italic words that happen to fill a line mid-paragraph
         if k == "dropcap":
             flush()
             cap = text  # joined onto the next body line
         elif k == "body":
+            if sub:
+                flush()
             if cap:
                 para, cap, beside_cap = join_dropcap(cap, text), "", 2
             elif para.endswith("-") and text[:1].islower():
@@ -303,13 +419,19 @@ def join_paragraphs(lines) -> list[str]:
             elif beside_cap:
                 beside_cap -= 1
                 para = f"{para} {text}"
-            elif para and (indent > INDENT or (gap > PARA_GAP and para.endswith(SENTENCE_END))):
+            elif para and (indent > INDENT or ((gap or 0) > PARA_GAP and para.endswith(SENTENCE_END))):
                 flush()
                 para = text
             else:
                 para = f"{para} {text}" if para else text
+        elif k == "subhead":
+            if sub and gap is not None and gap < PARA_GAP:  # next line of a multi-line standfirst
+                sub = join_hyphen(sub, text) if sub.endswith("-") and text[:1].islower() else f"{sub} {text}"
+            else:
+                flush()
+                sub = text
         elif k == "figure":
-            if para:
+            if para or sub:
                 pending.append(f"[figure] {text}")
             else:
                 out.append(f"[figure] {text}")
@@ -324,18 +446,28 @@ def join_paragraphs(lines) -> list[str]:
     return out
 
 
-def edition_text(pdf: Path, figures_dir: Path | None = None) -> tuple[str, dict]:
+def edition_pages(pdf: Path, figures_dir: Path | None = None) -> tuple[list[tuple[int, list[str], str]], list[str], dict]:
+    """([(page number, tagged paragraphs, header section)], contents-page paragraphs, stats)."""
     doc = pymupdf.open(pdf)
-    parts, stats = [], {"pages": doc.page_count, "ads": [], "content": 0}
+    pages, contents, stats = [], [], {"pages": doc.page_count, "ads": [], "content": 0}
     for i, page in enumerate(doc, start=1):
         if not is_content_page(page):
             stats["ads"].append(i)
             continue
-        if "[section] Contents" in join_paragraphs(page_lines(page)):  # first pass: no images written
+        first = join_paragraphs(page_lines(page))  # first pass writes no images
+        if "[section] Contents" in first:
             stats.setdefault("contents", []).append(i)
+            contents.extend(first)
             continue
-        paras = join_paragraphs(page_lines(page, figures_dir))
         stats["content"] += 1
+        pages.append((i, join_paragraphs(page_lines(page, figures_dir)), header_section(page)))
+    return pages, contents, stats
+
+
+def edition_text(pdf: Path, figures_dir: Path | None = None) -> tuple[str, dict]:
+    pages, _, stats = edition_pages(pdf, figures_dir)
+    parts = []
+    for i, paras, _ in pages:
         parts.append(f"===== page {i} =====")
         parts.extend(paras)
     return "\n\n".join(parts) + "\n", stats
