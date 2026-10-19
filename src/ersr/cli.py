@@ -19,7 +19,21 @@ def main() -> None:
     b.add_argument("--source", default=LATEST_URL, help="feed URL or local XML file")
     b.add_argument("--site", type=Path, default=Path("site"))
     b.add_argument("--store", type=Path, default=store.STORE_PATH)
+    t = sub.add_parser("pdf-text", help="extract reading-order text from an edition PDF")
+    t.add_argument("pdf", type=Path)
+    t.add_argument("--out", type=Path, default=Path("scratch/m4/edition.txt"))
+    t.add_argument("--figures", type=Path, default=Path("scratch/m4/figures"), help="where chart/photo images go")
     args = parser.parse_args()
+
+    if args.cmd == "pdf-text":
+        from ersr.pdf_text import edition_text
+        text, stats = edition_text(args.pdf, args.figures)
+        args.out.parent.mkdir(parents=True, exist_ok=True)
+        args.out.write_text(text, encoding="utf-8")
+        print(f"{stats['pages']} pages | {len(stats['ads'])} skipped as ads/cover: {stats['ads']}")
+        print(f"{stats['content']} content pages (contents pages {stats.get('contents')} skipped) | {len(text.split())} words -> {args.out}")
+        n_fig = len(list(args.figures.glob("*")))
+        print(f"{n_fig} figures -> {args.figures}/ | {text.count('[unplaced]')} pages with unplaced chart text")
 
     if args.cmd == "build":
         secret = os.environ.get("FEED_SECRET", "local")
