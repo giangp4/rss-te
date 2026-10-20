@@ -21,6 +21,12 @@ jobs:
       name: github-pages
     steps:
       - uses: actions/checkout@v4
+      - name: Check out full text (private repo)
+        uses: actions/checkout@v4
+        with:
+          repository: giangp4/rss-te-content
+          ssh-key: ${{ secrets.CONTENT_SSH_KEY }}
+          path: content
       - uses: astral-sh/setup-uv@v6
       - name: Build feed
         env:
