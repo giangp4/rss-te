@@ -1,5 +1,93 @@
 [
   {
+    "guid": "c77bde07-91fa-41b5-8dec-19f1dd8d6600",
+    "title": "Everything is going wrong for Muhammad bin Salman",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
+    "pubdate": "Mon, 19 Oct 2026 20:06:00 +0000",
+    "description": "This is his annus horribilis",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "89293f52-6e91-4c96-b74a-d830a34fa898",
+    "title": "America’s new era of private science",
+    "link": "https://www.economist.com/science-and-technology/2026/10/19/americas-new-era-of-private-science",
+    "pubdate": "Mon, 19 Oct 2026 18:31:42 +0000",
+    "description": "The future of innovation may be research outside universities",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "74cf130a-d762-4a31-a207-dc5eac5fe709",
+    "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+    "pubdate": "Mon, 19 Oct 2026 18:11:37 +0000",
+    "description": "Japan wants its pension fund and households to buy more government debt",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "6a3ed3bd-b2d0-472f-bab5-69774366071f",
+    "title": "Why Americans have stopped buying new homes",
+    "link": "https://www.economist.com/graphic-detail/2026/10/19/why-americans-have-stopped-buying-new-homes",
+    "pubdate": "Mon, 19 Oct 2026 17:48:07 +0000",
+    "description": "Mortgage lock-in is preventing nearly 1m property sales a year",
+    "section": "graphic-detail"
+  },
+  {
+    "guid": "8620616a-74dd-4e49-bf1a-a14daf7e660a",
+    "title": "Russia’s escalating information war in Africa",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/russias-escalating-information-war-in-africa",
+    "pubdate": "Mon, 19 Oct 2026 17:14:19 +0000",
+    "description": "The Kremlin is betting it can sway public opinion on the continent",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "26c9045b-62fc-4f20-b3a1-99387c75dcb8",
+    "title": "The War Room newsletter: Ukraine’s Starlink starvation is a warning",
+    "link": "https://www.economist.com/europe/2026/10/19/the-war-room-newsletter-ukraines-starlink-starvation-is-a-warning",
+    "pubdate": "Mon, 19 Oct 2026 16:45:47 +0000",
+    "description": "Satellite communications will underwrite future warfare, writes Alex Turner, our defence editor",
+    "section": "europe"
+  },
+  {
+    "guid": "b5c11a70-0170-4497-a181-57e8b934d60a",
+    "title": "Wanted: Producer, Insider",
+    "link": "https://www.economist.com/britain/2026/10/19/wanted-producer-insider",
+    "pubdate": "Mon, 19 Oct 2026 16:29:32 +0000",
+    "description": "The Economist is offering a chance to join our video and podcast departments in London",
+    "section": "britain"
+  },
+  {
+    "guid": "28c52c20-dfb2-4f2d-a83f-a66ede84fec5",
+    "title": "The Scottish National Party turns to the right",
+    "link": "https://www.economist.com/britain/2026/10/19/the-scottish-national-party-turns-to-the-right",
+    "pubdate": "Mon, 19 Oct 2026 16:12:05 +0000",
+    "description": "Under John Swinney’s leadership, it is warming up to growth, drilling and data centres",
+    "section": "britain"
+  },
+  {
+    "guid": "c8ed6bb9-013b-498d-9ed9-6f3d10e8b919",
+    "title": "Does China really prize AI speed over safety?",
+    "link": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
+    "pubdate": "Mon, 19 Oct 2026 15:30:34 +0000",
+    "description": "In full command of its own cyberspace, China wants the same for AI",
+    "section": "china"
+  },
+  {
+    "guid": "f116e24a-8ec0-402a-a203-1f742e207736",
+    "title": "Bartleby newsletter: Boomers, babies and bots",
+    "link": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
+    "pubdate": "Mon, 19 Oct 2026 14:26:12 +0000",
+    "description": "Andrew Palmer, our Bartleby columnist, rounds up three research papers that caught his eye",
+    "section": "business"
+  },
+  {
+    "guid": "bcf0b9b8-ed66-41ba-b0aa-e3bfe37a65a2",
+    "title": "The latest must-have movie memorabilia? Popcorn buckets",
+    "link": "https://www.economist.com/culture/2026/10/19/the-latest-must-have-movie-memorabilia-popcorn-buckets",
+    "pubdate": "Mon, 19 Oct 2026 13:59:12 +0000",
+    "description": "Novelty collectibles are lucrative for cinemas",
+    "section": "culture"
+  },
+  {
     "guid": "df1d9125-702d-4c5b-8ed0-a3fbbacd71a2",
     "title": "Ignore the doomsayers. American democracy is in good shape",
     "link": "https://www.economist.com/by-invitation/2026/10/19/ignore-the-doomsayers-american-democracy-is-in-good-shape",
