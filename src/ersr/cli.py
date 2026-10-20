@@ -19,6 +19,10 @@ def main() -> None:
     b.add_argument("--source", default=LATEST_URL, help="feed URL or local XML file")
     b.add_argument("--site", type=Path, default=Path("site"))
     b.add_argument("--store", type=Path, default=store.STORE_PATH)
+    b.add_argument("--content", type=Path, default=Path("content"), help="extracted editions (full text)")
+    ing = sub.add_parser("ingest", help="extract an edition PDF into content/<date>/")
+    ing.add_argument("pdf", type=Path)
+    ing.add_argument("--content", type=Path, default=Path("content"))
     t = sub.add_parser("pdf-text", help="extract reading-order text from an edition PDF")
     t.add_argument("pdf", type=Path)
     t.add_argument("--out", type=Path, default=Path("scratch/m4/edition.txt"))
@@ -27,6 +31,13 @@ def main() -> None:
     a.add_argument("pdf", type=Path)
     a.add_argument("--out", type=Path, default=Path("scratch/m5"))
     args = parser.parse_args()
+
+    if args.cmd == "ingest":
+        from ersr.content import ingest
+        date, arts = ingest(args.pdf, args.content)
+        print(f"edition {date}: {len(arts)} articles, "
+              f"{sum(len(a['figures']) for a in arts)} figures -> {args.content / date}/")
+        return
 
     if args.cmd == "articles":
         import json
@@ -80,8 +91,11 @@ def main() -> None:
         before = len(items)
         added, updated = store.merge(items, fetched)
         store.save(items, args.store)
-        feed = build_site(list(store.load(args.store).values()), args.site, secret, os.environ.get("SITE_URL"))
+        from ersr.content import load_editions
+        articles = load_editions(args.content)
+        feed = build_site(list(store.load(args.store).values()), args.site, secret, os.environ.get("SITE_URL"),
+                          articles, args.content)
         n_feed = open(feed, encoding="utf-8").read().count("<item>")
         print(f"fetched {len(fetched)} | store {before} -> {len(items)} "
-              f"(+{added} new, {updated} updated) | feed {n_feed} items (last {FEED_DAYS} days)")
+              f"(+{added} new, {updated} updated) | {len(articles)} full-text articles | feed {n_feed} items (last {FEED_DAYS} days)")
         print(f"wrote {args.site}/{'<secret>' if secret != 'local' else 'local'}/feed.xml")

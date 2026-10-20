@@ -1,6 +1,7 @@
 """Write the site: an RSS 2.0 feed under a secret path, plus files that hide the root."""
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
+import shutil
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -44,13 +45,52 @@ def build_feed(items: list[dict], out: Path, self_url: str | None = None) -> Non
     ET.ElementTree(rss).write(out, encoding="utf-8", xml_declaration=True)
 
 
-def build_site(items: list[dict], site_dir: Path, secret: str, base_url: str | None) -> Path:
-    """site/robots.txt, site/index.html (blank), site/<secret>/feed.xml. Returns the feed path."""
+LOCAL_URL = "http://localhost:8000"
+
+
+def article_items(articles: list[dict], base: str) -> list[dict]:
+    """One feed item per full-text article, linking to its page on our site."""
+    items = []
+    for a in articles:
+        date = datetime.fromisoformat(a["edition"]).replace(tzinfo=timezone.utc)
+        items.append({
+            "guid": f"ersr:{a['id']}",
+            "title": a["headline"],
+            "link": f"{base}/a/{a['id']}.html",
+            "pubdate": format_datetime(date),
+            "description": a["standfirst"] or next((b[1][:280] for b in a["blocks"] if b[0] == "p"), ""),
+            "section": a["section"],
+        })
+    return items
+
+
+def build_articles(articles: list[dict], out_dir: Path, content_dir: Path) -> int:
+    """Write a/<edition>/<slug>.html for each article, plus that edition's figures."""
+    from ersr.render import render_article
+    for edition in {a["edition"] for a in articles}:
+        figs = content_dir / edition / "figures"
+        if figs.exists():
+            shutil.copytree(figs, out_dir / edition / "figures", dirs_exist_ok=True)
+    for a in articles:
+        page = out_dir / f"{a['id']}.html"
+        page.parent.mkdir(parents=True, exist_ok=True)
+        page.write_text(render_article(a), encoding="utf-8")
+    return len(articles)
+
+
+def build_site(items: list[dict], site_dir: Path, secret: str, base_url: str | None,
+               articles: list[dict] = (), content_dir: Path = Path("content")) -> Path:
+    """site/robots.txt, site/index.html (blank), site/<secret>/feed.xml and
+    site/<secret>/a/<edition>/<slug>.html. Returns the feed path."""
     site_dir.mkdir(parents=True, exist_ok=True)
     (site_dir / "robots.txt").write_text(ROBOTS)
     (site_dir / "index.html").write_text(BLANK_PAGE)
     (site_dir / ".nojekyll").write_text("")
+    base = f"{(base_url or LOCAL_URL).rstrip('/')}/{secret}"
+    shutil.rmtree(site_dir / secret / "a", ignore_errors=True)
+    build_articles(list(articles), site_dir / secret / "a", content_dir)
+    all_items = items + article_items(list(articles), base)
+    all_items.sort(key=lambda it: parsedate_to_datetime(it["pubdate"]), reverse=True)
     feed = site_dir / secret / "feed.xml"
-    self_url = f"{base_url.rstrip('/')}/{secret}/feed.xml" if base_url else None
-    build_feed(recent(items), feed, self_url)
+    build_feed(recent(all_items), feed, f"{base}/feed.xml" if base_url else None)
     return feed

@@ -34,6 +34,22 @@ def header_section(page) -> str:
     return " ".join(names)
 
 
+HEADER_DATE = re.compile(r"(January|February|March|April|May|June|July|August|September|October|November|December) (\d{1,2})\w\w (\d{4})")
+
+
+def edition_date(doc) -> str:
+    """'October 10th 2026' in a running header -> '2026-10-10'."""
+    import datetime
+    for page in doc:
+        for b in page.get_text("dict")["blocks"]:
+            for l in b.get("lines", []):
+                t = " ".join(s["text"] for s in l["spans"])
+                m = HEADER_DATE.search(t)
+                if m and l["bbox"][1] < HEADER_Y:
+                    return datetime.datetime.strptime(f"{m[1]} {m[2]} {m[3]}", "%B %d %Y").date().isoformat()
+    raise ValueError("no edition date found in the running headers")
+
+
 def is_content_page(page) -> bool:
     """Content pages carry the 'The Economist' running header; ads and the cover don't."""
     for b in page.get_text("dict")["blocks"]:
@@ -449,7 +465,7 @@ def join_paragraphs(lines) -> list[str]:
 def edition_pages(pdf: Path, figures_dir: Path | None = None) -> tuple[list[tuple[int, list[str], str]], list[str], dict]:
     """([(page number, tagged paragraphs, header section)], contents-page paragraphs, stats)."""
     doc = pymupdf.open(pdf)
-    pages, contents, stats = [], [], {"pages": doc.page_count, "ads": [], "content": 0}
+    pages, contents, stats = [], [], {"pages": doc.page_count, "ads": [], "content": 0, "date": edition_date(doc)}
     for i, page in enumerate(doc, start=1):
         if not is_content_page(page):
             stats["ads"].append(i)
