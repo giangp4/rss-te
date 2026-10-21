@@ -1,5 +1,109 @@
 [
   {
+    "guid": "73d4d650-6b33-469b-801f-9e037d1f8bd3",
+    "title": "AI-powered personal assistants could reshape the digital economy",
+    "link": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
+    "pubdate": "Tue, 20 Oct 2026 19:55:23 +0000",
+    "description": "But they will first have to prove they are safe for users and helpful for businesses",
+    "section": "business"
+  },
+  {
+    "guid": "4c1d8501-9329-48c4-ba4e-31ed9aed6d89",
+    "title": "Donald Trump, human wrecking-ball",
+    "link": "https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball",
+    "pubdate": "Tue, 20 Oct 2026 19:46:46 +0000",
+    "description": "The world mostly loathes Trumpian foreign policy. It may not change that much",
+    "section": "international"
+  },
+  {
+    "guid": "8dd74120-7356-4bca-9ff3-c01bb13c66f2",
+    "title": "Germany’s young conservatives are angry with their own party",
+    "link": "https://www.economist.com/europe/2026/10/20/germanys-young-conservatives-are-angry-with-their-own-party",
+    "pubdate": "Tue, 20 Oct 2026 19:34:08 +0000",
+    "description": "Members are disappointed with Friedrich Merz, but pleased with themselves",
+    "section": "europe"
+  },
+  {
+    "guid": "06972e25-e977-475a-a9e8-2b9f6c61c3ef",
+    "title": "The late Perry Mehrling explained the hierarchy of money",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+    "pubdate": "Tue, 20 Oct 2026 18:32:09 +0000",
+    "description": "The course for par",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "1511d4b5-1c5d-4543-b22c-ff3d84a6ecb6",
+    "title": "Europe’s dependence on America in space is hard to escape",
+    "link": "https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape",
+    "pubdate": "Tue, 20 Oct 2026 17:37:27 +0000",
+    "description": "To reach autonomy in rockets and satellites, Europe needs more thrust",
+    "section": "europe"
+  },
+  {
+    "guid": "886dbef4-8137-4fdc-bf4f-250d86b9dd55",
+    "title": "China’s universities are rich. But they're getting squeezed",
+    "link": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
+    "pubdate": "Tue, 20 Oct 2026 16:51:02 +0000",
+    "description": "Researchers can’t escape a bleak economy",
+    "section": "china"
+  },
+  {
+    "guid": "8ac111b7-b247-40a5-8774-62d9adb5773a",
+    "title": "Middle East Dispatch newsletter: Why Lebanon is in limbo",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/middle-east-dispatch-newsletter-why-lebanon-is-in-limbo",
+    "pubdate": "Tue, 20 Oct 2026 16:43:38 +0000",
+    "description": "Fraser McIlwraith, our foreign correspondent, explains why talks between Israel and Lebanon are unlikely to yield productive results",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "7523ba51-d5e2-4090-aaab-0ddcd56fe2b4",
+    "title": "Analysing Africa newsletter: Joseph Kabila’s gamble in eastern Congo",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/analysing-africa-newsletter-joseph-kabilas-gamble-in-eastern-congo",
+    "pubdate": "Tue, 20 Oct 2026 16:35:32 +0000",
+    "description": "John McDermott, our chief Africa correspondent, explains why the former president is backing the M23 armed group",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "afa9b9af-c307-422b-bafc-e229a83d7fc4",
+    "title": "Indonesia’s experiment with populism is wavering",
+    "link": "https://www.economist.com/asia/2026/10/20/indonesias-experiment-with-populism-is-wavering",
+    "pubdate": "Tue, 20 Oct 2026 16:28:59 +0000",
+    "description": "How will Prabowo Subianto respond to crashing approval ratings?",
+    "section": "asia"
+  },
+  {
+    "guid": "476fa680-ed48-4cda-9e59-44957e470efe",
+    "title": "An interview with the author of “Taiwan Travelogue”",
+    "link": "https://www.economist.com/podcasts/2026/10/20/an-interview-with-the-author-of-taiwan-travelogue",
+    "pubdate": "Tue, 20 Oct 2026 16:15:52 +0000",
+    "description": "Our weekly podcast on China. This week, we ask the winner of this year’s International Booker Prize what her novel reveals about Taiwan today",
+    "section": "podcasts"
+  },
+  {
+    "guid": "cc806efb-8f42-46bf-952c-e126b1496ca7",
+    "title": "Blighty newsletter: The tinpot “terrorists”",
+    "link": "https://www.economist.com/britain/2026/10/20/blighty-newsletter-the-tinpot-terrorists",
+    "pubdate": "Tue, 20 Oct 2026 15:58:51 +0000",
+    "description": "Hugo Gye, our Britain political correspondent, on the absurdity of Palestine Action",
+    "section": "britain"
+  },
+  {
+    "guid": "d9af49c6-4666-401e-8d9c-221c8c17041d",
+    "title": "Mockery keeps Britain’s politicians honest (almost)",
+    "link": "https://www.economist.com/britain/2026/10/20/mockery-keeps-britains-politicians-honest-almost",
+    "pubdate": "Tue, 20 Oct 2026 15:35:50 +0000",
+    "description": "The ancient art of the parliamentary sketch is thriving in the digital era",
+    "section": "britain"
+  },
+  {
+    "guid": "a1bfab3f-9410-4c36-aec8-86b31b1701ea",
+    "title": "Asia Bulletin newsletter: Russia’s Japanese hostage",
+    "link": "https://www.economist.com/asia/2026/10/20/asia-bulletin-newsletter-russias-japanese-hostage",
+    "pubdate": "Tue, 20 Oct 2026 11:21:23 +0000",
+    "description": "Noah Sneider, our East Asia bureau chief, asks what Russia hopes to gain by arresting a Japanese journalist",
+    "section": "asia"
+  },
+  {
     "guid": "b96964c2-5d99-4c45-b3c6-9d8312a86939",
     "title": "Disorder of magnitude: France’s riots",
     "link": "https://www.economist.com/podcasts/2026/10/20/disorder-of-magnitude-frances-riots",
