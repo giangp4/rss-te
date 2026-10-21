@@ -1,5 +1,21 @@
 [
   {
+    "guid": "3981f2c6-9214-4104-98d1-8b1d706b5da4",
+    "title": "Cash test: can Europe support Ukraine alone?",
+    "link": "https://www.economist.com/podcasts/2026/10/21/cash-test-can-europe-support-ukraine-alone",
+    "pubdate": "Wed, 21 Oct 2026 09:40:15 +0000",
+    "description": "Also on the daily podcast: America’s private science institutions thrive and a spike in art heists",
+    "section": "podcasts"
+  },
+  {
+    "guid": "023241f3-2e78-46e5-ace9-1a120ac724ed",
+    "title": "How the “lost generation” found itself",
+    "link": "https://www.economist.com/podcasts/2026/10/21/how-the-lost-generation-found-itself",
+    "pubdate": "Wed, 21 Oct 2026 08:25:09 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
     "guid": "73d4d650-6b33-469b-801f-9e037d1f8bd3",
     "title": "AI-powered personal assistants could reshape the digital economy",
     "link": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
@@ -36,7 +52,7 @@
     "title": "Europe’s dependence on America in space is hard to escape",
     "link": "https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape",
     "pubdate": "Tue, 20 Oct 2026 17:37:27 +0000",
-    "description": "To reach autonomy in rockets and satellites, Europe needs more thrust",
+    "description": "To reach autonomy in rockets and satellites, the continent needs more thrust",
     "section": "europe"
   },
   {
