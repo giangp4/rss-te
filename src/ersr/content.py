@@ -3,7 +3,7 @@ import json
 import shutil
 from pathlib import Path
 
-from ersr.articles import split_articles
+from ersr.articles import parse_contents, split_articles
 from ersr.pdf_text import edition_pages
 
 CONTENT_DIR = Path("content")
@@ -13,7 +13,7 @@ def ingest(pdf: Path, content_dir: Path = CONTENT_DIR) -> tuple[str, list[dict]]
     """Extract one edition PDF into content/<date>/articles.json + figures/. Re-running replaces it."""
     tmp = content_dir / ".ingest"
     shutil.rmtree(tmp, ignore_errors=True)
-    pages, _, stats = edition_pages(pdf, tmp / "figures")
+    pages, contents, stats = edition_pages(pdf, tmp / "figures")
     date = stats["date"]
     articles, seen = split_articles(pages), set()
     for a in articles:
@@ -22,6 +22,13 @@ def ingest(pdf: Path, content_dir: Path = CONTENT_DIR) -> tuple[str, list[dict]]
             slug, n = f"{a['slug']}-{n}", n + 1
         seen.add(slug)
         a["slug"], a["edition"], a["id"] = slug, date, f"{date}/{slug}"
+    # the contents page's short title for each article ('Trump’s AI dilemma'), matched by start page
+    by_page = {}
+    for pg, title in parse_contents(contents):
+        by_page.setdefault(pg, []).append(title)
+    for a in articles:
+        titles = by_page.get(a["pages"][0], [])
+        a["toc_title"] = titles.pop(0) if titles else ""
     out = content_dir / date
     shutil.rmtree(out, ignore_errors=True)
     tmp.rename(out) if (tmp / "figures").exists() else out.mkdir(parents=True)

@@ -117,8 +117,8 @@ def kind(span, body: float = 9.0) -> str:
     body_sizes = (9.0, 9.5, body)  # Leaders set body text at 9.5pt, most pages at 9pt
     if font == BODY_FONT and size in body_sizes:
         return "body"
-    if font.startswith("EconomistSerif-SemiBold") and size in body_sizes:
-        return "subhead"  # standfirst under a headline, or a crosshead inside an article
+    if font.startswith("EconomistSerif") and "SemiBol" in font and size in body_sizes:
+        return "subhead"  # standfirst or crosshead; acronyms inside it are small-caps bold ('AI')
     if font.startswith("EconomistSerif") and size in body_sizes:
         return "body"  # small caps and italics inside body text
     if font.startswith("EconomistSans-SemiBold") and size in (9.0, body):
@@ -136,16 +136,32 @@ def column_starts(lines) -> list[float]:
     starts = sorted(x for x, n in xs.items() if n >= 5)
     cols = []
     for x in starts:
-        if not cols or x - cols[-1] > 20:
+        if not cols or x - cols[-1] > 90:  # columns are 117pt+ apart; closer starts are text wrapping around an inset
             cols.append(x)
     return cols or [0]
 
 
-def article_starts(lines, cols) -> list[tuple[float, list[float]]]:
-    """(top y, columns covered) for each title block that starts mid-page.
-    A title block is a headline plus the rubric, standfirst and dateline lines that
-    overlap it horizontally; centred blocks on column pages can span every column."""
+def article_starts(lines, cols) -> list[dict[float, float]]:
+    """Page cuts for title blocks that start mid-page, as {column start: cut y}.
+    Text below a cut is read after the text above it in those columns.
+    A title block (headline with its rubric, standfirst, dateline) spanning several
+    columns cuts all of them. A one-column block follows its article to the right:
+    into the next column below another article's end marker (■), as on p22, or, if
+    that column has no ■ with text under it, the whole column (p41, p46)."""
     heading = ("rubric", "headline", "subhead", "dateline")
+    bounds = cols + [10_000]
+
+    def col_of(l):
+        return max((c for c in cols if c <= l["bbox"][0] + 3), default=cols[0])
+
+    def end_marker_cut(c):
+        """y just below a ■ in column c that has more text under it, or None."""
+        body = [l for l, k in lines if k == "body" and col_of(l) == c]
+        for e in sorted((l for l in body if "■" in line_text(l)), key=lambda l: l["bbox"][1]):
+            if any(l["bbox"][1] > e["bbox"][3] + 2 for l in body):
+                return e["bbox"][3] + 1
+        return None
+
     starts, used = [], set()
     for h, k in sorted(lines, key=lambda lk: lk[0]["bbox"][1]):
         if k != "headline" or id(h) in used:
@@ -156,13 +172,24 @@ def article_starts(lines, cols) -> list[tuple[float, list[float]]]:
         used.update(id(l) for l in block)
         x0, x1 = min(l["bbox"][0] for l in block), max(l["bbox"][2] for l in block)
         top = min(l["bbox"][1] for l in block) - 3
-        bounds = cols + [10_000]
         covered = [c for c, nc in zip(cols, bounds[1:]) if c < x1 - 5 and nc > x0 + 5]
-        body_above = any(k2 == "body" and l["bbox"][1] < top and any(abs(l["bbox"][0] - c) < 20 for c in covered)
-                         for l, k2 in lines)
-        if body_above:  # a title block at the top of its columns doesn't split anything
-            starts.append((top, covered))
+        body_above = any(k2 == "body" and l["bbox"][1] < top and col_of(l) in covered for l, k2 in lines)
+        if not body_above:
+            continue  # a title block at the top of its columns doesn't split anything
+        cut = {c: top for c in covered}
+        # follow the article into the next columns: below another article's ■ (p22),
+        # or, in a column with no such ■, the whole column is its continuation (p41)
+        for c in cols[cols.index(covered[-1]) + 1:]:
+            y = end_marker_cut(c)
+            if y is None:
+                if not any(k2 == "headline" for l, k2 in lines if col_of(l) == c):
+                    cut[c] = 0  # no article of its own starts there: the column continues this one
+                break
+            cut[c] = y
+        if len(cut) > 1:
+            starts.append(cut)
     return starts
+
 
 def is_real_rubric(l, lines) -> bool:
     """A rubric has a headline right below it (left-aligned or centred above it);
@@ -240,8 +267,8 @@ def bold_block_starts(lines, cols, col_of) -> list[tuple[float, list[float]]]:
     for c, y in runs:
         covered = sorted({c2 for c2, y2 in runs if abs(y2 - y) < 3})
         body_above = any(k == "body" and col_of(l) in covered and l["bbox"][1] < y for l, k in lines)
-        if len(covered) > 1 and body_above and (y - 3, covered) not in starts:
-            starts.append((y - 3, covered))
+        if len(covered) > 1 and body_above and {c2: y - 3 for c2 in covered} not in starts:
+            starts.append({c2: y - 3 for c2 in covered})
     return starts
 
 
@@ -262,7 +289,7 @@ def order_region(lines) -> list[tuple[dict, str, float]]:
     def band_of(l):
         """How many article starts sit above this line in its column. Text below a
         mid-page headline is read after the text above it, so articles don't interleave."""
-        return sum(1 for y, covered in starts if col_of(l) in covered and l["bbox"][1] >= y)
+        return sum(1 for cut in starts if col_of(l) in cut and l["bbox"][1] >= cut[col_of(l)])
 
     band_body_top = {}  # band -> top of its highest body line
     for l, k in lines:
@@ -292,7 +319,8 @@ def page_lines(page, figures_dir: Path | None = None) -> list[tuple[str, str, fl
     body = body_size(raw)
     lines = []
     for l in raw:
-        spans = [s for s in l["spans"] if s["text"].strip() and s["size"] > 2]
+        # '▸'/'⏩' continuation arrows sit outside the column; keep them out of line positions
+        spans = [s for s in l["spans"] if s["text"].strip() and s["size"] > 2 and s["text"].strip() not in ARROWS]
         if not spans or l["bbox"][1] < HEADER_Y:
             continue
         k = kind(spans[0], body)
@@ -307,7 +335,10 @@ def page_lines(page, figures_dir: Path | None = None) -> list[tuple[str, str, fl
             topic = rest
             text = " ".join(sp["text"].strip() for sp in head) + (f" — {topic}" if topic else "")
             spans = [{**spans[0], "text": text, "chars": []}]
-        lines.append(({**l, "spans": spans}, k))
+        box = pymupdf.Rect()
+        for sp in spans:
+            box |= pymupdf.Rect(sp["bbox"])
+        lines.append(({**l, "spans": spans, "bbox": tuple(box)}, k))  # box without dropped arrows
     lines = replace_figures(page, lines, figures_dir)
 
     # boxed articles sit on a shaded panel with their own columns: read the text
@@ -357,7 +388,7 @@ def _load_words() -> set[str]:
 
 
 WORDS = _load_words()
-SENTENCE_END = (".", "”", "?", "!", "’")
+SENTENCE_END = (".", "”", "?", "!", "’", "■")
 ARROWS = {"▸", "⏩", "◀", "▶"}
 
 
@@ -387,6 +418,7 @@ def join_paragraphs(lines) -> list[str]:
     Chart labels are collected into one [figure] block at the end of the page."""
     out, para, figure, cap, pending, sub, signature = [], "", [], "", [], "", []
     beside_cap = 0  # lines next to a dropcap are indented to make room for it
+    prev_indent = None
 
     def flush():
         nonlocal para, sub
@@ -426,6 +458,10 @@ def join_paragraphs(lines) -> list[str]:
             flush()
             cap = text  # joined onto the next body line
         elif k == "body":
+            # a paragraph indent is a small step right of the previous line; a bigger
+            # step is text wrapping around an inset picture
+            step = indent - prev_indent if gap is not None and prev_indent is not None else indent
+            is_indent = INDENT < step < 20
             if sub:
                 flush()
             if cap:
@@ -435,11 +471,12 @@ def join_paragraphs(lines) -> list[str]:
             elif beside_cap:
                 beside_cap -= 1
                 para = f"{para} {text}"
-            elif para and (indent > INDENT or ((gap or 0) > PARA_GAP and para.endswith(SENTENCE_END))):
+            elif para and (is_indent or ((gap or 0) > PARA_GAP and para.endswith(SENTENCE_END))):
                 flush()
                 para = text
             else:
                 para = f"{para} {text}" if para else text
+            prev_indent = indent
         elif k == "subhead":
             if sub and gap is not None and gap < PARA_GAP:  # next line of a multi-line standfirst
                 sub = join_hyphen(sub, text) if sub.endswith("-") and text[:1].islower() else f"{sub} {text}"

@@ -24,7 +24,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
 """
 
 
-def render_article(a: dict) -> str:
+def render_article(a: dict, figures_url: str = "figures") -> str:
     parts = []
     meta = " · ".join(escape(x) for x in (a["section"],) if x)
     rubric = f' · <span class="rubric">{escape(a["rubric"])}</span>' if a["rubric"] and a["rubric"] != a["headline"] else ""
@@ -43,7 +43,7 @@ def render_article(a: dict) -> str:
             parts.append('<p class="signature">' + "<br>".join(escape(x) for x in b[1].split(" / ")) + "</p>")
         elif b[0] == "fig":
             cap = f"<figcaption>{escape(b[2])}</figcaption>" if b[2] else ""
-            parts.append(f'<figure><img src="figures/{escape(b[1])}" alt="{escape(b[2])}" loading="lazy">{cap}</figure>')
+            parts.append(f'<figure><img src="{escape(figures_url)}/{escape(b[1])}" alt="{escape(b[2])}" loading="lazy">{cap}</figure>')
     first, last = a["pages"]
     where = f"page {first}" if first == last else f"pages {first}–{last}"
     parts.append(f"<footer>The Economist, edition of {escape(a['edition'])}, {where}. Personal copy.</footer>")

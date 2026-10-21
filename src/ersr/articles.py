@@ -147,6 +147,11 @@ def split_articles(pages: list[tuple[int, list[str], str]]) -> list[dict]:
         a["words"] = sum(len(b[1].split()) for b in a["blocks"] if b[0] == "p")
         a["figures"] = [b[1] for b in a["blocks"] if b[0] == "fig"]
         a["slug"] = slugify(a["headline"] or a["section"])
+        # every Economist article ends with one ■ (boxed features and a few pages have none)
+        paras = [b[1] for b in a["blocks"] if b[0] == "p"]
+        ends = sum(p.count("■") for p in paras)
+        if ends > 1 or (ends == 1 and not paras[-1].rstrip().endswith("■")):
+            a["flags"].append(f"split looks wrong: {ends} end marker(s) ■, last paragraph ends with ■: {paras[-1].rstrip().endswith('■')}")
         if a["words"] < 80 and not (a["figures"] and a["headline"] == a["section"]):
             a["flags"].append(f"only {a['words']} words")
         if not a["rubric"] and a["section"] != WORLD_THIS_WEEK and a["headline"] != a["section"]:

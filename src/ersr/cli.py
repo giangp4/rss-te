@@ -30,7 +30,36 @@ def main() -> None:
     a = sub.add_parser("articles", help="split an edition PDF into articles")
     a.add_argument("pdf", type=Path)
     a.add_argument("--out", type=Path, default=Path("scratch/m5"))
+    m = sub.add_parser("match", help="dry run: match full-text articles to RSS items")
+    m.add_argument("--store", type=Path, default=store.STORE_PATH)
+    m.add_argument("--content", type=Path, default=Path("content"))
+    m.add_argument("--out", type=Path, default=Path("scratch/m7/report.txt"))
     args = parser.parse_args()
+
+    if args.cmd == "match":
+        from collections import Counter
+        from ersr.content import load_editions
+        from ersr.match import match_report
+        rows = match_report(load_editions(args.content), list(store.load(args.store).values()))
+        rows.sort(key=lambda r: r["best"]["score"] if r["best"] else -1)
+        taken = Counter(r["best"]["item"]["guid"] for r in rows if r["best"])
+        lines = [f"{'score':>5} {'2nd':>4} {'RSS date':10} {'matched on':22} article  ->  best RSS item"]
+        for r in rows:
+            a, b, s2 = r["article"], r["best"], r["second"]
+            if not b:
+                lines.append(f"{'—':>5} {'':>4}      {'(no candidates)':22} {a['headline'][:45]}")
+                continue
+            dup = "  ! same item as another article" if taken[b["item"]["guid"]] > 1 else ""
+            day = b["item"]["pubdate"][5:11]
+            lines.append(f"{b['score']:5.0f} {s2['score'] if s2 else 0:4.0f} {day:10} "
+                         f"{b['why']:22} {a['headline'][:40]!r:44} -> {b['item']['title'][:55]!r}{dup}")
+        args.out.parent.mkdir(parents=True, exist_ok=True)
+        args.out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        scores = [r["best"]["score"] for r in rows if r["best"]]
+        for t in (90, 80, 70, 60):
+            print(f"  score >= {t}: {sum(s >= t for s in scores)} of {len(rows)} articles")
+        print(f"wrote {args.out} (worst matches first)")
+        return
 
     if args.cmd == "ingest":
         from ersr.content import ingest
