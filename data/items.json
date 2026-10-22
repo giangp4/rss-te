@@ -1,5 +1,173 @@
 [
   {
+    "guid": "70d6900f-c189-41f1-a7aa-1223e6464a4e",
+    "title": "The surprising popularity of AI",
+    "link": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
+    "pubdate": "Thu, 22 Oct 2026 10:14:41 +0000",
+    "description": "Unlike rich Westerners, many around the world feel hopeful about the technology",
+    "section": "international"
+  },
+  {
+    "guid": "31c14c79-9c02-48e3-949e-d8c2a6cb2297",
+    "title": "India is pouring money and concrete into its border with China",
+    "link": "https://www.economist.com/asia/2026/10/22/india-is-pouring-money-and-concrete-into-its-border-with-china",
+    "pubdate": "Thu, 22 Oct 2026 10:14:12 +0000",
+    "description": "Can roads and villages secure a state that China claims?",
+    "section": "asia"
+  },
+  {
+    "guid": "67e52516-f096-4568-8e25-b7726c1551bb",
+    "title": "The agony of liberal Europe",
+    "link": "https://www.economist.com/leaders/2026/10/22/the-agony-of-liberal-europe",
+    "pubdate": "Thu, 22 Oct 2026 09:51:18 +0000",
+    "description": "Centrist rulers have fallen dangerously short—and are now paying the price",
+    "section": "leaders"
+  },
+  {
+    "guid": "aab6d662-a323-49c3-a44d-6c6d53e3a0be",
+    "title": "Is the internet still safe?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/22/is-the-internet-still-safe",
+    "pubdate": "Thu, 22 Oct 2026 09:49:31 +0000",
+    "description": "A string of cyber-security incidents has caused websites to go dark",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "92119f00-7e82-4c84-bd88-ffe78f0f1309",
+    "title": "A genocidal militia was coming for his city. He was one of the last doctors left",
+    "link": "https://www.economist.com/interactive/1843/2026/10/22/a-genocidal-militia-was-coming-for-the-city-he-was-one-of-the-last-doctors-left",
+    "pubdate": "Thu, 22 Oct 2026 09:43:54 +0000",
+    "description": "The untold story of the last hospital in el-Fasher",
+    "section": "interactive"
+  },
+  {
+    "guid": "3b12bc8c-266d-42c4-94f8-e80669744372",
+    "title": "Dunes and gloom: MBS’s annus horribilis",
+    "link": "https://www.economist.com/podcasts/2026/10/22/dunes-and-gloom-mbss-annus-horribilis",
+    "pubdate": "Thu, 22 Oct 2026 09:43:16 +0000",
+    "description": "Also on the daily podcast: Sam Bankman-Fried phones from prison and Singapore’s toxic smog",
+    "section": "podcasts"
+  },
+  {
+    "guid": "cac404a5-019c-4dcf-ad4c-1ab8e03cdbec",
+    "title": "New research tries to defuse the “China shock”",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+    "pubdate": "Thu, 22 Oct 2026 09:12:40 +0000",
+    "description": "An almighty fight over an influential finding",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "eaeb9233-73a4-4825-9a3a-73b707196a18",
+    "title": "Brazil’s weird economy needs serious reform",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+    "pubdate": "Thu, 22 Oct 2026 09:11:38 +0000",
+    "description": "Neither Lula nor Flávio Bolsonaro have the stomach for it",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "e4ced436-d7cf-448c-9eb8-d48fea04ab47",
+    "title": "AI compute is the new oil—and needs a new market",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "pubdate": "Thu, 22 Oct 2026 09:07:29 +0000",
+    "description": "Financial firms race to create instruments to trade processing power",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "ea8b69aa-2441-4a0d-945d-8f056f587d44",
+    "title": "Why Elizabeth Holmes still captures the imagination",
+    "link": "https://www.economist.com/podcasts/2026/10/22/why-elizabeth-holmes-still-captures-the-imagination",
+    "pubdate": "Thu, 22 Oct 2026 08:17:16 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "578d1885-908e-42d3-951f-3da4cb7ccc79",
+    "title": "China wants to revive the spirit of the Long March",
+    "link": "https://www.economist.com/china/2026/10/22/china-wants-to-revive-the-spirit-of-the-long-march",
+    "pubdate": "Thu, 22 Oct 2026 08:07:13 +0000",
+    "description": "That means keeping in lockstep with Xi Jinping",
+    "section": "china"
+  },
+  {
+    "guid": "5a1b63bb-97a8-46c8-94a1-8344581b7b9d",
+    "title": "The second may soon be redefined",
+    "link": "https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
+    "pubdate": "Wed, 21 Oct 2026 22:13:39 +0000",
+    "description": "Several atomic clocks are competing for the job",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "51f4e491-c614-4536-ac03-697b539b4131",
+    "title": "Japan’s mission to Mars’s moons takes off",
+    "link": "https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
+    "pubdate": "Wed, 21 Oct 2026 22:12:25 +0000",
+    "description": "It will collect samples and search for signs of ancient life",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "c80920f9-2aa1-4650-8987-96647ced32e7",
+    "title": "How France became ungovernable at home yet unstoppable in Brussels",
+    "link": "https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
+    "pubdate": "Wed, 21 Oct 2026 20:24:07 +0000",
+    "description": "The paradox of Parisian power",
+    "section": "europe"
+  },
+  {
+    "guid": "1cc9aa09-d934-423d-b73b-b0521d3179dc",
+    "title": "Either AI or public debt could crash markets. But probably not both",
+    "link": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+    "pubdate": "Wed, 21 Oct 2026 19:15:40 +0000",
+    "description": "If AI stocks collapse, bond yields will fall",
+    "section": "leaders"
+  },
+  {
+    "guid": "f8d4fdc6-3298-4a7d-a8b2-95415ad5ad91",
+    "title": "Polls suggest a sweeping Democrat victory. History suggests caution",
+    "link": "https://www.economist.com/graphic-detail/2026/10/21/polls-suggest-a-sweeping-democrat-victory-history-suggests-caution",
+    "pubdate": "Wed, 21 Oct 2026 18:43:46 +0000",
+    "description": "Predictable polling errors might reduce the size of the midterms margin",
+    "section": "graphic-detail"
+  },
+  {
+    "guid": "a4691058-0f77-4e5e-9798-c7f4cc52923a",
+    "title": "Is Netflix losing the plot?",
+    "link": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
+    "pubdate": "Wed, 21 Oct 2026 18:37:28 +0000",
+    "description": "The rise of YouTube has shifted the ground under the streamer’s feet",
+    "section": "business"
+  },
+  {
+    "guid": "77006634-f539-46f6-b484-8a10f9027969",
+    "title": "How the 2010s remade business",
+    "link": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
+    "pubdate": "Wed, 21 Oct 2026 18:08:46 +0000",
+    "description": "The revolutionary decade deserves a revisionist eye",
+    "section": "business"
+  },
+  {
+    "guid": "c0f0cf8f-9662-4b00-b324-091acb948375",
+    "title": "AI eats science 1: the mathpocalypse",
+    "link": "https://www.economist.com/podcasts/2026/10/21/ai-eats-science-1-the-mathpocalypse",
+    "pubdate": "Wed, 21 Oct 2026 16:34:36 +0000",
+    "description": "Our podcast on science and technology. This week, the first episode of our four-part series on how scientists are grappling with AI",
+    "section": "podcasts"
+  },
+  {
+    "guid": "8dff4c9f-718a-4ae6-a29f-90956ab19ab4",
+    "title": "Are there too many art fairs?",
+    "link": "https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
+    "pubdate": "Wed, 21 Oct 2026 16:05:22 +0000",
+    "description": "Probably. But FOMO keeps collectors and dealers going to them",
+    "section": "culture"
+  },
+  {
+    "guid": "b3c5fb6d-4cde-44ed-bdc0-b2bebef6b0e6",
+    "title": "Can Lula, now the underdog, pull off one last trick?",
+    "link": "https://www.economist.com/the-americas/2026/10/21/can-lula-now-the-underdog-pull-off-one-last-trick",
+    "pubdate": "Wed, 21 Oct 2026 14:08:13 +0000",
+    "description": "The polls are tightening with just days to go",
+    "section": "the-americas"
+  },
+  {
     "guid": "3981f2c6-9214-4104-98d1-8b1d706b5da4",
     "title": "Cash test: can Europe support Ukraine alone?",
     "link": "https://www.economist.com/podcasts/2026/10/21/cash-test-can-europe-support-ukraine-alone",
@@ -25,10 +193,10 @@
   },
   {
     "guid": "4c1d8501-9329-48c4-ba4e-31ed9aed6d89",
-    "title": "Donald Trump, human wrecking-ball",
-    "link": "https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball",
+    "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
+    "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
     "pubdate": "Tue, 20 Oct 2026 19:46:46 +0000",
-    "description": "The world mostly loathes Trumpian foreign policy. It may not change that much",
+    "description": "Donald Trump’s yen for demolition has broken the “pendulum theory”",
     "section": "international"
   },
   {
@@ -257,10 +425,10 @@
   },
   {
     "guid": "1708f4e7-efb2-4f76-87f6-0ad22883721f",
-    "title": "Expect violent protests to erupt in France again",
-    "link": "https://www.economist.com/europe/2026/10/18/expect-violent-protests-to-erupt-in-france-again",
+    "title": "France’s devastation and its aftermath",
+    "link": "https://www.economist.com/europe/2026/10/18/frances-devastation-and-its-aftermath",
     "pubdate": "Sun, 18 Oct 2026 19:28:10 +0000",
-    "description": "No one is addressing the core problems that the country faces",
+    "description": "The violence will benefit the extremes",
     "section": "europe"
   },
   {
