@@ -1,5 +1,37 @@
 [
   {
+    "guid": "75c5b6df-0697-49cf-9095-a1913bc03780",
+    "title": "The trials of Binyamin Netanyahu",
+    "link": "https://www.economist.com/podcasts/2026/10/24/the-trials-of-binyamin-netanyahu",
+    "pubdate": "Sat, 24 Oct 2026 08:37:09 +0000",
+    "description": "",
+    "section": "podcasts"
+  },
+  {
+    "guid": "d85d2f9b-63c7-4c7e-b2a7-d4cb201ddf52",
+    "title": "Are some protein powders better than others?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others",
+    "pubdate": "Fri, 23 Oct 2026 17:21:17 +0000",
+    "description": "Pure whey is the way to go",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "672edd11-69e6-4852-a939-ecc643499a83",
+    "title": "How could Donald Trump interfere with the midterms?",
+    "link": "https://www.economist.com/podcasts/2026/10/23/how-could-donald-trump-interfere-with-the-midterms",
+    "pubdate": "Fri, 23 Oct 2026 15:17:36 +0000",
+    "description": "Our weekly podcast on America. This week, the ways the election could be disrupted",
+    "section": "podcasts"
+  },
+  {
+    "guid": "d9ea82d6-7ae7-47f9-8942-8c94593f1a43",
+    "title": "What to watch this week",
+    "link": "https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
+    "pubdate": "Fri, 23 Oct 2026 14:01:41 +0000",
+    "description": "Three things that are wonderfully weird—and one that is just plain odd",
+    "section": "culture"
+  },
+  {
     "guid": "d772fc32-4972-459c-902f-1e1f93019b03",
     "title": "Songs of disenchantment: the sorrow of Nigeria",
     "link": "https://www.economist.com/podcasts/2026/10/23/songs-of-disenchantment-the-sorrow-of-nigeria",
@@ -505,10 +537,10 @@
   },
   {
     "guid": "4c1d8501-9329-48c4-ba4e-31ed9aed6d89",
-    "title": "MAGA foreign policy is a mess",
-    "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess",
+    "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
+    "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
     "pubdate": "Tue, 20 Oct 2026 19:46:46 +0000",
-    "description": "Democrats disagree on what comes next",
+    "description": "Donald Trump’s yen for demolition has broken the “pendulum theory”",
     "section": "international"
   },
   {
