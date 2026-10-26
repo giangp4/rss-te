@@ -1,5 +1,101 @@
 [
   {
+    "guid": "75443a05-99a5-441e-94c2-9d17b5d2600a",
+    "title": "Bartleby newsletter: In praise of praise",
+    "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
+    "pubdate": "Mon, 26 Oct 2026 12:28:13 +0000",
+    "description": "Andrew Palmer, our Bartleby columnist, thinks you did a great job today",
+    "section": "business"
+  },
+  {
+    "guid": "affa2946-4216-4aeb-aaf5-b76e48245a86",
+    "title": "From this day, fourth: Lula’s surprise win",
+    "link": "https://www.economist.com/podcasts/2026/10/26/from-this-day-fourth-lulas-surprise-win",
+    "pubdate": "Mon, 26 Oct 2026 10:43:59 +0000",
+    "description": "Also on the daily podcast: the start of our American-midterms series and why just about everywhere sells merch now",
+    "section": "podcasts"
+  },
+  {
+    "guid": "05f4efea-5e83-4435-9d29-ae15073361de",
+    "title": "The “let-it-rip” camp are wrong on AI",
+    "link": "https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-are-wrong-on-ai",
+    "pubdate": "Mon, 26 Oct 2026 10:04:08 +0000",
+    "description": "They make four main arguments and all of them are flawed, write Bridgewater’s Nir Bar Dea and Greg Jensen",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "59e70f66-cab1-4bd4-b556-09f9f9decefd",
+    "title": "Europe’s centrist rulers have fallen dangerously short",
+    "link": "https://www.economist.com/podcasts/2026/10/26/europes-centrist-rulers-have-fallen-dangerously-short",
+    "pubdate": "Mon, 26 Oct 2026 09:48:17 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "90092b37-ee4f-4901-8130-18fc1424b5f0",
+    "title": "Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students",
+    "link": "https://www.economist.com/europe/2026/10/26/aleksandar-vucic-serbias-autocrat-loses-to-a-bunch-of-students",
+    "pubdate": "Mon, 26 Oct 2026 09:13:51 +0000",
+    "description": "A leaderless protest movement hopes to turn the country into a true democracy",
+    "section": "europe"
+  },
+  {
+    "guid": "8824e09d-b649-4b23-9ea5-1acb9f3a39eb",
+    "title": "Lula, the great survivor, makes history",
+    "link": "https://www.economist.com/the-americas/2026/10/26/lula-the-great-survivor-makes-history",
+    "pubdate": "Mon, 26 Oct 2026 05:48:15 +0000",
+    "description": "Latin America’s iconic left-wing statesman is Brazil’s president, again",
+    "section": "the-americas"
+  },
+  {
+    "guid": "158142bf-ce57-499b-925b-72f722b0a96d",
+    "title": "Back in Venezuela, María Machado may speed the return of democracy",
+    "link": "https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy",
+    "pubdate": "Sun, 25 Oct 2026 23:42:58 +0000",
+    "description": "She will push for elections to happen much sooner than Donald Trump had in mind",
+    "section": "the-americas"
+  },
+  {
+    "guid": "746e78d7-2d59-4bd2-9723-5b6a86d39f28",
+    "title": "Politics, not strategy, could mean more Israeli strikes on Iran",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran",
+    "pubdate": "Sun, 25 Oct 2026 18:27:31 +0000",
+    "description": "Elections in Israel and America are driving their leaders’ thinking",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "a39cf418-217b-4eab-b2d8-d82a836a15e2",
+    "title": "China increasingly depends on copying American AI",
+    "link": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+    "pubdate": "Sun, 25 Oct 2026 17:44:35 +0000",
+    "description": "Model distillation infuriates America, but may end up holding China back",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "2b1eb332-b001-414c-8f86-5ccd6b9a89d6",
+    "title": "Do immigrants from some countries commit more sex crimes?",
+    "link": "https://www.economist.com/britain/2026/10/25/do-immigrants-from-some-countries-commit-more-sex-crimes",
+    "pubdate": "Sun, 25 Oct 2026 16:32:48 +0000",
+    "description": "A hard look at Britain’s data suggests so. But it is hardly an epidemic",
+    "section": "britain"
+  },
+  {
+    "guid": "7498f749-eba9-415c-b752-d91894c45a60",
+    "title": "The winners and losers of Trumponomics",
+    "link": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+    "pubdate": "Sun, 25 Oct 2026 16:26:06 +0000",
+    "description": "The president promised to help ordinary Americans. He achieved something rather different",
+    "section": "united-states"
+  },
+  {
+    "guid": "4f5b6bba-f25c-4015-b51f-c0e783b6b05d",
+    "title": "India has stabilised its currency. But at what cost?",
+    "link": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+    "pubdate": "Sun, 25 Oct 2026 12:23:19 +0000",
+    "description": "The central bank is using ever harsher measures to keep the rupee below 100 to the dollar",
+    "section": "asia"
+  },
+  {
     "guid": "48b3a814-3928-4c3b-a569-cab3abb02e90",
     "title": "AI models may not be so opaque after all",
     "link": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
@@ -148,7 +244,7 @@
     "title": "China’s party elite gathers with purges and promotions in mind",
     "link": "https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
     "pubdate": "Thu, 22 Oct 2026 12:59:25 +0000",
-    "description": "Xi seeks new ways to curb corruption before a leadership shake-up",
+    "description": "Xi Jinping seeks new ways to curb corruption before a leadership shake-up",
     "section": "china"
   },
   {
