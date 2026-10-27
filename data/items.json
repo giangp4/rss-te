@@ -1,5 +1,117 @@
 [
   {
+    "guid": "59b17668-b713-4ea9-87ba-d994869cb531",
+    "title": "American bosses are desperately trying to de-MAGAfy",
+    "link": "https://www.economist.com/business/2026/10/27/american-bosses-are-desperately-trying-to-de-magafy",
+    "pubdate": "Tue, 27 Oct 2026 10:59:32 +0000",
+    "description": "Ahead of the midterms, corporations want to win back favour with the Democrats",
+    "section": "business"
+  },
+  {
+    "guid": "65daf188-90de-4475-8d84-f23bb8561dd7",
+    "title": "Wanted: a researcher/news assistant in Tokyo",
+    "link": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
+    "pubdate": "Tue, 27 Oct 2026 10:37:28 +0000",
+    "description": "Work with the East Asia bureau of The Economist",
+    "section": "asia"
+  },
+  {
+    "guid": "4b969c25-312c-4696-b59c-6c8bcf86b653",
+    "title": "Act of Claude: Anthropic’s IPO bid",
+    "link": "https://www.economist.com/podcasts/2026/10/27/act-of-claude-anthropics-ipo-bid",
+    "pubdate": "Tue, 27 Oct 2026 10:25:21 +0000",
+    "description": "Also on the daily podcast: our midterm-battlegrounds series continues in Alaska and redefining the second",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b360bfb0-4608-4c24-8a67-a2d2c6b2785b",
+    "title": "Saudi Arabia and the UAE are fuelling carnage",
+    "link": "https://www.economist.com/podcasts/2026/10/27/saudi-arabia-and-the-uae-are-fuelling-carnage",
+    "pubdate": "Tue, 27 Oct 2026 09:17:49 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "ea9b06ba-13b8-4042-b311-c98ef939445c",
+    "title": "Did Harry Kane have to leave England to win the Ballon d’Or?",
+    "link": "https://www.economist.com/britain/2026/10/26/did-harry-kane-have-to-leave-england-to-win-the-ballon-dor",
+    "pubdate": "Mon, 26 Oct 2026 23:51:22 +0000",
+    "description": "The Premier League’s greatest strength is also a weakness",
+    "section": "britain"
+  },
+  {
+    "guid": "a840b6c2-9ad0-40d8-a881-74a01c343492",
+    "title": "Don’t expect supersize profits from Anthropic soon",
+    "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
+    "pubdate": "Mon, 26 Oct 2026 22:23:01 +0000",
+    "description": "Lurking in its IPO prospectus are warnings of challenges ahead",
+    "section": "business"
+  },
+  {
+    "guid": "95b3a2bb-ad3b-4b39-9037-eb1213fd3d92",
+    "title": "Treatments for age-related infertility are being developed at last",
+    "link": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
+    "pubdate": "Mon, 26 Oct 2026 21:40:51 +0000",
+    "description": "Startups hope to improve IVF by revealing the biology of infertility",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "bae27a1c-9d26-427f-8b9f-e20501a5661b",
+    "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
+    "link": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
+    "pubdate": "Mon, 26 Oct 2026 20:53:42 +0000",
+    "description": "The pressure is on Brazil’s re-elected president to avoid an economic slump",
+    "section": "leaders"
+  },
+  {
+    "guid": "4e93bfed-63a2-437c-a646-ba97abec97db",
+    "title": "Prince William builds a high street",
+    "link": "https://www.economist.com/britain/2026/10/26/prince-william-builds-a-high-street",
+    "pubdate": "Mon, 26 Oct 2026 19:45:07 +0000",
+    "description": "Go ahead and laugh. Your local shopping street will soon resemble it",
+    "section": "britain"
+  },
+  {
+    "guid": "713c1c75-2896-4a2c-b4ee-31dfa6ffad9e",
+    "title": "Opinion newsletter: Why Indonesia is stuck at a roundabout",
+    "link": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
+    "pubdate": "Mon, 26 Oct 2026 17:58:56 +0000",
+    "description": "Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago",
+    "section": "asia"
+  },
+  {
+    "guid": "3dabf221-9302-4fe2-bd6e-bbaebc754eee",
+    "title": "The Economist is hiring a Video Editor",
+    "link": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
+    "pubdate": "Mon, 26 Oct 2026 17:50:30 +0000",
+    "description": "Join our editorial video department in New York",
+    "section": "united-states"
+  },
+  {
+    "guid": "ab8fe47d-fe3d-47d6-b9d3-76e6a78af5ec",
+    "title": "Russia has seized a Japanese journalist, freezing an icy relationship",
+    "link": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
+    "pubdate": "Mon, 26 Oct 2026 17:16:51 +0000",
+    "description": "Vladimir Putin could be angling for a prisoner swap",
+    "section": "asia"
+  },
+  {
+    "guid": "4fc1fac6-dc53-4583-ac76-a9ef46e5abf1",
+    "title": "The Climate Issue newsletter: How slow can you go?",
+    "link": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
+    "pubdate": "Mon, 26 Oct 2026 17:03:59 +0000",
+    "description": "Oliver Morton, our planetary-affairs editor, laments the speed at which the IPCC delivers vital climatic stocktakes",
+    "section": "international"
+  },
+  {
+    "guid": "1384dcc3-e1b8-4636-a1da-9891efa29ed0",
+    "title": "China’s most successful Astroturf operation: grassroots football",
+    "link": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
+    "pubdate": "Mon, 26 Oct 2026 15:24:25 +0000",
+    "description": "Provincial leagues spur spending and a hometown renaissance",
+    "section": "china"
+  },
+  {
     "guid": "75443a05-99a5-441e-94c2-9d17b5d2600a",
     "title": "Bartleby newsletter: In praise of praise",
     "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
@@ -17,8 +129,8 @@
   },
   {
     "guid": "05f4efea-5e83-4435-9d29-ae15073361de",
-    "title": "The “let-it-rip” camp are wrong on AI",
-    "link": "https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-are-wrong-on-ai",
+    "title": "The “let-it-rip” camp is wrong on AI",
+    "link": "https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai",
     "pubdate": "Mon, 26 Oct 2026 10:04:08 +0000",
     "description": "They make four main arguments and all of them are flawed, write Bridgewater’s Nir Bar Dea and Greg Jensen",
     "section": "by-invitation"
