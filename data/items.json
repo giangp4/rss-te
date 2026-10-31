@@ -1,5 +1,61 @@
 [
   {
+    "guid": "5f553ebb-bc59-4222-95eb-399f40e9dcdb",
+    "title": "The last hospital in El Fasher",
+    "link": "https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
+    "pubdate": "Sat, 31 Oct 2026 07:32:11 +0000",
+    "description": "Finding hope in a dark place",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b9267382-1c85-4435-b01d-cc238cd6cff9",
+    "title": "Stalled on the front lines, Russia hits Ukrainian harder",
+    "link": "https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder",
+    "pubdate": "Fri, 30 Oct 2026 18:58:28 +0000",
+    "description": "Our tracker visualises a shift in the war",
+    "section": "interactive"
+  },
+  {
+    "guid": "8e32ce64-e7ce-4ac9-a3bf-2129b59a9d6c",
+    "title": "The War Room newsletter: The best warplanes in history",
+    "link": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+    "pubdate": "Fri, 30 Oct 2026 16:56:55 +0000",
+    "description": "Richard Cockett, a senior editor, straps in to examine the greatest aircraft of all time",
+    "section": "international"
+  },
+  {
+    "guid": "8096da19-92ca-47d3-b26a-d27a68f3d7f2",
+    "title": "Is brown rice really healthier than white rice?",
+    "link": "https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice",
+    "pubdate": "Fri, 30 Oct 2026 16:20:49 +0000",
+    "description": "The scientific evidence goes against the grain",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "d5ef0ba5-a960-477d-921d-b550880f331d",
+    "title": "The midterms preview",
+    "link": "https://www.economist.com/podcasts/2026/10/30/the-midterms-preview",
+    "pubdate": "Fri, 30 Oct 2026 15:51:58 +0000",
+    "description": "Our weekly podcast on America. This week, the races and voters that will decide power in Washington",
+    "section": "podcasts"
+  },
+  {
+    "guid": "91a679cc-62ef-410f-b9b9-f26a05722cab",
+    "title": "Off the Charts newsletter: Our favourite books about maps",
+    "link": "https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-our-favourite-books-about-maps",
+    "pubdate": "Fri, 30 Oct 2026 15:20:16 +0000",
+    "description": "The Economist’s data team give their recommendations",
+    "section": "graphic-detail"
+  },
+  {
+    "guid": "595cfbd3-a4df-4f2f-84e9-ca953d925451",
+    "title": "Off the Charts newsletter: Seeing red",
+    "link": "https://www.economist.com/graphic-detail/2026/10/30/off-the-charts-newsletter-seeing-red",
+    "pubdate": "Fri, 30 Oct 2026 15:01:33 +0000",
+    "description": "Not all colours are created equal, according to Alex Selby-Boothroyd, our head of data journalism",
+    "section": "graphic-detail"
+  },
+  {
     "guid": "6f94aeb9-b139-4259-a4f6-60c82acc6560",
     "title": "Silver-year strongman: 25 years of Narendra Modi",
     "link": "https://www.economist.com/podcasts/2026/10/30/silver-year-strongman-25-years-of-narendra-modi",
