@@ -1,5 +1,53 @@
 [
   {
+    "guid": "088776ae-50f1-42f4-a304-28c519fa19b4",
+    "title": "Poland’s fight over its constitutional court gets physical",
+    "link": "https://www.economist.com/europe/2026/11/01/polands-fight-over-its-constitutional-court-gets-physical",
+    "pubdate": "Sun, 01 Nov 2026 12:35:44 +0000",
+    "description": "Donald Tusk has deployed riot police to get his judges seated",
+    "section": "europe"
+  },
+  {
+    "guid": "def25513-ce31-4d2c-b618-a72998c60382",
+    "title": "Hit podcasts reveal the angst of China’s youth",
+    "link": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
+    "pubdate": "Sun, 01 Nov 2026 10:35:06 +0000",
+    "description": "The government is getting twitchy about their growing popularity",
+    "section": "china"
+  },
+  {
+    "guid": "86cd60aa-4a11-4d21-8223-0d281ba6febb",
+    "title": "Cheap data is great for Indians but not for India’s reputation",
+    "link": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
+    "pubdate": "Sun, 01 Nov 2026 09:39:12 +0000",
+    "description": "The internet brings out the worst in everyone",
+    "section": "asia"
+  },
+  {
+    "guid": "16c2b2f2-e246-4aea-af9e-708daf545333",
+    "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
+    "link": "https://www.economist.com/united-states/2026/10/31/checks-and-balance-newsletter-democrats-nauseous-optimism",
+    "pubdate": "Sat, 31 Oct 2026 16:38:14 +0000",
+    "description": "Charlotte Howard, our US editor, on what to watch in the final days before the midterms",
+    "section": "united-states"
+  },
+  {
+    "guid": "f5fdc913-5d5f-4108-86c1-17790491decc",
+    "title": "Cover Story newsletter: The Americans changing politics for the better",
+    "link": "https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better",
+    "pubdate": "Sat, 31 Oct 2026 15:51:02 +0000",
+    "description": "An exclusive look at how we designed our cover",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "83006d15-6ff1-4628-8597-d48e20753614",
+    "title": "California’s billionaire tax is dividing Democrats",
+    "link": "https://www.economist.com/united-states/2026/10/31/californias-billionaire-tax-is-dividing-democrats",
+    "pubdate": "Sat, 31 Oct 2026 14:50:14 +0000",
+    "description": "The fight over the state’s ballot measure has national stakes",
+    "section": "united-states"
+  },
+  {
     "guid": "5f553ebb-bc59-4222-95eb-399f40e9dcdb",
     "title": "The last hospital in El Fasher",
     "link": "https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
@@ -9,7 +57,7 @@
   },
   {
     "guid": "b9267382-1c85-4435-b01d-cc238cd6cff9",
-    "title": "Stalled on the front lines, Russia hits Ukrainian harder",
+    "title": "Stalled on the front lines, Russia hits Ukraine harder",
     "link": "https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder",
     "pubdate": "Fri, 30 Oct 2026 18:58:28 +0000",
     "description": "Our tracker visualises a shift in the war",
