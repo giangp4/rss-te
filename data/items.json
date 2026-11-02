@@ -1,5 +1,61 @@
 [
   {
+    "guid": "d12499c4-df7d-438c-b19c-970231c98d4b",
+    "title": "Off to the races: our American-midterms preview",
+    "link": "https://www.economist.com/podcasts/2026/11/02/off-to-the-races-our-american-midterms-preview",
+    "pubdate": "Mon, 02 Nov 2026 10:56:34 +0000",
+    "description": "Also on the daily podcast: young people swap the property ladder for the markets and lessons in fame from Harry Houdini",
+    "section": "podcasts"
+  },
+  {
+    "guid": "6fa0cfde-cb6f-4001-ae20-e74296c3f5fb",
+    "title": "Andy Burnham reveals his lack of ambition",
+    "link": "https://www.economist.com/podcasts/2026/11/02/andy-burnham-reveals-his-lack-of-ambition",
+    "pubdate": "Mon, 02 Nov 2026 09:24:37 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "40f367f4-b21c-4fbb-8108-6157ddfaa19f",
+    "title": "Hackers are running riot with AI. Its makers want to cash in",
+    "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+    "pubdate": "Sun, 01 Nov 2026 21:41:42 +0000",
+    "description": "OpenAI and Anthropic spy a big opportunity in cyber-security",
+    "section": "business"
+  },
+  {
+    "guid": "3e4cdf98-4d3e-400f-91a4-94fc795af169",
+    "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate",
+    "link": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
+    "pubdate": "Sun, 01 Nov 2026 17:01:47 +0000",
+    "description": "The northernmost state has become the epicentre of election chicanery",
+    "section": "united-states"
+  },
+  {
+    "guid": "973f41ac-ca21-498a-9fde-4924428e3d31",
+    "title": "How the Houthis built their war machine",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/01/how-the-houthis-built-their-war-machine",
+    "pubdate": "Sun, 01 Nov 2026 16:37:39 +0000",
+    "description": "The rebels in Yemen are outgrowing their dependence on their patron",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "5102ec54-e6a9-4ce8-be8b-c1bd801603ec",
+    "title": "Intensive parenting is no longer the preserve of the rich",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+    "pubdate": "Sun, 01 Nov 2026 16:08:43 +0000",
+    "description": "But wealthy families still come out on top",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "86645a9e-62db-4c27-a79a-d9c5e0150145",
+    "title": "AI is disrupting the art of campaigning",
+    "link": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+    "pubdate": "Sun, 01 Nov 2026 14:10:44 +0000",
+    "description": "Candidates are using the technology to crunch data—and carry out dirty tricks",
+    "section": "united-states"
+  },
+  {
     "guid": "088776ae-50f1-42f4-a304-28c519fa19b4",
     "title": "Poland’s fight over its constitutional court gets physical",
     "link": "https://www.economist.com/europe/2026/11/01/polands-fight-over-its-constitutional-court-gets-physical",
@@ -49,7 +105,7 @@
   },
   {
     "guid": "5f553ebb-bc59-4222-95eb-399f40e9dcdb",
-    "title": "The last hospital in El Fasher",
+    "title": "The last hospital in el-Fasher",
     "link": "https://www.economist.com/podcasts/2026/10/31/the-last-hospital-in-el-fasher",
     "pubdate": "Sat, 31 Oct 2026 07:32:11 +0000",
     "description": "Finding hope in a dark place",
