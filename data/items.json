@@ -1,5 +1,109 @@
 [
   {
+    "guid": "409aaff6-8f49-4ac0-b7c4-0e6ddcafb1f1",
+    "title": "US midterms 2026: live results",
+    "link": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+    "pubdate": "Tue, 03 Nov 2026 12:47:03 +0000",
+    "description": "Follow all the races in the Senate and the House of Representatives",
+    "section": "interactive"
+  },
+  {
+    "guid": "6b720d9c-ee7b-44be-bb35-c6ab485ab866",
+    "title": "Plot Twist newsletter: Winston Churchill and the power of hobbies",
+    "link": "https://www.economist.com/culture/2026/11/03/plot-twist-newsletter-winston-churchill-and-the-power-of-hobbies",
+    "pubdate": "Tue, 03 Nov 2026 11:19:35 +0000",
+    "description": "Alexandra Suich Bass, our Culture editor, paints a picture of the most pleasurable pastimes",
+    "section": "culture"
+  },
+  {
+    "guid": "1c11be53-0162-4d0f-9252-225a50e33b93",
+    "title": "Markets are pushing electrification. Governments must push harder",
+    "link": "https://www.economist.com/by-invitation/2026/11/03/markets-are-pushing-electrification-governments-must-push-harder",
+    "pubdate": "Tue, 03 Nov 2026 11:06:22 +0000",
+    "description": "The transformation can’t be left to market forces alone, writes Murat Kurum, president of COP31",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "aa31ecbe-a324-4212-aeaa-aa9c677d431d",
+    "title": "Fertile ambitions: scientists’ plans to slow the biological clock",
+    "link": "https://www.economist.com/podcasts/2026/11/03/fertile-ambitions-scientists-plans-to-slow-the-biological-clock",
+    "pubdate": "Tue, 03 Nov 2026 10:55:43 +0000",
+    "description": "Also on the daily podcast: Belarusian culture is changing and the success of South Africa’s chewy export",
+    "section": "podcasts"
+  },
+  {
+    "guid": "de79b5c4-1e5f-477e-9b6f-47af5ca5a0b9",
+    "title": "Hackers are exploiting Africa’s digital identities",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/hackers-are-exploiting-africas-digital-identities",
+    "pubdate": "Tue, 03 Nov 2026 09:32:39 +0000",
+    "description": "Governments are embracing new databases. So too are criminals",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "7565e2c4-9b17-4ff8-916d-5e33b530cc5a",
+    "title": "Wanted: a news researcher in Beijing",
+    "link": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
+    "pubdate": "Tue, 03 Nov 2026 09:28:37 +0000",
+    "description": "Work with the Beijing bureau of The Economist",
+    "section": "china"
+  },
+  {
+    "guid": "d5de7b5b-23ee-4c76-ae1a-e3d59f818217",
+    "title": "As voters head to the polls, Democrats bet that discontent will power their victory",
+    "link": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+    "pubdate": "Mon, 02 Nov 2026 21:53:54 +0000",
+    "description": "Our latest forecast of the midterms’ outcome",
+    "section": "united-states"
+  },
+  {
+    "guid": "71734e96-d520-467c-8848-c046cf27dcff",
+    "title": "The quest for immortality has become serious business",
+    "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+    "pubdate": "Mon, 02 Nov 2026 21:39:36 +0000",
+    "description": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing",
+    "section": "business"
+  },
+  {
+    "guid": "b9276eea-6ef0-43d2-9c68-49de33924496",
+    "title": "France’s unhappy countryside turns to the populist right",
+    "link": "https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
+    "pubdate": "Mon, 02 Nov 2026 18:20:28 +0000",
+    "description": "In long-suffering villages, Marine Le Pen has come to stand for hope",
+    "section": "europe"
+  },
+  {
+    "guid": "4c6dfc1f-3b52-4701-8a2d-ad17381317a6",
+    "title": "The War Room newsletter: Canada’s fighter-jet dilemma",
+    "link": "https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma",
+    "pubdate": "Mon, 02 Nov 2026 17:42:12 +0000",
+    "description": "Alex Turner, our defence editor, looks at a choice between the Gripen and the F-35",
+    "section": "the-americas"
+  },
+  {
+    "guid": "8fe6e90d-aa75-4d49-a8dd-bcb402211ba7",
+    "title": "The fight for the soul of the Australian right",
+    "link": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+    "pubdate": "Mon, 02 Nov 2026 17:30:05 +0000",
+    "description": "Can a special-forces veteran stop the rise of Pauline Hanson?",
+    "section": "asia"
+  },
+  {
+    "guid": "000488fd-7d32-449c-9377-38749269bb8a",
+    "title": "A new path to political power in China runs through state firms",
+    "link": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+    "pubdate": "Mon, 02 Nov 2026 16:58:38 +0000",
+    "description": "China Inc has become a breeding ground for up-and-coming officials",
+    "section": "china"
+  },
+  {
+    "guid": "167a563e-32aa-40e7-87ad-a93f9d431f5b",
+    "title": "How is King Charles III doing?",
+    "link": "https://www.economist.com/britain/2026/11/02/how-is-king-charles-iii-doing",
+    "pubdate": "Mon, 02 Nov 2026 16:14:40 +0000",
+    "description": "Quite well. Not least because he has stopped complaining",
+    "section": "britain"
+  },
+  {
     "guid": "d12499c4-df7d-438c-b19c-970231c98d4b",
     "title": "Off to the races: our American-midterms preview",
     "link": "https://www.economist.com/podcasts/2026/11/02/off-to-the-races-our-american-midterms-preview",
