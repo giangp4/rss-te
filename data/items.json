@@ -1,5 +1,117 @@
 [
   {
+    "guid": "883214d0-08ee-4f9d-8e15-28f08400b32d",
+    "title": "The Democrats’ extraordinary triumph, explained",
+    "link": "https://www.economist.com/interactive/graphic-detail/2026/11/04/the-democrats-extraordinary-triumph-explained",
+    "pubdate": "Wed, 04 Nov 2026 13:40:55 +0000",
+    "description": "Six charts show how they came out on top",
+    "section": "interactive"
+  },
+  {
+    "guid": "8fd3d4c8-74dd-4c6d-85c4-89e0422cbc58",
+    "title": "Not in Kansas any more: Republicans get a thrashing",
+    "link": "https://www.economist.com/podcasts/2026/11/04/not-in-kansas-any-more-republicans-get-a-thrashing",
+    "pubdate": "Wed, 04 Nov 2026 11:40:22 +0000",
+    "description": "A special episode of the daily podcast examining Democrats’ midterms landslide",
+    "section": "podcasts"
+  },
+  {
+    "guid": "bd54008c-d797-4b0a-a3e9-a9b4acb0533a",
+    "title": "Why China should keep copying American AI",
+    "link": "https://www.economist.com/podcasts/2026/11/04/why-china-should-keep-copying-american-ai",
+    "pubdate": "Wed, 04 Nov 2026 09:52:21 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "527f8123-cab6-4753-bc12-f71c900dba47",
+    "title": "A landslide for Democrats. A rebuke to Donald Trump",
+    "link": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
+    "pubdate": "Wed, 04 Nov 2026 06:05:41 +0000",
+    "description": "Republicans face a tumultuous new era",
+    "section": "united-states"
+  },
+  {
+    "guid": "f4bdb002-f963-4a8e-8fb7-6ce3543291a1",
+    "title": "Recap: How Democrats took the House and Senate",
+    "link": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
+    "pubdate": "Tue, 03 Nov 2026 22:21:38 +0000",
+    "description": "Results, reactions and analysis from our editors and correspondents",
+    "section": "united-states"
+  },
+  {
+    "guid": "83ae153a-e207-4354-9510-dca20046554c",
+    "title": "Fear united Europe. Nationalism may tear it apart",
+    "link": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
+    "pubdate": "Tue, 03 Nov 2026 22:13:41 +0000",
+    "description": "Donald Trump and Vladimir Putin made Europe serious about its own defences. That may not last",
+    "section": "international"
+  },
+  {
+    "guid": "e02cca84-2993-4749-bde1-e53913850aef",
+    "title": "China’s AI stock-market struggles are a warning",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "pubdate": "Tue, 03 Nov 2026 20:48:59 +0000",
+    "description": "What happens when the supply of new tech catches up with demand?",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "39cf84da-c407-4021-ae92-063e6785ba31",
+    "title": "Besieged by war, Saudi Aramco continues to gush profits",
+    "link": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
+    "pubdate": "Tue, 03 Nov 2026 20:36:19 +0000",
+    "description": "Higher oil prices comfortably make up for bombed facilities",
+    "section": "business"
+  },
+  {
+    "guid": "516047cc-8f36-4114-adf5-c2fadada186b",
+    "title": "America’s renters are in serious trouble",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "pubdate": "Tue, 03 Nov 2026 19:06:57 +0000",
+    "description": "Several gauges of their financial health are flashing red",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "f863d943-c14c-4d18-af58-d8cfab1c1f4b",
+    "title": "Café Europa newsletter: The story of Russia’s last free newspaper",
+    "link": "https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper",
+    "pubdate": "Tue, 03 Nov 2026 18:39:15 +0000",
+    "description": "Matt Steinglass, our Europe editor, meets the larger-than-life character behind Novaya Gazeta",
+    "section": "europe"
+  },
+  {
+    "guid": "7891db79-714f-4a61-bfc6-3ed517d828a3",
+    "title": "Blighty newsletter: Postcard from Antigua—thinking of EU",
+    "link": "https://www.economist.com/britain/2026/11/03/blighty-newsletter-postcard-from-antigua-thinking-of-eu",
+    "pubdate": "Tue, 03 Nov 2026 18:20:00 +0000",
+    "description": "Hugo Gye, our Britain political correspondent, interviews Andy Burnham from the Caribbean",
+    "section": "britain"
+  },
+  {
+    "guid": "4de433b0-8fa8-4ade-9cf8-71485931d05f",
+    "title": "Middle East Dispatch newsletter: How Palestinians voted in Israel’s election",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election",
+    "pubdate": "Tue, 03 Nov 2026 18:04:47 +0000",
+    "description": "Nicolas Pelham, our Middle East correspondent, looks at the Palestinians choosing participation over confrontation",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "fc4ddd47-b292-4e26-aa99-39dcd48f2721",
+    "title": "What goes on behind the doors of Claridge’s?",
+    "link": "https://www.economist.com/culture/2026/11/03/what-goes-on-behind-the-doors-of-claridges",
+    "pubdate": "Tue, 03 Nov 2026 17:32:09 +0000",
+    "description": "A new book gives readers a key card to the storied hotel’s past",
+    "section": "culture"
+  },
+  {
+    "guid": "8a931694-e1c1-4f74-9dad-591136698cfb",
+    "title": "The rise of leisure in China",
+    "link": "https://www.economist.com/podcasts/2026/11/03/the-rise-of-leisure-in-china",
+    "pubdate": "Tue, 03 Nov 2026 16:47:08 +0000",
+    "description": "Our weekly podcast on China. This week, how is the Chinese work ethic changing?",
+    "section": "podcasts"
+  },
+  {
     "guid": "409aaff6-8f49-4ac0-b7c4-0e6ddcafb1f1",
     "title": "US midterms 2026: live results",
     "link": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
@@ -29,6 +141,14 @@
     "link": "https://www.economist.com/podcasts/2026/11/03/fertile-ambitions-scientists-plans-to-slow-the-biological-clock",
     "pubdate": "Tue, 03 Nov 2026 10:55:43 +0000",
     "description": "Also on the daily podcast: Belarusian culture is changing and the success of South Africa’s chewy export",
+    "section": "podcasts"
+  },
+  {
+    "guid": "24665b86-d04b-475a-9aa1-8d8ab8ddd2a9",
+    "title": "India’s strongman faces stern challenges",
+    "link": "https://www.economist.com/podcasts/2026/11/03/indias-strongman-faces-stern-challenges",
+    "pubdate": "Tue, 03 Nov 2026 10:02:11 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
     "section": "podcasts"
   },
   {
