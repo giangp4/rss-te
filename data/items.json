@@ -1,5 +1,501 @@
 [
   {
+    "guid": "78dee430-3adb-4a5c-9557-9c84801d4c77",
+    "title": "Dolores Huerta fought for farm-workers’ rights—and kept devastating secrets",
+    "link": "https://www.economist.com/obituary/2026/11/05/dolores-huerta-fought-for-farm-workers-rights-and-kept-devastating-secrets",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "The labour activist died on October 28th, aged 96",
+    "section": "obituary"
+  },
+  {
+    "guid": "06ed8eaf-6dcd-4203-b7c2-d99e91025c1f",
+    "title": "Economic data, commodities and markets",
+    "link": "https://www.economist.com/economic-and-financial-indicators/2026/11/05/economic-data-commodities-and-markets",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "",
+    "section": "economic-and-financial-indicators"
+  },
+  {
+    "guid": "733af686-9dfd-44ab-a24d-ca0efaa7c5f5",
+    "title": "What is it like to be a newborn?",
+    "link": "https://www.economist.com/culture/2026/11/05/what-is-it-like-to-be-a-newborn",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Nobody can quite say. But a new book tries to figure it out",
+    "section": "culture"
+  },
+  {
+    "guid": "dc3c3599-97d4-4948-b6d0-de390b9f0a74",
+    "title": "Is childlessness contagious?",
+    "link": "https://www.economist.com/culture/2026/11/05/is-childlessness-contagious",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "A new book offers some surprising reasons people aren’t having children",
+    "section": "culture"
+  },
+  {
+    "guid": "8ef8fa0e-c075-49bf-b3df-ee3c85b30c14",
+    "title": "Is it time to end the era of remote work?",
+    "link": "https://www.economist.com/culture/2026/11/05/is-it-time-to-end-the-era-of-remote-work",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "A new book makes a case for getting out of your tracksuit and into your officewear",
+    "section": "culture"
+  },
+  {
+    "guid": "e67349d2-a114-4bcb-951c-1462bfdc2ad4",
+    "title": "Chinese tech helps repressive African governments crush dissent",
+    "link": "https://www.economist.com/culture/2026/11/05/chinese-tech-helps-repressive-african-governments-crush-dissent",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "A fascinating new book investigates the cause and effects of China’s investment in Africa",
+    "section": "culture"
+  },
+  {
+    "guid": "ff3d4704-5559-4d96-a80c-21b4b268a36f",
+    "title": "America’s copper giant has big dreams—but cautious plans",
+    "link": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Freeport-McMoRan’s strategy hints at doubts that prices will continue to rise",
+    "section": "business"
+  },
+  {
+    "guid": "7b69cc12-0af7-4589-85ad-ee5dc7a6c9d5",
+    "title": "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?",
+    "link": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "The proposed merger shows the danger that delivery startups face",
+    "section": "business"
+  },
+  {
+    "guid": "9a024857-dba7-42fd-a581-e4208762b1fa",
+    "title": "The break-up of CVS marks a turning point in American health care",
+    "link": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "The trend towards vertical integration may soon reverse",
+    "section": "business"
+  },
+  {
+    "guid": "b0efe510-ea35-4aa6-bdde-682e2b69e1e1",
+    "title": "Is curiosity all it’s cooked up to be?",
+    "link": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "A quality that everyone lauds has its complexities",
+    "section": "business"
+  },
+  {
+    "guid": "8b2bb19f-e979-416c-9d5d-1388a83b4020",
+    "title": "Firms are racing to protect themselves from AI cyber threats",
+    "link": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Hackers have unleashed a devastating wave of attacks. More may follow",
+    "section": "business"
+  },
+  {
+    "guid": "f9c6cc73-c65d-4bd5-8c95-e6fb16794d76",
+    "title": "The digital world is making Islam more diverse",
+    "link": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Muslims are young, online and playing by their own rules",
+    "section": "international"
+  },
+  {
+    "guid": "fbf1ebe4-8762-44a3-8b81-0e27bfbe7e22",
+    "title": "China and Taiwan are fighting over Sun Yat-sen",
+    "link": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "The 160th birthday of the nationalist revolutionary will be unusually fraught",
+    "section": "china"
+  },
+  {
+    "guid": "cbd26c6d-d28a-4c37-8fe1-19ee3898ca4e",
+    "title": "Japan prepares for its next natural disaster",
+    "link": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Its new agency has plenty to do before a catastrophe strikes",
+    "section": "asia"
+  },
+  {
+    "guid": "be12e297-d20e-4b4a-9f97-c41999251e54",
+    "title": "Dead Starlink terminals in Myanmar are getting people killed",
+    "link": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Has Elon Musk taken another war zone offline?",
+    "section": "asia"
+  },
+  {
+    "guid": "92d3a8e5-c5c3-4400-9ac2-daa33bb34661",
+    "title": "El Salvador’s president thinks he can eliminate Haiti’s gangs",
+    "link": "https://www.economist.com/the-americas/2026/11/05/el-salvadors-president-thinks-he-can-eliminate-haitis-gangs",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Nayib Bukele has dispatched 2,000 troops to the island",
+    "section": "the-americas"
+  },
+  {
+    "guid": "e6ed7361-f5a5-48a2-b216-fc06b9492895",
+    "title": "André “Mad Dog” Janones is a hero of the Brazilian left",
+    "link": "https://www.economist.com/the-americas/2026/11/05/andre-mad-dog-janones-is-a-hero-of-the-brazilian-left",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Can politicians elsewhere in the world replicate his online campaigns?",
+    "section": "the-americas"
+  },
+  {
+    "guid": "df221011-1967-4268-944d-4aad7f341888",
+    "title": "Gulf states brace for war with Iran—again",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/05/gulf-states-brace-for-war-with-iran-again",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Their air defences are dangerously depleted",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "3e608ba6-dbba-4fbe-a3ef-85f8ca30e7e6",
+    "title": "America’s allies oppose more war in Iran. They may not get a say",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/05/americas-allies-oppose-more-war-in-iran-they-may-not-get-a-say",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Economies are shrinking and a deal remains elusive",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "0491a6ac-b15e-497c-8b4d-c3887e53addc",
+    "title": "The leftists who want to seize Berlin’s apartments",
+    "link": "https://www.economist.com/europe/2026/11/05/the-leftists-who-want-to-seize-berlins-apartments",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Die Linke’s radicalism makes it hard for it to form a coalition",
+    "section": "europe"
+  },
+  {
+    "guid": "44c8d488-320b-4b17-a0fd-bfb26814357a",
+    "title": "Britain’s landlords deserve some love",
+    "link": "https://www.economist.com/britain/2026/11/05/britains-landlords-deserve-some-love",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Who will speak for the HMO Hero?",
+    "section": "britain"
+  },
+  {
+    "guid": "ac21c1e0-ea66-483a-b6a3-5fe7ab3d69d8",
+    "title": "Ukraine’s war risks a demographic collapse",
+    "link": "https://www.economist.com/europe/2026/11/05/ukraines-war-risks-a-demographic-collapse",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Birth rates are plunging and Russia is celebrating",
+    "section": "europe"
+  },
+  {
+    "guid": "71722385-3b85-4017-9ba8-3982c7d78b5f",
+    "title": "Spare a thought for the European shag",
+    "link": "https://www.economist.com/britain/2026/11/05/spare-a-thought-for-the-european-shag",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "But other seabirds off Britain’s coast are showing signs of resilience",
+    "section": "britain"
+  },
+  {
+    "guid": "0374018e-8271-4fc0-9ab6-61d80d244e42",
+    "title": "Investor seeks AI Adonis",
+    "link": "https://www.economist.com/britain/2026/11/05/investor-seeks-ai-adonis",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "British venture capital resembles a cruel dating game",
+    "section": "britain"
+  },
+  {
+    "guid": "9777dbe5-9734-4773-9c90-a7170aac8633",
+    "title": "Britain makes the path to permanent residence more arduous",
+    "link": "https://www.economist.com/britain/2026/11/05/britain-makes-the-path-to-permanent-residence-more-arduous",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "It is unlikely to save the “billions” that the government claims",
+    "section": "britain"
+  },
+  {
+    "guid": "24b9090d-88ad-4bb4-9b2e-7fc801af1316",
+    "title": "Britain’s ban on some pornography is based on flimsy evidence",
+    "link": "https://www.economist.com/britain/2026/11/05/britains-ban-on-some-pornography-is-based-on-flimsy-evidence",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Once again, correlation and causation are not the same",
+    "section": "britain"
+  },
+  {
+    "guid": "2a9740d4-946e-40b3-8d24-b45ee37cef1d",
+    "title": "Divided government in America will mean more spending, not less",
+    "link": "https://www.economist.com/by-invitation/2026/11/05/divided-government-in-america-will-mean-more-spending-not-less",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "But Democrats will struggle to unwind the president’s agenda",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "e704960b-2447-447d-b8e1-2facabb5d415",
+    "title": "LLMs v palaeontology",
+    "link": "https://www.economist.com/letters/2026/11/05/llms-v-palaeontology",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Also this week, publications, film critics, preparing for emergencies, London traditions, accounting",
+    "section": "letters"
+  },
+  {
+    "guid": "22b8c3b5-34cc-441a-aa5f-3e6579716149",
+    "title": "England’s new ban on kinky porn will misfire",
+    "link": "https://www.economist.com/leaders/2026/11/05/englands-new-ban-on-kinky-porn-will-misfire",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Bans make moralists feel good, but will not work as planned",
+    "section": "leaders"
+  },
+  {
+    "guid": "6356a78b-ea31-4662-9698-c80db03f3416",
+    "title": "Patients are acting more like consumers. Good",
+    "link": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Health care cannot be an ordinary market. But it could be much more like one",
+    "section": "leaders"
+  },
+  {
+    "guid": "0cc629ec-dc10-4036-ab71-ea78320b10dc",
+    "title": "The world must act to stop a cyber-disaster",
+    "link": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "Governments should make sure defenders have better models than attackers do",
+    "section": "leaders"
+  },
+  {
+    "guid": "bfbcad0b-068b-4923-8954-149f800a447c",
+    "title": "El Salvador’s gangbuster tries his luck in Haiti",
+    "link": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "The status quo is so dire Nayib Bukele might improve it. But the risks are huge",
+    "section": "leaders"
+  },
+  {
+    "guid": "8caca11a-2f68-48cf-bb8a-8b8c26b8f23a",
+    "title": "Business",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/05/business",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "e72d3fa6-498c-496f-83b2-38a30544a145",
+    "title": "Cartoon: The results of the midterms",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/05/cartoon-the-results-of-the-midterms",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "A lighter take on the news",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "2b78ba0e-54dc-4c68-a1bc-90275e00cdc8",
+    "title": "Politics",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/05/politics",
+    "pubdate": "Thu, 05 Nov 2026 13:58:17 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "563c0952-4c3f-4e2f-b8e5-aa9dfc8a54b0",
+    "title": "Asia Bulletin newsletter: Pushing back against populism in Australia and New Zealand",
+    "link": "https://www.economist.com/asia/2026/11/05/asia-bulletin-newsletter-pushing-back-against-populism-in-australia-and-new-zealand",
+    "pubdate": "Thu, 05 Nov 2026 13:37:39 +0000",
+    "description": "Aaron Connelly, Asia diplomatic editor, takes a look at two very different millennial politicians leading the fight",
+    "section": "asia"
+  },
+  {
+    "guid": "811f41cf-0fea-44df-ae2a-06ee9311a704",
+    "title": "Paraguay’s swaggering digital bank has fallen",
+    "link": "https://www.economist.com/the-americas/2026/11/05/paraguays-swaggering-digital-bank-has-fallen",
+    "pubdate": "Thu, 05 Nov 2026 12:05:34 +0000",
+    "description": "The president could be next",
+    "section": "the-americas"
+  },
+  {
+    "guid": "d5038d2d-227d-4ef9-b284-b9414625de3f",
+    "title": "Indebted tycoons haunt China’s banking system",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+    "pubdate": "Thu, 05 Nov 2026 11:54:22 +0000",
+    "description": "Lenders are feeling the hangover from years of Wild East capitalism",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "52e4369e-8b3d-4219-9c9a-af25ff972042",
+    "title": "What IMAX’s dominance says about cinema",
+    "link": "https://www.economist.com/podcasts/2026/11/05/what-imaxs-dominance-says-about-cinema",
+    "pubdate": "Thu, 05 Nov 2026 11:18:50 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "03a1acac-74d3-4326-901d-bdb3b4b62b9b",
+    "title": "The Democrats have won the biggest congressional landslide in 50 years",
+    "link": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
+    "pubdate": "Thu, 05 Nov 2026 11:14:34 +0000",
+    "description": "Black, Hispanic and young voters helped power the party’s victory",
+    "section": "united-states"
+  },
+  {
+    "guid": "d9e67c77-7594-420b-9864-ba4a14fb28fa",
+    "title": "AI is turning protectionists into free traders",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "pubdate": "Thu, 05 Nov 2026 10:22:20 +0000",
+    "description": "Barriers to commerce are rising—except in technology",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "6ad92080-fe2b-42a3-91c6-3be1ab5b668a",
+    "title": "Forever young: the business of longevity drugs",
+    "link": "https://www.economist.com/podcasts/2026/11/05/forever-young-the-business-of-longevity-drugs",
+    "pubdate": "Thu, 05 Nov 2026 10:21:31 +0000",
+    "description": "Also on the daily podcast: sex crimes committed by immigrants and the world of miniatures",
+    "section": "podcasts"
+  },
+  {
+    "guid": "b33abf5b-187b-4e5d-a85c-8e5c446b8aad",
+    "title": "William Nordhaus, favourite economist of the right and the left",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+    "pubdate": "Thu, 05 Nov 2026 10:17:54 +0000",
+    "description": "The Nobel-prizewinner was fascinated by what happens when markets fail",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "a03d8c24-b87d-4eea-b7c3-37df6aa4ab12",
+    "title": "What will a lame-duck Donald Trump get up to overseas?",
+    "link": "https://www.economist.com/briefing/2026/11/05/what-will-a-lame-duck-donald-trump-get-up-to-overseas",
+    "pubdate": "Thu, 05 Nov 2026 10:01:11 +0000",
+    "description": "Embattled at home, the president will look abroad. That is worrying for the world, but it is not clear what he can achieve—for good or ill",
+    "section": "briefing"
+  },
+  {
+    "guid": "89f22982-04ca-45c0-958d-ea4787fceeb3",
+    "title": "The prairie fire behind the Democrats’ big win",
+    "link": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
+    "pubdate": "Thu, 05 Nov 2026 09:52:44 +0000",
+    "description": "Wins in Iowa and Kansas revived the left’s rural populism",
+    "section": "united-states"
+  },
+  {
+    "guid": "6379ee47-ed6d-4020-bc61-e5c30bfd0125",
+    "title": "Republicans are in for a brutal presidential contest",
+    "link": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
+    "pubdate": "Thu, 05 Nov 2026 09:51:14 +0000",
+    "description": "And Democrats suddenly have a unifying agenda",
+    "section": "united-states"
+  },
+  {
+    "guid": "cd873c30-2cd0-4486-abaa-1cb58ec6853e",
+    "title": "Hero or liability? The debate over Abdul El-Sayed",
+    "link": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
+    "pubdate": "Thu, 05 Nov 2026 09:50:08 +0000",
+    "description": "Michigan’s pugnacious populist wants to shake up the Democratic Party",
+    "section": "united-states"
+  },
+  {
+    "guid": "cdfa62aa-1f8f-4f06-bb67-6173f3da2702",
+    "title": "Andy Burnham promises three foreign-policy overhauls",
+    "link": "https://www.economist.com/britain/2026/11/05/andy-burnham-promises-three-foreign-policy-overhauls",
+    "pubdate": "Thu, 05 Nov 2026 09:19:09 +0000",
+    "description": "He speaks to The Economist. In Antigua, of all places",
+    "section": "britain"
+  },
+  {
+    "guid": "56250385-9364-4093-8609-9348c33e731d",
+    "title": "Donald Trump’s humiliation offers America an opportunity",
+    "link": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
+    "pubdate": "Thu, 05 Nov 2026 09:05:20 +0000",
+    "description": "Voters demand a new way of doing things in Washington. Let them have it",
+    "section": "leaders"
+  },
+  {
+    "guid": "2453dff6-9427-4d14-9507-8cf13d8dfa05",
+    "title": "A political revolution in Texas",
+    "link": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+    "pubdate": "Wed, 04 Nov 2026 23:33:52 +0000",
+    "description": "What will Democrats do with control of America’s most iconic red state?",
+    "section": "united-states"
+  },
+  {
+    "guid": "76bfc64b-6a03-4d6b-97f9-913c3b9d1a1c",
+    "title": "What markets make of the midterms",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+    "pubdate": "Wed, 04 Nov 2026 21:48:18 +0000",
+    "description": "Democrats triumph. Investors yawn",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "97137bef-cb80-4f35-8f79-eabd5b6dcfb8",
+    "title": "How the Democrats will wield their power",
+    "link": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
+    "pubdate": "Wed, 04 Nov 2026 19:47:17 +0000",
+    "description": "The party has control of Congress, at last. Now it must govern",
+    "section": "united-states"
+  },
+  {
+    "guid": "5c25a85c-a6d9-4a4b-bc0b-3e148b8b59e6",
+    "title": "Can the pope’s tour of Latin America win back disenchanted youth?",
+    "link": "https://www.economist.com/the-americas/2026/11/04/can-the-popes-tour-of-latin-america-win-back-disenchanted-youth",
+    "pubdate": "Wed, 04 Nov 2026 19:22:38 +0000",
+    "description": "Feminism and mysticism are providing reasons to question the faith",
+    "section": "the-americas"
+  },
+  {
+    "guid": "ea6a39f3-5b4e-4d42-9312-c48f34bd20d8",
+    "title": "The latest Ebola outbreak could be the worst ever",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
+    "pubdate": "Wed, 04 Nov 2026 19:05:18 +0000",
+    "description": "New cases in Kenya and Nigeria show that the outbreak is unchecked",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "91a60d46-4a62-45fc-ad2a-468d4f534d32",
+    "title": "With an eye on America, China is beefing up its AI-controlled labs",
+    "link": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
+    "pubdate": "Wed, 04 Nov 2026 18:38:15 +0000",
+    "description": "By automating scientific research it hopes to strengthen its industrial muscle",
+    "section": "china"
+  },
+  {
+    "guid": "587f694a-c5da-4c48-adda-5efed4f8f499",
+    "title": "AI models can tinker with one another’s brains",
+    "link": "https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
+    "pubdate": "Wed, 04 Nov 2026 18:14:45 +0000",
+    "description": "For now, the tweaks are relatively small-scale",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "2e2ad80c-5dc0-4eed-8a8d-9a5327f371b1",
+    "title": "Drones don’t just blow up the enemy",
+    "link": "https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
+    "pubdate": "Wed, 04 Nov 2026 18:12:53 +0000",
+    "description": "They can also pick up on radio transmissions to identify future targets",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "fd7bfff1-687f-4ea2-9961-3914defab78a",
+    "title": "OpenAI’s approach to mathematics does not add up",
+    "link": "https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
+    "pubdate": "Wed, 04 Nov 2026 18:11:10 +0000",
+    "description": "Two months after the firm’s initial advances, its lack of transparency is still causing problems",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "e75c0f3b-977a-4ab7-a507-d2cc9a1d9678",
+    "title": "Astronomers are mystified by little red dots in the sky",
+    "link": "https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
+    "pubdate": "Wed, 04 Nov 2026 18:09:34 +0000",
+    "description": "They could be the universe’s first supermassive black holes",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "e4e5bf56-4e50-43ab-a6cc-264cd4120a83",
+    "title": "AI eats science 3: artificial researchers",
+    "link": "https://www.economist.com/podcasts/2026/11/04/ai-eats-science-3-artificial-researchers",
+    "pubdate": "Wed, 04 Nov 2026 17:42:57 +0000",
+    "description": "Our podcast on science and technology. This week, the third episode of our four-part series on how scientists are grappling with AI",
+    "section": "podcasts"
+  },
+  {
+    "guid": "0c5eb5f3-a1a8-4594-aec9-2389bd8cf911",
+    "title": "Explaining the popularity of Max Richter’s compositions",
+    "link": "https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
+    "pubdate": "Wed, 04 Nov 2026 16:48:17 +0000",
+    "description": "The classical composer manages to spin even serious subjects into gold",
+    "section": "culture"
+  },
+  {
+    "guid": "c672c878-a013-4356-8682-645ed40683a1",
+    "title": "Bartleby newsletter: The case for scientific methods of decision-making",
+    "link": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+    "pubdate": "Wed, 04 Nov 2026 14:30:27 +0000",
+    "description": "Andrew Palmer, our Bartleby columnist, explains why too many corporate leaders rely on gut instinct",
+    "section": "business"
+  },
+  {
     "guid": "883214d0-08ee-4f9d-8e15-28f08400b32d",
     "title": "The Democrats’ extraordinary triumph, explained",
     "link": "https://www.economist.com/interactive/graphic-detail/2026/11/04/the-democrats-extraordinary-triumph-explained",
@@ -156,7 +652,7 @@
     "title": "Hackers are exploiting Africa’s digital identities",
     "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/hackers-are-exploiting-africas-digital-identities",
     "pubdate": "Tue, 03 Nov 2026 09:32:39 +0000",
-    "description": "Governments are embracing new databases. So too are criminals",
+    "description": "Governments are embracing new databases. So are criminals",
     "section": "middle-east-and-africa"
   },
   {
@@ -241,8 +737,8 @@
   },
   {
     "guid": "40f367f4-b21c-4fbb-8108-6157ddfaa19f",
-    "title": "Hackers are running riot with AI. Its makers want to cash in",
-    "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+    "title": "As hackers run riot with AI, its makers want to cash in",
+    "link": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
     "pubdate": "Sun, 01 Nov 2026 21:41:42 +0000",
     "description": "OpenAI and Anthropic spy a big opportunity in cyber-security",
     "section": "business"
@@ -281,10 +777,10 @@
   },
   {
     "guid": "088776ae-50f1-42f4-a304-28c519fa19b4",
-    "title": "Poland’s fight over its constitutional court gets physical",
-    "link": "https://www.economist.com/europe/2026/11/01/polands-fight-over-its-constitutional-court-gets-physical",
+    "title": "Will Poland’s war over the rule of law ever end?",
+    "link": "https://www.economist.com/europe/2026/11/01/will-polands-war-over-the-rule-of-law-ever-end",
     "pubdate": "Sun, 01 Nov 2026 12:35:44 +0000",
-    "description": "Donald Tusk has deployed riot police to get his judges seated",
+    "description": "Liberals and populists are locked in an eternal struggle over the courts",
     "section": "europe"
   },
   {
