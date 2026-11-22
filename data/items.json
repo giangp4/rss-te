@@ -1,5 +1,29 @@
 [
   {
+    "guid": "6f09d50a-e70f-4c6a-a170-2fcaa72aefa1",
+    "title": "The Gandhi dynasty suffers for India",
+    "link": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
+    "pubdate": "Sun, 22 Nov 2026 12:18:07 +0000",
+    "description": "And India suffers the Gandhi dynasty",
+    "section": "asia"
+  },
+  {
+    "guid": "e77cd460-2a0e-4f8a-bc1b-a06d02e19b74",
+    "title": "Spain’s election this week will be a referendum on Pedro Sánchez",
+    "link": "https://www.economist.com/europe/2026/11/22/spains-election-this-week-will-be-a-referendum-on-pedro-sanchez",
+    "pubdate": "Sun, 22 Nov 2026 12:14:26 +0000",
+    "description": "Despite a booming economy Spaniards are feeling discontented",
+    "section": "europe"
+  },
+  {
+    "guid": "5a1d24e7-32ac-44d3-a8a2-c771bff823dd",
+    "title": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+    "pubdate": "Sun, 22 Nov 2026 11:13:42 +0000",
+    "description": "The Public Investment Fund is distracted, and not just by war",
+    "section": "finance-and-economics"
+  },
+  {
     "guid": "962c9d1b-44fb-4ec7-8258-7e8428404523",
     "title": "Checks and Balance newsletter: The crowded field for 2028",
     "link": "https://www.economist.com/united-states/2026/11/21/checks-and-balance-newsletter-the-crowded-field-for-2028",
@@ -625,8 +649,8 @@
   },
   {
     "guid": "0d8bb1ee-dfee-4c39-b13c-860a366f1187",
-    "title": "Ten business trends for 2027, and forecasts for 16 industries",
-    "link": "https://www.economist.com/the-world-ahead/2026/11/18/ten-business-trends-for-2027-and-forecasts-for-16-industries",
+    "title": "Ten business trends for 2027, and forecasts for 15 industries",
+    "link": "https://www.economist.com/the-world-ahead/2026/11/18/ten-business-trends-for-2027-and-forecasts-for-15-industries",
     "pubdate": "Wed, 18 Nov 2026 15:12:38 +0000",
     "description": "A global round-up from The Economist Intelligence Unit",
     "section": "the-world-ahead"
