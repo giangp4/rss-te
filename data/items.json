@@ -1,5 +1,85 @@
 [
   {
+    "guid": "d705f1d2-1793-4fa4-9590-40c9fad6948c",
+    "title": "Jensen Huang returns. But Nvidia will never be the same",
+    "link": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
+    "pubdate": "Mon, 23 Nov 2026 16:30:30 +0000",
+    "description": "He now faces a hostile Congress, rattled employees and wary business partners",
+    "section": "business"
+  },
+  {
+    "guid": "5cb2e032-2454-4b8c-927e-505a4bed8a08",
+    "title": "Johnny Depp is back as Scrooge, patron saint of second chances",
+    "link": "https://www.economist.com/culture/2026/11/23/johnny-depp-is-back-as-scrooge-patron-saint-of-second-chances",
+    "pubdate": "Mon, 23 Nov 2026 15:32:38 +0000",
+    "description": "The churlish, cherished miser is the ghost of Christmas past, present and future",
+    "section": "culture"
+  },
+  {
+    "guid": "bbdacbcd-4523-4c0f-9fbe-6321308e7bf6",
+    "title": "Bartleby newsletter: Valley mentality",
+    "link": "https://www.economist.com/business/2026/11/23/bartleby-newsletter-valley-mentality",
+    "pubdate": "Mon, 23 Nov 2026 14:54:47 +0000",
+    "description": "Andrew Palmer, Bartleby columnist, asks why people who think that AI might have terrible outcomes persist in developing it",
+    "section": "business"
+  },
+  {
+    "guid": "df66d743-e704-427b-8dfe-a131d0cbd148",
+    "title": "Cover Story newsletter: Axis of malice",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/23/cover-story-newsletter-axis-of-malice",
+    "pubdate": "Mon, 23 Nov 2026 12:54:57 +0000",
+    "description": "An exclusive look at how we designed our cover",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "01cfa606-0656-4728-a389-f1d868769a04",
+    "title": "In the life of prime: AI’s latest maths triumph",
+    "link": "https://www.economist.com/podcasts/2026/11/23/in-the-life-of-prime-ais-latest-maths-triumph",
+    "pubdate": "Mon, 23 Nov 2026 11:18:45 +0000",
+    "description": "Also on the daily podcast: Japan’s new disaster agency has its work cut out and why American renters are in deep trouble",
+    "section": "podcasts"
+  },
+  {
+    "guid": "2071cf42-5596-4abd-a9c7-914238072b50",
+    "title": "As public markets hog the limelight, dangers lie in the shadows",
+    "link": "https://www.economist.com/by-invitation/2026/11/23/as-public-markets-hog-the-limelight-dangers-lie-in-the-shadows",
+    "pubdate": "Mon, 23 Nov 2026 10:35:48 +0000",
+    "description": "For retail investors’ sake, shine more light on private markets, writes Ken Miller",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "e8b989a2-a695-423f-a742-cae4b64198c8",
+    "title": "An alliance of autocrats threatens the West",
+    "link": "https://www.economist.com/podcasts/2026/11/23/an-alliance-of-autocrats-threatens-the-west",
+    "pubdate": "Mon, 23 Nov 2026 09:57:31 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "8a1b4ca8-30f0-497b-812c-8ce89448083e",
+    "title": "The messy breakdown of the UN’s climate conference",
+    "link": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
+    "pubdate": "Sun, 22 Nov 2026 22:26:59 +0000",
+    "description": "The parties could not even agree on whether to mention fossil fuels in the summary text",
+    "section": "international"
+  },
+  {
+    "guid": "4a5aa557-f69f-4508-a5d2-95573a00a870",
+    "title": "How much more air can come out of the AI trade?",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+    "pubdate": "Sun, 22 Nov 2026 19:44:21 +0000",
+    "description": "Markets are troubled—for good reason",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "fe92584f-e74e-48e8-841b-1a7f2c9c3b43",
+    "title": "Democrats will struggle with a state-level revolution",
+    "link": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
+    "pubdate": "Sun, 22 Nov 2026 14:38:46 +0000",
+    "description": "Reversing Republican policies is harder than it looks",
+    "section": "united-states"
+  },
+  {
     "guid": "6f09d50a-e70f-4c6a-a170-2fcaa72aefa1",
     "title": "The Gandhi dynasty suffers for India",
     "link": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
@@ -9,8 +89,8 @@
   },
   {
     "guid": "e77cd460-2a0e-4f8a-bc1b-a06d02e19b74",
-    "title": "Spain’s election this week will be a referendum on Pedro Sánchez",
-    "link": "https://www.economist.com/europe/2026/11/22/spains-election-this-week-will-be-a-referendum-on-pedro-sanchez",
+    "title": "Spain’s election will be a referendum on Pedro Sánchez",
+    "link": "https://www.economist.com/europe/2026/11/22/spains-election-will-be-a-referendum-on-pedro-sanchez",
     "pubdate": "Sun, 22 Nov 2026 12:14:26 +0000",
     "description": "Despite a booming economy Spaniards are feeling discontented",
     "section": "europe"
@@ -41,10 +121,10 @@
   },
   {
     "guid": "783dbd9c-6238-4d14-bc13-d320b0705e5c",
-    "title": "AI may have solved the most important problem in mathematics",
-    "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+    "title": "AI has conquered mathematics’ greatest challenge",
+    "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-has-conquered-mathematics-greatest-challenge",
     "pubdate": "Fri, 20 Nov 2026 21:41:15 +0000",
-    "description": "Humans spent 167 years trying to prove the Riemann hypothesis",
+    "description": "The Riemann hypothesis has fallen. Where does mathematics, and AI, go from here?",
     "section": "science-and-technology"
   },
   {
