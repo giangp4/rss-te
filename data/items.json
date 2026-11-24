@@ -1,5 +1,109 @@
 [
   {
+    "guid": "63ecc76d-aea5-4474-ae17-b58fc6575a7a",
+    "title": "Good news for Chinese football fans",
+    "link": "https://www.economist.com/podcasts/2026/11/24/good-news-for-chinese-football-fans",
+    "pubdate": "Tue, 24 Nov 2026 17:20:30 +0000",
+    "description": "Our weekly podcast on China. This week, we join 30,000 fans at a provincial league football match and ask whether China’s football woes may be over",
+    "section": "podcasts"
+  },
+  {
+    "guid": "0d939c78-0895-4237-baa7-5f4f5755c34c",
+    "title": "Blighty newsletter: Reform UK is shaking up Welsh politics",
+    "link": "https://www.economist.com/britain/2026/11/24/blighty-newsletter-reform-uk-is-shaking-up-welsh-politics",
+    "pubdate": "Tue, 24 Nov 2026 16:59:43 +0000",
+    "description": "Hugo Gye, our Britain political correspondent, takes a trip to the Senedd",
+    "section": "britain"
+  },
+  {
+    "guid": "12cd6085-8c5e-4e13-85e5-f55bfbbbd4ff",
+    "title": "Elon Musk shifts the blame for throttling Starshield in Ukraine",
+    "link": "https://www.economist.com/europe/2026/11/24/elon-musk-shifts-the-blame-for-throttling-starshield-in-ukraine",
+    "pubdate": "Tue, 24 Nov 2026 15:12:48 +0000",
+    "description": "But it strains belief that anyone else could limit Ukrainian drones",
+    "section": "europe"
+  },
+  {
+    "guid": "586c26c9-2d43-47ed-8c08-0423ed7e0281",
+    "title": "AI will inspire a golden age of mathematics",
+    "link": "https://www.economist.com/by-invitation/2026/11/24/ai-will-inspire-a-golden-age-of-mathematics",
+    "pubdate": "Tue, 24 Nov 2026 14:00:53 +0000",
+    "description": "Robot assistance is transforming the oldest of sciences. Mathematicians should welcome the upheaval, writes Jon Keating",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "155a2713-7720-4967-a4aa-d0c51e9ac5db",
+    "title": "Republican lawmakers are in revolt over Jensen Huang’s return",
+    "link": "https://www.economist.com/united-states/2026/11/24/republican-lawmakers-are-in-revolt-over-jensen-huangs-return",
+    "pubdate": "Tue, 24 Nov 2026 12:37:32 +0000",
+    "description": "Donald Trump’s gambit delights Silicon Valley and Wall Street but dismays Washington",
+    "section": "united-states"
+  },
+  {
+    "guid": "22e39efa-44bd-4d19-807b-acf38e6d34ba",
+    "title": "Alice forgiven? Jensen Huang back at Nvidia",
+    "link": "https://www.economist.com/podcasts/2026/11/24/alice-forgiven-jensen-huang-back-at-nvidia",
+    "pubdate": "Tue, 24 Nov 2026 11:30:32 +0000",
+    "description": "Also on the daily podcast: measles is well and truly back in America, and meeting one of the most popular composers alive",
+    "section": "podcasts"
+  },
+  {
+    "guid": "3bebf68e-eac8-4295-b563-d889682ce9c1",
+    "title": "Why some African deserts are turning green",
+    "link": "https://www.economist.com/podcasts/2026/11/24/why-some-african-deserts-are-turning-green",
+    "pubdate": "Tue, 24 Nov 2026 09:58:53 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "fc9406d5-fe8b-493e-bbe4-584896add97d",
+    "title": "The War Room newsletter: Is it a drone or a missile?",
+    "link": "https://www.economist.com/international/2026/11/24/the-war-room-newsletter-is-it-a-drone-or-a-missile",
+    "pubdate": "Tue, 24 Nov 2026 09:52:24 +0000",
+    "description": "Alex Turner, our defence editor, explores how weapon technologies are converging",
+    "section": "international"
+  },
+  {
+    "guid": "e1358cff-bff8-4329-ba58-b6d0a59014ca",
+    "title": "How the manosphere could swing Spain’s election",
+    "link": "https://www.economist.com/graphic-detail/2026/11/23/how-the-manosphere-could-swing-spains-election",
+    "pubdate": "Mon, 23 Nov 2026 22:07:14 +0000",
+    "description": "Our data show angry young men could tip the result",
+    "section": "graphic-detail"
+  },
+  {
+    "guid": "4768cf2c-91b1-4836-bfdb-7d7bce2ca35c",
+    "title": "How the manosphere cashes in on male insecurity",
+    "link": "https://www.economist.com/business/2026/11/23/how-the-manosphere-cashes-in-on-male-insecurity",
+    "pubdate": "Mon, 23 Nov 2026 21:28:00 +0000",
+    "description": "Behind the controversial influencers lies a web of troubling sponsorship deals",
+    "section": "business"
+  },
+  {
+    "guid": "e1e07c7e-15e3-41d5-9a8b-eae895d15073",
+    "title": "The world’s back office aims to become a “deep-tech” powerhouse",
+    "link": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
+    "pubdate": "Mon, 23 Nov 2026 18:58:50 +0000",
+    "description": "Why Bangalore’s next reincarnation depends on the government in Delhi",
+    "section": "asia"
+  },
+  {
+    "guid": "f2d9248e-386c-4209-91d0-80944197f326",
+    "title": "Does a crummy economy threaten China’s social contract?",
+    "link": "https://www.economist.com/china/2026/11/23/does-a-crummy-economy-threaten-chinas-social-contract",
+    "pubdate": "Mon, 23 Nov 2026 17:54:19 +0000",
+    "description": "The Communist Party’s quest for legitimacy is about much more than growth",
+    "section": "china"
+  },
+  {
+    "guid": "ee608d89-4e17-44a4-b3d8-aa5cc044751c",
+    "title": "The unlikely winner from war in the Gulf",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/23/the-unlikely-winner-from-war-in-the-gulf",
+    "pubdate": "Mon, 23 Nov 2026 17:32:27 +0000",
+    "description": "Amid the conflict, one Middle Eastern country is enjoying a fragile economic boom",
+    "section": "middle-east-and-africa"
+  },
+  {
     "guid": "d705f1d2-1793-4fa4-9590-40c9fad6948c",
     "title": "Jensen Huang returns. But Nvidia will never be the same",
     "link": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
