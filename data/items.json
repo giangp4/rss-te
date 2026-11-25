@@ -1,5 +1,101 @@
 [
   {
+    "guid": "41124f8e-7ff6-4857-992a-80cbdd121549",
+    "title": "Britain needs to cut its mental-health benefits bill",
+    "link": "https://www.economist.com/leaders/2026/11/25/britain-needs-to-cut-its-mental-health-benefits-bill",
+    "pubdate": "Wed, 25 Nov 2026 15:46:57 +0000",
+    "description": "Too many people are getting cash intended for the most disabled",
+    "section": "leaders"
+  },
+  {
+    "guid": "c525d337-e96c-4fcf-9dba-397c272eab04",
+    "title": "Strait draw: Iran’s hot war cools",
+    "link": "https://www.economist.com/podcasts/2026/11/25/strait-draw-irans-hot-war-cools",
+    "pubdate": "Wed, 25 Nov 2026 11:53:04 +0000",
+    "description": "Also on the daily podcast: how Bangladesh stopped being a development success and AIs caught muttering obscenities",
+    "section": "podcasts"
+  },
+  {
+    "guid": "2b04a817-bab0-4913-8868-45227b43fba2",
+    "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+    "link": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+    "pubdate": "Wed, 25 Nov 2026 10:32:00 +0000",
+    "description": "He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist",
+    "section": "by-invitation"
+  },
+  {
+    "guid": "75dd53a4-ba5a-4a3c-914c-d4df6c29616a",
+    "title": "How Britain sells America to Americans",
+    "link": "https://www.economist.com/podcasts/2026/11/25/how-britain-sells-america-to-americans",
+    "pubdate": "Wed, 25 Nov 2026 10:08:21 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "cec0f6c8-8f5b-49b1-8a4d-de4b457967fd",
+    "title": "The rich world’s sexual recession is getting worse",
+    "link": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
+    "pubdate": "Wed, 25 Nov 2026 09:09:11 +0000",
+    "description": "Exhaustion is just one of the culprits",
+    "section": "international"
+  },
+  {
+    "guid": "8bca47d4-35b7-4efc-8f6e-0fe8a7029d70",
+    "title": "The Gulf survived a short, hot war. A long, cold one will be harder",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder",
+    "pubdate": "Tue, 24 Nov 2026 22:09:57 +0000",
+    "description": "Conflict could continue until 2029",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "e9877415-5d5a-4347-81f4-27a5695a6292",
+    "title": "Are America’s supply chains really more vulnerable than China’s?",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+    "pubdate": "Tue, 24 Nov 2026 20:34:14 +0000",
+    "description": "Mapping the vulnerabilities in global commerce",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "385a2e71-6148-477f-8623-0eb4eaca60ec",
+    "title": "Doomsday predictions have value, even if they’re wrong",
+    "link": "https://www.economist.com/science-and-technology/2026/11/24/doomsday-predictions-have-value-even-if-theyre-wrong",
+    "pubdate": "Tue, 24 Nov 2026 19:13:16 +0000",
+    "description": "And other takeaways from a conference on the end of the world",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "ecaa1043-9c1c-4630-9b9a-cd8034b7db3c",
+    "title": "Shanghai’s boss is purged from Xi Jinping’s top team",
+    "link": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
+    "pubdate": "Tue, 24 Nov 2026 18:45:56 +0000",
+    "description": "Chen Jining is the latest in a string of high-profile removals",
+    "section": "china"
+  },
+  {
+    "guid": "927780a6-0c18-4c87-804c-59dcff473380",
+    "title": "Ten years after Colombia’s peace deal, violence is rising again",
+    "link": "https://www.economist.com/the-americas/2026/11/24/ten-years-after-colombias-peace-deal-violence-is-rising-again",
+    "pubdate": "Tue, 24 Nov 2026 18:27:00 +0000",
+    "description": "The accord ended six decades of war. Can peace still be assured?",
+    "section": "the-americas"
+  },
+  {
+    "guid": "e1c4390d-450b-4a22-98e0-08afcac4d3b6",
+    "title": "Copper shows how AI is messing with markets",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+    "pubdate": "Tue, 24 Nov 2026 18:12:38 +0000",
+    "description": "The pitfalls of being a proxy bet for a technological revolution",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "ae618b26-4e2c-4fdb-90a8-35d2d46fe3d1",
+    "title": "Jensen Huang and the age of impunity",
+    "link": "https://www.economist.com/leaders/2026/11/24/jensen-huang-and-the-age-of-impunity",
+    "pubdate": "Tue, 24 Nov 2026 17:56:13 +0000",
+    "description": "Silicon Valley and Donald Trump share a disturbing view of power",
+    "section": "leaders"
+  },
+  {
     "guid": "63ecc76d-aea5-4474-ae17-b58fc6575a7a",
     "title": "Good news for Chinese football fans",
     "link": "https://www.economist.com/podcasts/2026/11/24/good-news-for-chinese-football-fans",
