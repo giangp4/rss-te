@@ -1,5 +1,405 @@
 [
   {
+    "guid": "86dc3514-5e13-4eff-825b-fa87ce220c86",
+    "title": "Annette Green transformed Americans’ attitude to perfume",
+    "link": "https://www.economist.com/obituary/2026/11/26/annette-green-transformed-americans-attitude-to-perfume",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "The tireless campaigner for a sweet-smelling world died on October 8th, aged 102",
+    "section": "obituary"
+  },
+  {
+    "guid": "542daef7-5aec-4a8b-8dcb-808f317215c3",
+    "title": "Economic data, commodities and markets",
+    "link": "https://www.economist.com/economic-and-financial-indicators/2026/11/26/economic-data-commodities-and-markets",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "",
+    "section": "economic-and-financial-indicators"
+  },
+  {
+    "guid": "7edfa0e4-807e-4a05-b797-22e4b06b10ae",
+    "title": "The best books of 2026, as chosen by The Economist",
+    "link": "https://www.economist.com/culture/2026/11/26/the-best-books-of-2026-as-chosen-by-the-economist",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "They offered new perspectives on the world—and escapes from it",
+    "section": "culture"
+  },
+  {
+    "guid": "f3b2b448-ce30-4f0d-a296-136484d8323d",
+    "title": "The strange satisfaction of eating on a plane",
+    "link": "https://www.economist.com/business/2026/11/26/the-strange-satisfaction-of-eating-on-a-plane",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Crackers and vacuum-packed cheese, sir?",
+    "section": "business"
+  },
+  {
+    "guid": "c8851969-0fed-48d5-ab9f-2e2757129b6e",
+    "title": "Chinese cities want to become “token factories” for the world",
+    "link": "https://www.economist.com/business/2026/11/26/chinese-cities-want-to-become-token-factories-for-the-world",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "It is not going well",
+    "section": "business"
+  },
+  {
+    "guid": "c9c29241-b627-4f20-b086-fccd87a11fe9",
+    "title": "How will Anthropic’s cashed-up employees spend their riches?",
+    "link": "https://www.economist.com/business/2026/11/26/how-will-anthropics-cashed-up-employees-spend-their-riches",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Charities are headed for a windfall",
+    "section": "business"
+  },
+  {
+    "guid": "2ee2c742-b3da-4776-a3f1-2ad8ed8c48c0",
+    "title": "The maker of M&Ms is earning big money keeping pets healthy",
+    "link": "https://www.economist.com/business/2026/11/26/the-maker-of-mandms-is-earning-big-money-keeping-pets-healthy",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Mars, the world’s biggest vet operator, is reinventing health care for animals",
+    "section": "business"
+  },
+  {
+    "guid": "7814a49a-1754-44f8-bc08-fc89b56f780b",
+    "title": "China releases the first-ever AI-generated movie",
+    "link": "https://www.economist.com/china/2026/11/26/china-releases-the-first-ever-ai-generated-movie",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "It has bombed at the box office",
+    "section": "china"
+  },
+  {
+    "guid": "1ea94060-cafa-4f39-952b-65d87efdb0fc",
+    "title": "Hong Kongers commemorate the Tai Po fire",
+    "link": "https://www.economist.com/china/2026/11/26/hong-kongers-commemorate-the-tai-po-fire",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "They can mourn the dead, but only on the government’s terms",
+    "section": "china"
+  },
+  {
+    "guid": "265228c7-6ed3-4801-acac-b108ddea9eb6",
+    "title": "Laos is no longer a least-developed country",
+    "link": "https://www.economist.com/asia/2026/11/26/laos-is-no-longer-a-least-developed-country",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Though Bangladesh and Nepal hang on to the status",
+    "section": "asia"
+  },
+  {
+    "guid": "544b03f9-5059-4c8d-b220-ebbc9a7f341f",
+    "title": "Is a court about to rule against Britain on the Falklands?",
+    "link": "https://www.economist.com/the-americas/2026/11/26/is-a-court-about-to-rule-against-britain-on-the-falklands",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "The islands’ economic future is at risk",
+    "section": "the-americas"
+  },
+  {
+    "guid": "f55963a2-e7d7-4e27-976f-fc1755c9cee4",
+    "title": "After a kingpin’s arrest, Sinaloa’s drug war could get worse",
+    "link": "https://www.economist.com/the-americas/2026/11/26/after-a-kingpins-arrest-sinaloas-drug-war-could-get-worse",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Drone-delivered bombs and landmines add to the slaughter",
+    "section": "the-americas"
+  },
+  {
+    "guid": "48790002-2e4f-407c-9425-eb16126aba4c",
+    "title": "Cyril Ramaphosa is letting South Africa drift into chaos",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/26/cyril-ramaphosa-is-letting-south-africa-drift-into-chaos",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "The ANC looks set to choose patronage over pragmatism",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "566d1238-2084-46db-a187-044aac4711e6",
+    "title": "The success of a giant mine in Guinea alarms America",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/26/the-success-of-a-giant-mine-in-guinea-alarms-america",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "It is trying to get in on the African country’s iron-ore bonanza",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "3aa0d5dc-31cc-4cca-b88b-ac9b5568d15f",
+    "title": "Meet the world’s favourite African coup leader",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/26/meet-the-worlds-favourite-african-coup-leader",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Guinea’s strongman is a master of multipolarity",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "68bf03d8-2d41-414a-be04-528630e75619",
+    "title": "Welcome to baby governor school!",
+    "link": "https://www.economist.com/united-states/2026/11/26/welcome-to-baby-governor-school",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Veteran executives teach their newly elected peers how to run a state",
+    "section": "united-states"
+  },
+  {
+    "guid": "a4f76cca-d76d-4cdc-8a74-e7ff12013f14",
+    "title": "Congress takes aim at the red tape that makes it hard to build",
+    "link": "https://www.economist.com/united-states/2026/11/26/congress-takes-aim-at-the-red-tape-that-makes-it-hard-to-build",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "But will Democrats support deregulation?",
+    "section": "united-states"
+  },
+  {
+    "guid": "b4721d07-16dc-46ff-86f1-88a9a5688783",
+    "title": "Turkey’s peace talks with the PKK are inching ahead",
+    "link": "https://www.economist.com/europe/2026/11/26/turkeys-peace-talks-with-the-pkk-are-inching-ahead",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "The country’s Kurds hope to win cultural rights, but have few illusions",
+    "section": "europe"
+  },
+  {
+    "guid": "35dd9a84-0b62-40e7-804e-56cc3d3f7d2f",
+    "title": "Why the EU’s cohesion funds should be phased out",
+    "link": "https://www.economist.com/europe/2026/11/26/why-the-eus-cohesion-funds-should-be-phased-out",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Calling time on roads to nowhere",
+    "section": "europe"
+  },
+  {
+    "guid": "ef75d511-b320-4654-9303-ca81aa1389a2",
+    "title": "The Dutch try to perfect taxes on savings, and fail",
+    "link": "https://www.economist.com/europe/2026/11/26/the-dutch-try-to-perfect-taxes-on-savings-and-fail",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Europeans who want to raise tax on wealth have their work cut out",
+    "section": "europe"
+  },
+  {
+    "guid": "6210d341-2b16-44e4-a7d1-f535a1ebb905",
+    "title": "The mayor of Cannes thinks he can beat Marine Le Pen",
+    "link": "https://www.economist.com/europe/2026/11/26/the-mayor-of-cannes-thinks-he-can-beat-marine-le-pen",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "David Lisnard is the umpteenth presidential hopeful",
+    "section": "europe"
+  },
+  {
+    "guid": "ad31b4ce-8082-41cb-855c-62f534172de1",
+    "title": "Nscale epitomises the AI boom",
+    "link": "https://www.economist.com/britain/2026/11/26/nscale-epitomises-the-ai-boom",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Britain’s neocloud champion is nebulous, and not very British",
+    "section": "britain"
+  },
+  {
+    "guid": "ea8371dc-f3d3-447b-8528-166a7b6b863d",
+    "title": "In praise of experimenting on children",
+    "link": "https://www.economist.com/britain/2026/11/26/in-praise-of-experimenting-on-children",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "England does it better than Scotland and Wales—and so has better schools",
+    "section": "britain"
+  },
+  {
+    "guid": "e6979442-a0ec-4888-88f5-5881424259bf",
+    "title": "Women are riding to the Tories’ rescue",
+    "link": "https://www.economist.com/britain/2026/11/26/women-are-riding-to-the-tories-rescue",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Mostly because they aren’t keen on Nigel Farage",
+    "section": "britain"
+  },
+  {
+    "guid": "c2244415-0275-4a74-a234-13db41fe7425",
+    "title": "Britain’s EU deal: a user’s guide",
+    "link": "https://www.economist.com/britain/2026/11/26/britains-eu-deal-a-users-guide",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Improper use may cause injury",
+    "section": "britain"
+  },
+  {
+    "guid": "69305ed5-9b26-433a-8b3f-8c2ecd56edd3",
+    "title": "Why Britain’s abortion rate is rising",
+    "link": "https://www.economist.com/britain/2026/11/26/why-britains-abortion-rate-is-rising",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "It isn’t because of more accidental pregnancies",
+    "section": "britain"
+  },
+  {
+    "guid": "487cd216-6de1-4ba8-a33f-2b8b1eb919b0",
+    "title": "A British city cracks down on illicit displays of British flags",
+    "link": "https://www.economist.com/britain/2026/11/26/a-british-city-cracks-down-on-illicit-displays-of-british-flags",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Are flag-raisers patriots, thugs or both?",
+    "section": "britain"
+  },
+  {
+    "guid": "99902159-aaba-45cd-a05c-961516d16934",
+    "title": "What is the most important danger of personalised pricing?",
+    "link": "https://www.economist.com/letters/2026/11/26/what-is-the-most-important-danger-of-personalised-pricing",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Also this week, violence in India, Italy’s left-wing parties, the allure of “Rocky”, babies v dogs",
+    "section": "letters"
+  },
+  {
+    "guid": "8b95c72f-b9f2-4fcd-8057-f65bc42c1f77",
+    "title": "Young people are having less sex. Blame helicopter parenting",
+    "link": "https://www.economist.com/leaders/2026/11/26/young-people-are-having-less-sex-blame-helicopter-parenting",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Overprotective parents are slowing the growing-up process",
+    "section": "leaders"
+  },
+  {
+    "guid": "77e227a8-1fdb-44ec-8a40-52329ff7f5da",
+    "title": "How Democrats and Donald Trump can make it easier to build",
+    "link": "https://www.economist.com/leaders/2026/11/26/how-democrats-and-donald-trump-can-make-it-easier-to-build",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "Lawmakers should back a bill that slashes red tape",
+    "section": "leaders"
+  },
+  {
+    "guid": "569a650c-5c40-4b13-bc7f-1bf6a8eac79d",
+    "title": "Business",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/26/business",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "c3c6c51f-d9e6-417a-84cc-88a7ae17657d",
+    "title": "Cartoon: Donald Trump helps Jensen Huang retake the wheel at Nvidia",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/26/cartoon-donald-trump-helps-jensen-huang-retake-the-wheel-at-nvidia",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "A lighter take on the news",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "58f8c28c-092f-4919-bc61-cea62a4d84ef",
+    "title": "Politics",
+    "link": "https://www.economist.com/the-world-this-week/2026/11/26/politics",
+    "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
+    "description": "",
+    "section": "the-world-this-week"
+  },
+  {
+    "guid": "d71a916c-39a6-4c0b-9fa3-6fb2d0a7aa6b",
+    "title": "Left in the lurch: Spain’s general election",
+    "link": "https://www.economist.com/podcasts/2026/11/26/left-in-the-lurch-spains-general-election",
+    "pubdate": "Thu, 26 Nov 2026 11:23:50 +0000",
+    "description": "Also on the daily podcast: Mattel looks to become an entertainment giant and the next iteration of an Indian epic poem",
+    "section": "podcasts"
+  },
+  {
+    "guid": "30d871a5-a6b5-4dc6-8ac6-b712f63c2f01",
+    "title": "Nepal’s ex-rapper prime minister begs India for cash",
+    "link": "https://www.economist.com/asia/2026/11/26/nepals-ex-rapper-prime-minister-begs-india-for-cash",
+    "pubdate": "Thu, 26 Nov 2026 11:16:08 +0000",
+    "description": "Balendra Shah’s brash, youthful style may irritate Delhi",
+    "section": "asia"
+  },
+  {
+    "guid": "07494438-4340-4ccf-9409-fe2d2e2c7031",
+    "title": "Robots will have a staggering economic impact",
+    "link": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
+    "pubdate": "Thu, 26 Nov 2026 10:49:33 +0000",
+    "description": "Workable humanoids do not look far off",
+    "section": "leaders"
+  },
+  {
+    "guid": "2757e34e-1910-4a5e-84bb-088003838b6e",
+    "title": "Humanoid robots are coming—sooner than you think",
+    "link": "https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think",
+    "pubdate": "Thu, 26 Nov 2026 10:48:38 +0000",
+    "description": "Their first destination may be the home",
+    "section": "briefing"
+  },
+  {
+    "guid": "2e68136f-5318-4456-8196-52c69aa775a3",
+    "title": "Andy Burnham will not cut Britain’s benefits bill",
+    "link": "https://www.economist.com/britain/2026/11/26/andy-burnham-will-not-cut-britains-benefits-bill",
+    "pubdate": "Thu, 26 Nov 2026 09:55:31 +0000",
+    "description": "Even if his government succeeds at getting more youngsters into work",
+    "section": "britain"
+  },
+  {
+    "guid": "b958b52b-7f39-4d64-82ca-9ac8e137487c",
+    "title": "History’s warning lesson for Anthropic",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+    "pubdate": "Thu, 26 Nov 2026 09:49:07 +0000",
+    "description": "As tech stocks plunge, recall the fate of the East India Company",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "c950eca7-ed22-48f4-8438-6ec961b991ec",
+    "title": "The fall of China’s most trusted wealth manager",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+    "pubdate": "Thu, 26 Nov 2026 09:47:52 +0000",
+    "description": "A hard landing for CreditEase",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "35ce7d84-942d-41ce-9dac-df79a2919209",
+    "title": "Mexico’s export boom is real—and disappointing",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+    "pubdate": "Thu, 26 Nov 2026 09:45:41 +0000",
+    "description": "AI servers are no pickup trucks",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "7cababd6-ecfe-4269-8079-6c7c1a6fd67a",
+    "title": "How wine explains the world",
+    "link": "https://www.economist.com/podcasts/2026/11/26/how-wine-explains-the-world",
+    "pubdate": "Thu, 26 Nov 2026 09:34:55 +0000",
+    "description": "A handpicked article read aloud from the latest issue of The Economist",
+    "section": "podcasts"
+  },
+  {
+    "guid": "3c6fc1c3-4b95-404c-993e-f295d7f9f641",
+    "title": "Can America’s government afford “affordability”?",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+    "pubdate": "Wed, 25 Nov 2026 22:33:27 +0000",
+    "description": "Making things cheap is expensive",
+    "section": "finance-and-economics"
+  },
+  {
+    "guid": "72aa269a-a72f-4a68-9bc1-647eecfe2202",
+    "title": "Jensen Huang’s bail-out will not be the AI boom’s last",
+    "link": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
+    "pubdate": "Wed, 25 Nov 2026 21:09:28 +0000",
+    "description": "His return has done little to quell Wall Street’s terror",
+    "section": "business"
+  },
+  {
+    "guid": "0c192c47-e3f2-4d6a-97d7-a69052d9843f",
+    "title": "Tourists are starting to return to Syria",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/25/tourists-are-starting-to-return-to-syria",
+    "pubdate": "Wed, 25 Nov 2026 20:44:46 +0000",
+    "description": "The government risks putting them off",
+    "section": "middle-east-and-africa"
+  },
+  {
+    "guid": "f17f699f-38f1-41ce-9dc9-6b156c451e89",
+    "title": "Nuclear-arms control is on hold until China catches up",
+    "link": "https://www.economist.com/china/2026/11/25/nuclear-arms-control-is-on-hold-until-china-catches-up",
+    "pubdate": "Wed, 25 Nov 2026 19:48:17 +0000",
+    "description": "Donald Trump’s hopes of progress in Shenzhen were always delusional",
+    "section": "china"
+  },
+  {
+    "guid": "76d2f7f3-6982-43b1-959a-d20acf390103",
+    "title": "Do Americans have a right to own assault rifles?",
+    "link": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
+    "pubdate": "Wed, 25 Nov 2026 19:13:48 +0000",
+    "description": "The Supreme Court is poised to rule on state bans",
+    "section": "united-states"
+  },
+  {
+    "guid": "8342693b-21d3-43f0-933c-311ad454d509",
+    "title": "For most mothers, mental health improves after birth",
+    "link": "https://www.economist.com/science-and-technology/2026/11/25/for-most-mothers-mental-health-improves-after-birth",
+    "pubdate": "Wed, 25 Nov 2026 18:36:31 +0000",
+    "description": "Many are told to expect the worst",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "8a366b0a-5568-4c2c-b758-f58b97503dd1",
+    "title": "Why mathematicians must rely on machines to check new results",
+    "link": "https://www.economist.com/science-and-technology/2026/11/25/why-mathematicians-must-rely-on-machines-to-check-new-results",
+    "pubdate": "Wed, 25 Nov 2026 18:23:57 +0000",
+    "description": "Many AI-powered proofs are too big for humans to digest",
+    "section": "science-and-technology"
+  },
+  {
+    "guid": "ff395389-daa5-47f9-8f35-dda74fef6292",
+    "title": "Why Darwinism is misunderstood",
+    "link": "https://www.economist.com/podcasts/2026/11/25/why-darwinism-is-misunderstood",
+    "pubdate": "Wed, 25 Nov 2026 17:42:16 +0000",
+    "description": "Our podcast on science and technology. This week, biologist and author Rowan Hooper on the under-appreciated role of co-operation in evolution",
+    "section": "podcasts"
+  },
+  {
     "guid": "41124f8e-7ff6-4857-992a-80cbdd121549",
     "title": "Britain needs to cut its mental-health benefits bill",
     "link": "https://www.economist.com/leaders/2026/11/25/britain-needs-to-cut-its-mental-health-benefits-bill",
@@ -76,7 +476,7 @@
     "title": "Ten years after Colombia’s peace deal, violence is rising again",
     "link": "https://www.economist.com/the-americas/2026/11/24/ten-years-after-colombias-peace-deal-violence-is-rising-again",
     "pubdate": "Tue, 24 Nov 2026 18:27:00 +0000",
-    "description": "The accord ended six decades of war. Can peace still be assured?",
+    "description": "The accord ended six decades of conflict. Can peace still be assured?",
     "section": "the-americas"
   },
   {
@@ -204,7 +604,7 @@
     "title": "Jensen Huang returns. But Nvidia will never be the same",
     "link": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
     "pubdate": "Mon, 23 Nov 2026 16:30:30 +0000",
-    "description": "He now faces a hostile Congress, rattled employees and wary business partners",
+    "description": "Its rockstar boss faces numerous investigations and growing concerns about the chip giant’s outlook",
     "section": "business"
   },
   {
