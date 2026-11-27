@@ -1,5 +1,61 @@
 [
   {
+    "guid": "8c9fa950-c57e-4c5f-8528-00e30a971832",
+    "title": "The state of American conservatism",
+    "link": "https://www.economist.com/podcasts/2026/11/27/the-state-of-american-conservatism",
+    "pubdate": "Fri, 27 Nov 2026 15:42:54 +0000",
+    "description": "Our weekly podcast on America. This week, a conversation with conservative thinker Yuval Levin",
+    "section": "podcasts"
+  },
+  {
+    "guid": "ce5a7cda-e780-4a3b-8dd6-6eed1ae41833",
+    "title": "What to watch this week",
+    "link": "https://www.economist.com/culture/2026/11/27/what-to-watch-this-week",
+    "pubdate": "Fri, 27 Nov 2026 11:05:06 +0000",
+    "description": "Our list offers alluring protagonists, from stuntmen to satirists",
+    "section": "culture"
+  },
+  {
+    "guid": "acdc301a-b6a6-425a-b9f3-a45984d62f94",
+    "title": "The Economist is hiring a Senior Producer, Narrative Podcasts",
+    "link": "https://www.economist.com/britain/2026/11/27/the-economist-is-hiring-a-senior-producer-narrative-podcasts",
+    "pubdate": "Fri, 27 Nov 2026 10:48:55 +0000",
+    "description": "Join our podcasts team",
+    "section": "britain"
+  },
+  {
+    "guid": "96b2397c-94fe-42fe-ba2b-4bb441fbc69f",
+    "title": "Social-insecurity numbers: the money behind the manosphere",
+    "link": "https://www.economist.com/podcasts/2026/11/27/social-insecurity-numbers-the-money-behind-the-manosphere",
+    "pubdate": "Fri, 27 Nov 2026 10:46:33 +0000",
+    "description": "Also on the daily podcast: China goes mad for grassroots football and a tribute to a legendary fragrance maven",
+    "section": "podcasts"
+  },
+  {
+    "guid": "5c99f12c-4ff8-4d5b-9fce-bae4822965b4",
+    "title": "Can the world’s biggest snack firm survive the Ozempic revolution?",
+    "link": "https://www.economist.com/interactive/1843/2026/11/27/can-the-worlds-biggest-snack-firm-survive-the-ozempic-revolution",
+    "pubdate": "Fri, 27 Nov 2026 10:20:35 +0000",
+    "description": "Weight-loss drugs and health fads are changing how we eat. Mars is looking for new ways to satisfy our appetites",
+    "section": "interactive"
+  },
+  {
+    "guid": "c6898b5c-6a07-4ec6-8241-e8e1ffbcfde2",
+    "title": "Why museums are lending out precious artefacts",
+    "link": "https://www.economist.com/culture/2026/11/27/why-museums-are-lending-out-precious-artefacts",
+    "pubdate": "Fri, 27 Nov 2026 09:39:57 +0000",
+    "description": "Is loan diplomacy an alternative to restitution?",
+    "section": "culture"
+  },
+  {
+    "guid": "89108dcb-ee91-4480-8a6f-6016e015409a",
+    "title": "Jensen Huang’s China problem",
+    "link": "https://www.economist.com/podcasts/2026/11/26/jensen-huangs-china-problem",
+    "pubdate": "Thu, 26 Nov 2026 17:03:36 +0000",
+    "description": "Our podcast on markets, the economy and business. This week, smuggling, poaching and remote access",
+    "section": "podcasts"
+  },
+  {
     "guid": "86dc3514-5e13-4eff-825b-fa87ce220c86",
     "title": "Annette Green transformed Americans’ attitude to perfume",
     "link": "https://www.economist.com/obituary/2026/11/26/annette-green-transformed-americans-attitude-to-perfume",
@@ -233,10 +289,10 @@
   },
   {
     "guid": "77e227a8-1fdb-44ec-8a40-52329ff7f5da",
-    "title": "How Democrats and Donald Trump can make it easier to build",
-    "link": "https://www.economist.com/leaders/2026/11/26/how-democrats-and-donald-trump-can-make-it-easier-to-build",
+    "title": "America needs to slash red tape and build",
+    "link": "https://www.economist.com/leaders/2026/11/26/america-needs-to-slash-red-tape-and-build",
     "pubdate": "Thu, 26 Nov 2026 13:45:02 +0000",
-    "description": "Lawmakers should back a bill that slashes red tape",
+    "description": "What Democrats and Donald Trump must do",
     "section": "leaders"
   },
   {
@@ -273,8 +329,8 @@
   },
   {
     "guid": "30d871a5-a6b5-4dc6-8ac6-b712f63c2f01",
-    "title": "Nepal’s ex-rapper prime minister begs India for cash",
-    "link": "https://www.economist.com/asia/2026/11/26/nepals-ex-rapper-prime-minister-begs-india-for-cash",
+    "title": "Nepal’s ex-rapper prime minister asks India for cash",
+    "link": "https://www.economist.com/asia/2026/11/26/nepals-ex-rapper-prime-minister-asks-india-for-cash",
     "pubdate": "Thu, 26 Nov 2026 11:16:08 +0000",
     "description": "Balendra Shah’s brash, youthful style may irritate Delhi",
     "section": "asia"
