@@ -1,5 +1,45 @@
 [
   {
+    "guid": "277a843f-18f5-441b-8f52-2aa4b1d21f0f",
+    "title": "Plot Twist newsletter: What the year’s best books (and bestsellers) reveal",
+    "link": "https://www.economist.com/culture/2026/11/28/plot-twist-newsletter-what-the-years-best-books-and-bestsellers-reveal",
+    "pubdate": "Sat, 28 Nov 2026 11:54:49 +0000",
+    "description": "Alexandra Suich Bass, our culture editor, notes how hard it is to anticipate what will sell well",
+    "section": "culture"
+  },
+  {
+    "guid": "1f5746c5-ce8e-4e15-9ae2-25282de6f95c",
+    "title": "Checks and Balance newsletter: How GTA helped build the AI revolution",
+    "link": "https://www.economist.com/united-states/2026/11/28/checks-and-balance-newsletter-how-gta-helped-build-the-ai-revolution",
+    "pubdate": "Sat, 28 Nov 2026 11:14:32 +0000",
+    "description": "John Prideaux, our executive editor, on the unlikely origins of America’s technological supremacy",
+    "section": "united-states"
+  },
+  {
+    "guid": "39ea1374-c482-4901-9e9c-048c37681ced",
+    "title": "Baby, baby not?",
+    "link": "https://www.economist.com/podcasts/2026/11/28/baby-baby-not",
+    "pubdate": "Sat, 28 Nov 2026 09:12:40 +0000",
+    "description": "The people choosing to go childfree",
+    "section": "podcasts"
+  },
+  {
+    "guid": "dec1d7fc-fea7-49e2-b8c3-010a80bc46a1",
+    "title": "The War Room newsletter: The best armies in history",
+    "link": "https://www.economist.com/international/2026/11/27/the-war-room-newsletter-the-best-armies-in-history",
+    "pubdate": "Fri, 27 Nov 2026 18:05:16 +0000",
+    "description": "Richard Cockett, one of our senior editors, makes a short list of the best fighting forces in history",
+    "section": "international"
+  },
+  {
+    "guid": "f69fe160-6078-4052-b393-0892375ad21f",
+    "title": "How much cardio exercise is too much?",
+    "link": "https://www.economist.com/science-and-technology/2026/11/27/how-much-cardio-exercise-is-too-much",
+    "pubdate": "Fri, 27 Nov 2026 17:34:31 +0000",
+    "description": "Overdoing it can affect your heart, but doesn’t seem to kill you",
+    "section": "science-and-technology"
+  },
+  {
     "guid": "8c9fa950-c57e-4c5f-8528-00e30a971832",
     "title": "The state of American conservatism",
     "link": "https://www.economist.com/podcasts/2026/11/27/the-state-of-american-conservatism",
@@ -433,8 +473,8 @@
   },
   {
     "guid": "8342693b-21d3-43f0-933c-311ad454d509",
-    "title": "For most mothers, mental health improves after birth",
-    "link": "https://www.economist.com/science-and-technology/2026/11/25/for-most-mothers-mental-health-improves-after-birth",
+    "title": "Having a baby is less bad for mental health than many realise",
+    "link": "https://www.economist.com/science-and-technology/2026/11/25/having-a-baby-is-less-bad-for-mental-health-than-many-realise",
     "pubdate": "Wed, 25 Nov 2026 18:36:31 +0000",
     "description": "Many are told to expect the worst",
     "section": "science-and-technology"
